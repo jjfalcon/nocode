@@ -10,4 +10,5 @@
 
 ## Otros
 * [Calendy](https://calendly.com/es) ayuda a programar reuniones sin tener que enviar decenas de correos
+* [Adding Audio to Play on a Set of Google Slides](https://jakemiller.net/adding-audio-to-play-on-a-set-of-google-slides/)
 
