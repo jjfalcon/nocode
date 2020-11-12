@@ -36,6 +36,7 @@ Luego si hay tracción ya se irá automatizando...
 ### App
 * [glide](https://www.glideapps.com/) construye en 5min una app desde google sheets
 * [adalo](https://www.adalo.com/) construye tu app de forma más configurable y con mayores funcionalidades
+* [AppGyver](https://www.appgyver.com/) no-code platform, enabling you to build apps for all form factors, including mobile, desktop, browser, TV and others
 
 ### Datos
 * [GoogleSheets](https://docs.google.com/spreadsheets) tan simple y accesible como una hoja excel online
