@@ -1,6 +1,7 @@
 # nocode
 
 ## como validar ideas?
+
 1. Generar ideas, a partir de identificar puntos de dolor o fricción en situaciones existentes.
 
 2. Evaluar idea de forma rápida, a través de canvas y respondiendo preguntas claves:
@@ -13,7 +14,6 @@
 - si no tenemos éxito?
    - pivotar propuesta (producto, venta), o incluso cambiar la propuesta
    - abandonar si no hay opciones
-
 4. Como validar de forma simple y rápido, con Nocode:
 Landing: Card con AirTable fácil con integración news, pagos para captar leads, e incluso ventas de forma manual
 Luego si hay tracción ya se irá automatizando...
@@ -66,17 +66,17 @@ Luego si hay tracción ya se irá automatizando...
 ### App
 * [Comparativa](https://antoniosanchez.pro/blog/comparativa-de-herramientas-no-code-para-crear-apps-nativas/)
 * [Glide](https://www.glideapps.com/) construye en 5min una app desde google sheets
-** [Así es Glide](https://www.genbeta.com/herramientas/asi-glide-herramienta-para-crear-tu-propia-aplicacion-a-partir-hoja-calculo-google-cinco-minutos-gratis)
-** [Crea tu app desde cero con Glide](https://www.youtube.com/watch?v=x6cFBIatyTg&feature=youtu.be)
+  * [Así es Glide](https://www.genbeta.com/herramientas/asi-glide-herramienta-para-crear-tu-propia-aplicacion-a-partir-hoja-calculo-google-cinco-minutos-gratis)
+  * [Crea tu app desde cero con Glide](https://www.youtube.com/watch?v=x6cFBIatyTg&feature=youtu.be)
 * [AppSheet](https://www.appsheet.com/) create apps to transform your workplace
-** [How to Build an App with a QR and Barcode Scanner](https://www.youtube.com/watch?v=wOt2tsXmLbU&feature=youtu.be)
-** [Can you scan a barcode into a Google Sheet?](https://www.youtube.com/watch?v=XGS3ctyVbHA&feature=youtu.be)
+  * [How to Build an App with a QR and Barcode Scanner](https://www.youtube.com/watch?v=wOt2tsXmLbU&feature=youtu.be)
+  * [Can you scan a barcode into a Google Sheet?](https://www.youtube.com/watch?v=XGS3ctyVbHA&feature=youtu.be)
 * [Adalo](https://www.adalo.com/) construye tu app de forma más configurable y con mayores funcionalidades
-** [twitter](https://twitter.com/AdaloHQ/status/1250838868909346816) Interesante bolsa de freelances expertos en desarrollo y formaciona sobre plataforma.
+  * [twitter](https://twitter.com/AdaloHQ/status/1250838868909346816) Interesante bolsa de freelances expertos en desarrollo y formaciona sobre plataforma.
 * [AppGyver](https://www.appgyver.com/) no-code platform, enabling you to build apps for all form factors, including mobile, desktop, browser, TV and others. Parece que tiene notificaciones y QR Scan
-** [Workflow for couriers at sustainable delivery startup](https://blog.appgyver.com/creator-of-the-week-workflow-for-couriers-at-sustainable-delivery-startup-d4a3faeeccfc) incluye lector QR y notificaciones push
-** [Data privacy compliance, visualized and simplified](https://blog.appgyver.com/creator-of-the-week-data-privacy-compliance-visualized-and-simplified-with-harpocrates-b6e13fab006b)* [AppHive](https://apphive.io/es) Crea tu propia App gratis. Elige una plantilla, cambia arrastrando, y publica en iOS/Android. Incluye funciones como GPS, calendario, notificaciones, pagos y mucho más...
-** [Tutorial para crear app tipo Uber Eats o Rappi sin escribir código](https://www.youtube.com/watch?v=SD4H4jXcTTY&feature=youtu.be)
+  * [Workflow for couriers at sustainable delivery startup](https://blog.appgyver.com/creator-of-the-week-workflow-for-couriers-at-sustainable-delivery-startup-d4a3faeeccfc) incluye lector QR y notificaciones push
+  * [Data privacy compliance, visualized and simplified](https://blog.appgyver.com/creator-of-the-week-data-privacy-compliance-visualized-and-simplified-with-harpocrates-b6e13fab006b)* [AppHive](https://apphive.io/es) Crea tu propia App gratis. Elige una plantilla, cambia arrastrando, y publica en iOS/Android. Incluye funciones como GPS, calendario, notificaciones, pagos y mucho más...
+  * [Tutorial para crear app tipo Uber Eats o Rappi sin escribir código](https://www.youtube.com/watch?v=SD4H4jXcTTY&feature=youtu.be)
 * [Comparativa herramientas para crear apps](https://antoniosanchez.pro/blog/comparativa-de-herramientas-no-code-para-crear-apps-nativas/)
 
 ### Datos
@@ -90,7 +90,7 @@ Luego si hay tracción ya se irá automatizando...
 
 ### productividad
 * [Notion](https://www.notion.so/) All-in-one workspace. One tool for your whole team. Write, plan, and get organized.
-** [Crea tu propia página web con ayuda de Notion](https://hipertextual.com/2020/08/publicar-pagina-web-notion)
+  * [Crea tu propia página web con ayuda de Notion](https://hipertextual.com/2020/08/publicar-pagina-web-notion)
 * [coda](https://coda.io/) nuevo documentos online unificado
 * [trello](https://trello.com/es) gestion de tareas proyectos de forma visual y colaborativa
 * [Roam research](https://roamresearch.com/)
