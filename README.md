@@ -38,6 +38,7 @@ Luego si hay tracción ya se irá automatizando...
 * [How to Receive Push Notifications for Google Forms on your Mobile Phone](https://www.labnol.org/internet/google-forms-mobile-notifications/29203/)
 * [How to Send WhatsApp Messages from Google Sheets with JavaScript and Node.js](https://www.twilio.com/blog/send-whatsapp-messages-from-google-sheets-javascript-node-js)
 * [Free School Phone App template en Google Slides](https://slidesmania.com/free-school-phone-app-template-for-google-slides/)
+* [app delivery en glide](https://comunidad.essincodigo.com/t/app-de-delivery-de-los-videos-plantillas/184)
 
 ## principales herramientas recomendadas
 * [10 herramientas para montar un negocio](https://mail.google.com/mail/u/1/#inbox/FMfcgxwJXpWfLNnTnGhcPPWmCkWBMxGW) 
@@ -62,12 +63,15 @@ Luego si hay tracción ya se irá automatizando...
 ### Web
 * [sheet2side](https://sheet2site.com/) la opción más simple, flexible y rápida. 
 * [Webflow](https://webflow.com/) y [Bubble](https://bubble.io/) como opción más completa para desarrollo de webs a [typeform](https://www.typeform.com/) y [zapier](https://zapier.com/)
+* [Bubble](https://bubble.io/) Funcionalidades, extensiones
 
 ### App
 * [Comparativa](https://antoniosanchez.pro/blog/comparativa-de-herramientas-no-code-para-crear-apps-nativas/)
-* [Glide](https://www.glideapps.com/) construye en 5min una app desde google sheets
+* [Glide](https://www.glideapps.com/) construye en 5min una app PWA desde google sheets
   * [Así es Glide](https://www.genbeta.com/herramientas/asi-glide-herramienta-para-crear-tu-propia-aplicacion-a-partir-hoja-calculo-google-cinco-minutos-gratis)
   * [Crea tu app desde cero con Glide](https://www.youtube.com/watch?v=x6cFBIatyTg&feature=youtu.be)
+  * [Preguntas frecuentes al crear aplicaciones con Glideapp](https://www.youtube.com/watch?v=VWS0OLQ2r6w)
+* [Bubble](https://bubble.io/) para desarrollar apps en movil, ordenador tienes mucho mas control y extensiones
 * [AppSheet](https://www.appsheet.com/) create apps to transform your workplace
   * [How to Build an App with a QR and Barcode Scanner](https://www.youtube.com/watch?v=wOt2tsXmLbU&feature=youtu.be)
   * [Can you scan a barcode into a Google Sheet?](https://www.youtube.com/watch?v=XGS3ctyVbHA&feature=youtu.be)
