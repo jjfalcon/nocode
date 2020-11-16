@@ -38,7 +38,7 @@ Luego si hay tracción ya se irá automatizando...
 * [How to Receive Push Notifications for Google Forms on your Mobile Phone](https://www.labnol.org/internet/google-forms-mobile-notifications/29203/)
 * [How to Send WhatsApp Messages from Google Sheets with JavaScript and Node.js](https://www.twilio.com/blog/send-whatsapp-messages-from-google-sheets-javascript-node-js)
 * [Free School Phone App template en Google Slides](https://slidesmania.com/free-school-phone-app-template-for-google-slides/)
-* [app delivery en glide](https://comunidad.essincodigo.com/t/app-de-delivery-de-los-videos-plantillas/184)
+* [app delivery en glilde](https://www.youtube.com/channel/UCK5CiYuAvpYh9qpf_ujlufg) videos y [plantillas](https://comunidad.essincodigo.com/t/app-de-delivery-de-los-videos-plantillas/184)
 
 ## principales herramientas recomendadas
 * [10 herramientas para montar un negocio](https://mail.google.com/mail/u/1/#inbox/FMfcgxwJXpWfLNnTnGhcPPWmCkWBMxGW) 
@@ -119,6 +119,7 @@ Luego si hay tracción ya se irá automatizando...
 * [Makerpad.co](https://www.makerpad.co/) Nocode community. Learn from our best-in-class education. From side projects to business workflows, discover, clone and create projects or workflows alongside thousands of operators. 
 * [Nocodehackers](https://www.nocodehackers.es/) es la plataforma en español donde aprender sobre las herramientas sin código. Mediante proyectos reales, aprenderás todo lo que necesitas saber para poder llevar a cabo tus ideas y lanzarlas al mercado, o mejorar tu día a día.
 * [Startupping](https://startuping.unicornplatform.com/) The best way to launch and boost your startup. We provide you with the Network and the +1000 Tools directory for digital projects
+* [Canal Sin Codigo](https://www.youtube.com/channel/UCK5CiYuAvpYh9qpf_ujlufg)
 
 ## [AirTable](https://airtable.com/)
 * [Organiza todo lo que puedas imaginar con Airtable](https://enfoquenomada.com/airtable-base-datos/)
