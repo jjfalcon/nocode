@@ -94,7 +94,6 @@ Luego si hay tracción ya se irá automatizando...
 
 ### productividad
 * [Notion](https://www.notion.so/) All-in-one workspace. One tool for your whole team. Write, plan, and get organized.
-  * [Crea tu propia página web con ayuda de Notion](https://hipertextual.com/2020/08/publicar-pagina-web-notion)
 * [coda](https://coda.io/) nuevo documentos online unificado
 * [trello](https://trello.com/es) gestion de tareas proyectos de forma visual y colaborativa
 * [Roam research](https://roamresearch.com/)
@@ -138,6 +137,8 @@ Luego si hay tracción ya se irá automatizando...
 * [Links and backlinks](https://www.notion.so/Create-links-backlinks-cb3c406403c940b68af52de121e05474)
 * [Ejemplo portafolio](https://twitter.com/zenekezene/status/1306188657989222400?s=12]
 * [Ejemplo notion repositorio app nocode](https://sincodigo.io/tutorial/directorio-recursos-notion)
+* [Crea tu propia página web con ayuda de Notion](https://hipertextual.com/2020/08/publicar-pagina-web-notion)
+* [Tablas](https://www.notion.so/Tables-66a1cce8fb6f4f64b9996f4146c51fad#42151d1191b54607a557bb107d5c38f0)
 
 ## [Coda](coda.io)
 * [Doc gallery](https://coda.io/gallery)
