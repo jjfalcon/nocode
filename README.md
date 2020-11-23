@@ -158,7 +158,8 @@ Luego si hay tracción ya se irá automatizando...
 * [Node-red](https://nodered.org/) se ha convertido en el estándar open-source para la gestión y procesado de datos en tiempo real, logrando simplificar los procesos entre productores y consumidores de información.
 * [Blynk](https://blynk.io/) is a hardware-agnostic IoT platform with white-label mobile apps, private clouds, device management, data analytics, and machine learning.
 * [Mendix](https://www.mendix.com/) Make anything you can imagine, from enterprise-grade apps that help factories run smoothly to simple tools to save you time. Mendix is the application platform for everyone to make business better.
-* [DigitalOcean app platform[(https://www.digitalocean.com/blog/introducing-digitalocean-app-platform-reimagining-paas-to-make-it-simpler-for-you-to-build-deploy-and-scale-apps/)
+* [DigitalOcean app platform](https://www.digitalocean.com/blog/introducing-digitalocean-app-platform-reimagining-paas-to-make-it-simpler-for-you-to-build-deploy-and-scale-apps/)
+* [The 6 Best Customer Support Platforms for E-Commerce](https://community.nocodedevs.com/c/news-and-annoucements/the-6-best-customer-support-platforms-for-e-commerce)
 
 ## Informacion
 * [Bonilla lista no-code](https://mail.google.com/mail/u/0/#inbox/FMfcgxwGCkhtMKRPDphfdklCfrSwdWJC) es posible crear software para un uso profesional sin saber programar. Ha llegado el No-Code.
