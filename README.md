@@ -127,6 +127,10 @@ Luego si hay tracción ya se irá automatizando...
 * [Attachment commenting](https://support.airtable.com/hc/en-us/articles/360056114934) are similar to record comments except you can leave them on any attachment. This allows you to have separate conversations for each individual attachment in a record. For example, if you use Airtable for marketing planning, you can leave feedback directly on individual images or videos uploaded by your team.
 * [script settings](https://airtable.com/developers/scripting/api) is a new feature that makes it easier for users to customize pre-built scripts to their own bases. After you install a script with script settings, you can configure the script using an interactive UI—without needing to go in and edit the code of the script yourself.
 
+## [Bubble](https://bubble.io/)
+* [How To Build An Unsplash Clone With No Code](https://community.nocodedevs.com/c/news-and-annoucements/how-to-build-an-unsplash-clone-with-no-code)
+
+
 ## webflow
 * [Learn webflow in 45min](https://mail.google.com/mail/u/1/#inbox/FMfcgxwKjKqxZRFdmfMfxvHLsVHbzTDv?projector=1)
 
