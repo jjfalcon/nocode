@@ -167,3 +167,6 @@ Luego si hay tracción ya se irá automatizando...
 
 * [Google apuesta por el movimiento No Code con AppSheet, una plataforma para crear apps sin escribir ni una línea de código](https://www.genbeta.com/desarrollo/google-apuesta-movimiento-no-code-appsheet-plataforma-para-crear-apps-escribir-linea-codigo)
 * [Power Apps](https://www.genbeta.com/desarrollo/power-apps-plataforma-desarrollo-codigo-aplicaciones-microsoft-incorpora-funciones-realidad-mixta) la plataforma de desarrollo sin código de aplicaciones de Microsoft, incorpora funciones de realidad mixta
+
+## proyectos para desarrollar demos/conceptos
+* [X Progress](https://www.producthunt.com/posts/x-progress-4) helps you to track event’s progress, from the progress of the year, to all kinds of custom events.
