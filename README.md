@@ -149,6 +149,7 @@ Luego si hay tracción ya se irá automatizando...
 * [Tablas](https://www.notion.so/Tables-66a1cce8fb6f4f64b9996f4146c51fad#42151d1191b54607a557bb107d5c38f0)
 * [Timeline](https://www.notion.so/guides/timeline-view-unlocks-high-output-planning-for-your-team) is a new type of Notion database that’s way more than a Gantt chart. It gives you complete flexibility to scope projects, adjust their timelines, and customize your workflow.
 * [How to Build a Live Pricing Page on Notion](https://www.youtube.com/watch?v=Og8HtbcvmFc)
+* [Repositorios donde encontrarás plantillas gratuitas para Notion](https://hipertextual.com/2020/11/repositorios-plantillas-gratuitas-notion)
 
 ## [Coda](coda.io)
 * [Doc gallery](https://coda.io/gallery)
