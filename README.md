@@ -28,6 +28,7 @@ Luego si hay tracción ya se irá automatizando...
 * [Instagram clone](https://nocodery.com/course/build-an-instagram-clone-in-adalo-without-code) Build an Instagram clone in Adalo without code
 * [Ubber Eat clone](https://www.youtube.com/watch?v=SD4H4jXcTTY&feature=youtu.be) Tutorial para crear app tipo Uber Eats o Rappi sin escribir código
 * [How we have used No-Code tools to save 10k€/month](https://nerds.ontruck.com/how-we-have-used-no-code-tools-to-save-10k-month-b7999ce3b8ad)
+* [Speakeasy](https://community.nocodedevs.com/c/news-and-annoucements/bubble-app-of-the-day-speakeasy) [SpeakEasy](https://speakeasycommunity.com/) helps parents boost the speech and language development of their children, from birth-to-five. 
 
 ## ejemplos funcionalidades 
 * [Thoughts writing a Google App script](https://martinfowler.com/articles/202009-google-app-dir.html) Hosting a simple application on a Google spreadsheet is an appealing deployment platform for a range of simple tasks. It allows users to run code without having to install something on their machine, to enter data in a familiar environment, and support easy sharing with colleagues. It's not a platform I hear much discussion about, but it's one to keep in mind. In particular, for any task that would be a simple shell script, but your users aren't comfortable with console windows and text files.
