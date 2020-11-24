@@ -41,6 +41,7 @@ Luego si hay tracción ya se irá automatizando...
 * [How to Send WhatsApp Messages from Google Sheets with JavaScript and Node.js](https://www.twilio.com/blog/send-whatsapp-messages-from-google-sheets-javascript-node-js)
 * [Free School Phone App template en Google Slides](https://slidesmania.com/free-school-phone-app-template-for-google-slides/)
 * [app delivery en glilde](https://www.youtube.com/channel/UCK5CiYuAvpYh9qpf_ujlufg) videos y [plantillas](https://comunidad.essincodigo.com/t/app-de-delivery-de-los-videos-plantillas/184)
+* [apps para votar online](https://hipertextual.com/2020/11/apps-crear-encuestas-votar-online)
 
 ## principales herramientas recomendadas
 * [10 herramientas para montar un negocio](https://mail.google.com/mail/u/1/#inbox/FMfcgxwJXpWfLNnTnGhcPPWmCkWBMxGW) 
