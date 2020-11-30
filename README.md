@@ -186,4 +186,4 @@ Luego si hay tracción ya se irá automatizando...
 * [X Progress](https://www.producthunt.com/posts/x-progress-4) helps you to track event’s progress, from the progress of the year, to all kinds of custom events.
 * [apps para votar online](https://hipertextual.com/2020/11/apps-crear-encuestas-votar-online)
 * [Social Seras](https://www.ideable.net/social-seras-caso-exito-app-epilepsia/) app de control y seguimiento epilepsia
-* [QueCovid.es](https://twitter.com/irreductible/status/1325738011926081543?s=12)  permite consultar las restricciones del estado de alarma desde la [web app](QueCovid.es) y [API](https://documenter.getpostman.com/view/11845477/TVepATmT).
+* [QueCovid.es](https://twitter.com/irreductible/status/1325738011926081543?s=12)  permite consultar las restricciones del estado de alarma desde la [web app](QueCovid.es) y [API](https://api.quecovid.es/) con acceso a [documentacion](https://documenter.getpostman.com/view/11845477/TVepATmT).
