@@ -182,3 +182,4 @@ Luego si hay tracción ya se irá automatizando...
 ## proyectos para desarrollar demos/conceptos
 * [X Progress](https://www.producthunt.com/posts/x-progress-4) helps you to track event’s progress, from the progress of the year, to all kinds of custom events.
 * [apps para votar online](https://hipertextual.com/2020/11/apps-crear-encuestas-votar-online)
+* [Social Seras](https://www.ideable.net/social-seras-caso-exito-app-epilepsia/) app de control y seguimiento epilepsia
