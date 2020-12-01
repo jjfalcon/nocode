@@ -1,5 +1,9 @@
 # nocode
 
+Nocode es un conjunto de herramientas para desarrollar soluciones software sin conocimiento de software.
+Esta herramientas permiten realizar desarrollos rápidos, flexibles, por personas sin conocimientos específicos de software.
+La utilización de estas herramientas se está orientando a validar ideas de forma rápida (lean startup), desarollos internos [Nocode operations](https://community.nocodedevs.com/c/news-and-annoucements/what-is-no-code-operations), desarrollo de mvps, etc.
+
 ## como validar ideas?
 
 1. Generar ideas, a partir de identificar puntos de dolor o fricción en situaciones existentes.
@@ -117,6 +121,7 @@ Luego si hay tracción ya se irá automatizando...
 * [Count](https://count.co/) The fastest way to combine, organise and visualise your data. Count is the all-in-one data platform for you and your team
 
 ## comunidad, formacion
+* [NocodeDevs](https://community.nocodedevs.com/) comunidad nocode desarrollada en Notion
 * [Nucode.co](https://www.nucode.co/) Nocode community. Join 3660+ makers & experts learning & building products with no-code tools.
 * [Makerpad.co](https://www.makerpad.co/) Nocode community. Learn from our best-in-class education. From side projects to business workflows, discover, clone and create projects or workflows alongside thousands of operators. 
 * [Nocodehackers](https://www.nocodehackers.es/) es la plataforma en español donde aprender sobre las herramientas sin código. Mediante proyectos reales, aprenderás todo lo que necesitas saber para poder llevar a cabo tus ideas y lanzarlas al mercado, o mejorar tu día a día.
@@ -134,6 +139,10 @@ Luego si hay tracción ya se irá automatizando...
 * [How To Build An Unsplash Clone With No Code](https://community.nocodedevs.com/c/news-and-annoucements/how-to-build-an-unsplash-clone-with-no-code)
 * [Showcase](https://bubble.io/showcase) Discover what you can build with Bubble.
 * [Recomendacion para desarrollo apps](https://twitter.com/pabloheredia24/status/1333338642752921601) y [newsletter](https://bubblemakers.substack.com/p/coming-soon)
+
+## [Glide]()
+* [Tutorial Account Tracker in @Glide](https://www.youtube.com/watch?v=KAkn6Q136sM&feature=emb_logo) dentro del canal [No Code Apps with Darren](https://www.youtube.com/c/AppswithDarren/videos)
+
 
 ## webflow
 * [Learn webflow in 45min](https://mail.google.com/mail/u/1/#inbox/FMfcgxwKjKqxZRFdmfMfxvHLsVHbzTDv?projector=1)
