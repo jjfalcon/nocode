@@ -172,6 +172,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 * [NoCode MBA](https://www.nocode.mba/) Learn to build real apps and websites. All without code.
 
 ## Plataformas
+* [Retool](https://retool.com/) Get started building your internal tool in minutes
 * [Node-red](https://nodered.org/) se ha convertido en el estándar open-source para la gestión y procesado de datos en tiempo real, logrando simplificar los procesos entre productores y consumidores de información.
 * [Blynk](https://blynk.io/) is a hardware-agnostic IoT platform with white-label mobile apps, private clouds, device management, data analytics, and machine learning.
 * [Mendix](https://www.mendix.com/) Make anything you can imagine, from enterprise-grade apps that help factories run smoothly to simple tools to save you time. Mendix is the application platform for everyone to make business better.
