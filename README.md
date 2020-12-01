@@ -5,22 +5,19 @@ Esta herramientas permiten realizar desarrollos rápidos, flexibles, por persona
 La utilización de estas herramientas se está orientando a validar ideas de forma rápida (lean startup), desarollos internos [Nocode operations](https://community.nocodedevs.com/c/news-and-annoucements/what-is-no-code-operations), desarrollo de mvps, etc.
 
 ## como validar ideas?
-
-1. Generar ideas, a partir de identificar puntos de dolor o fricción en situaciones existentes.
-
-2. Evaluar idea de forma rápida, a través de canvas y respondiendo preguntas claves:
-- como monetizar, para hacer sostenible?
-- tiene barrera de entrada?
-- eres la persona adecuada para llevarlo a cabo?
-
-3. Validar hipótesis propuesta anterior en mercado, lanzando MVP simple y rápido (es posible validar en 24h?)
-- si tenemos éxito. A mejorar
-- si no tenemos éxito?
-   - pivotar propuesta (producto, venta), o incluso cambiar la propuesta
-   - abandonar si no hay opciones
-4. Como validar de forma simple y rápido, con Nocode:
-Landing: Card con AirTable fácil con integración news, pagos para captar leads, e incluso ventas de forma manual
-Luego si hay tracción ya se irá automatizando...
+* Generar ideas, a partir de identificar puntos de dolor o fricción en situaciones existentes.
+* Evaluar idea de forma rápida, a través de canvas y respondiendo preguntas claves:
+  * como monetizar, para hacer sostenible?
+  * tiene barrera de entrada?
+  * eres la persona adecuada para llevarlo a cabo?
+* Validar hipótesis propuesta anterior en mercado, lanzando MVP simple y rápido (es posible validar en 24h?)
+  * si tenemos éxito. A mejorar
+  * si no tenemos éxito?
+    * pivotar propuesta (producto, venta), o incluso cambiar la propuesta
+    * abandonar si no hay opciones
+* Como validar de forma simple y rápido, con Nocode:
+  * Landing: Card con AirTable fácil con integración news, pagos para captar leads, e incluso ventas de forma manual
+  * Luego si hay tracción ya se irá automatizando...
 
 ## ejemplos startups
 * [Altaguardia](https://www.minimum.run/posts/alta-guardia-nocode-for-minimum-run) Como crear una start-up de alquiler de alarmas usando tecnologías nocode
@@ -45,7 +42,15 @@ Luego si hay tracción ya se irá automatizando...
 * [How to Receive Push Notifications for Google Forms on your Mobile Phone](https://www.labnol.org/internet/google-forms-mobile-notifications/29203/)
 * [How to Send WhatsApp Messages from Google Sheets with JavaScript and Node.js](https://www.twilio.com/blog/send-whatsapp-messages-from-google-sheets-javascript-node-js)
 * [Free School Phone App template en Google Slides](https://slidesmania.com/free-school-phone-app-template-for-google-slides/)
-* [app delivery en glilde](https://www.youtube.com/channel/UCK5CiYuAvpYh9qpf_ujlufg) videos y [plantillas](https://comunidad.essincodigo.com/t/app-de-delivery-de-los-videos-plantillas/184)
+* [app delivery en glide](https://www.youtube.com/channel/UCK5CiYuAvpYh9qpf_ujlufg) videos y [plantillas](https://comunidad.essincodigo.com/t/app-de-delivery-de-los-videos-plantillas/184)
+
+## ejemplos a desarrollar...
+* [X Progress](https://www.producthunt.com/posts/x-progress-4) helps you to track event’s progress, from the progress of the year, to all kinds of custom events.
+* [apps para votar online](https://hipertextual.com/2020/11/apps-crear-encuestas-votar-online)
+* [Social Seras](https://www.ideable.net/social-seras-caso-exito-app-epilepsia/) app de control y seguimiento epilepsia
+* [QueCovid.es](https://twitter.com/irreductible/status/1325738011926081543?s=12)  permite consultar las restricciones del estado de alarma desde la [web app](QueCovid.es) y [API](https://api.quecovid.es/) con acceso a [documentacion](https://documenter.getpostman.com/view/11845477/TVepATmT).
+* [Newsletter OS](https://newsletteros.com/) Master the art of creating & running a newsletter. Curate, write, grow and monetize your newsletter with this comprehensive system. A Notion dashboard by @janelSGM
+* [Newsletter Danny Saltaren](https://saltaren.substack.com/) y creador [Agencia Digital Minimun](https://es.minimum.run/)
 
 ## principales herramientas recomendadas
 * [10 herramientas para montar un negocio](https://mail.google.com/mail/u/1/#inbox/FMfcgxwJXpWfLNnTnGhcPPWmCkWBMxGW) 
@@ -69,31 +74,46 @@ Luego si hay tracción ya se irá automatizando...
 
 ### Web
 * [sheet2side](https://sheet2site.com/) la opción más simple, flexible y rápida. 
-* [Webflow](https://webflow.com/) y [Bubble](https://bubble.io/) como opción más completa para desarrollo de webs a [typeform](https://www.typeform.com/) y [zapier](https://zapier.com/)
-* [Bubble](https://bubble.io/) Funcionalidades, extensiones
+* [Webflow](https://webflow.com/) opcion completa y personalizable
+  * [Learn webflow in 45min](https://mail.google.com/mail/u/1/#inbox/FMfcgxwKjKqxZRFdmfMfxvHLsVHbzTDv?projector=1)
+  * [Multi-Vendor Digital Marketplace. Everything $5 and below] (https://twitter.com/nocodedevs/status/1325869800254476288) built on @webflow. 
+* [Bubble](https://bubble.io/) Muy completa con muchas funcionalidades, extensiones, etc para web y app
+* [typeform](https://www.typeform.com/)
 
 ### App
-* [Comparativa](https://antoniosanchez.pro/blog/comparativa-de-herramientas-no-code-para-crear-apps-nativas/)
-* [Glide](https://www.glideapps.com/) construye en 5min una app PWA desde google sheets
-  * [Así es Glide](https://www.genbeta.com/herramientas/asi-glide-herramienta-para-crear-tu-propia-aplicacion-a-partir-hoja-calculo-google-cinco-minutos-gratis)
-  * [Crea tu app desde cero con Glide](https://www.youtube.com/watch?v=x6cFBIatyTg&feature=youtu.be)
-  * [Preguntas frecuentes al crear aplicaciones con Glideapp](https://www.youtube.com/watch?v=VWS0OLQ2r6w)
-* [Bubble](https://bubble.io/) para desarrollar apps en movil, ordenador tienes mucho mas control y extensiones
-* [AppSheet](https://www.appsheet.com/) create apps to transform your workplace
-  * [How to Build an App with a QR and Barcode Scanner](https://www.youtube.com/watch?v=wOt2tsXmLbU&feature=youtu.be)
-  * [Can you scan a barcode into a Google Sheet?](https://www.youtube.com/watch?v=XGS3ctyVbHA&feature=youtu.be)
+* [Comparativa herramientas para crear apps](https://antoniosanchez.pro/blog/comparativa-de-herramientas-no-code-para-crear-apps-nativas/)
+
 * [Adalo](https://www.adalo.com/) construye tu app de forma más configurable y con mayores funcionalidades
   * [twitter](https://twitter.com/AdaloHQ/status/1250838868909346816) Interesante bolsa de freelances expertos en desarrollo y formaciona sobre plataforma.
   * [APIs Adalo y empoderamiento](https://saltaren.substack.com/p/05-apis-adalo-y-empoderamiento)
+
+* [AppSheet](https://www.appsheet.com/) create apps to transform your workplace
+  * [How to Build an App with a QR and Barcode Scanner](https://www.youtube.com/watch?v=wOt2tsXmLbU&feature=youtu.be)
+  * [Can you scan a barcode into a Google Sheet?](https://www.youtube.com/watch?v=XGS3ctyVbHA&feature=youtu.be)
+
 * [AppGyver](https://www.appgyver.com/) no-code platform, enabling you to build apps for all form factors, including mobile, desktop, browser, TV and others. Parece que tiene notificaciones y QR Scan
   * [Workflow for couriers at sustainable delivery startup](https://blog.appgyver.com/creator-of-the-week-workflow-for-couriers-at-sustainable-delivery-startup-d4a3faeeccfc) incluye lector QR y notificaciones push
   * [Data privacy compliance, visualized and simplified](https://blog.appgyver.com/creator-of-the-week-data-privacy-compliance-visualized-and-simplified-with-harpocrates-b6e13fab006b)* [AppHive](https://apphive.io/es) Crea tu propia App gratis. Elige una plantilla, cambia arrastrando, y publica en iOS/Android. Incluye funciones como GPS, calendario, notificaciones, pagos y mucho más...
   * [Tutorial para crear app tipo Uber Eats o Rappi sin escribir código](https://www.youtube.com/watch?v=SD4H4jXcTTY&feature=youtu.be)
-* [Comparativa herramientas para crear apps](https://antoniosanchez.pro/blog/comparativa-de-herramientas-no-code-para-crear-apps-nativas/)
+
+* [Bubble](https://bubble.io/) para desarrollar apps en movil, ordenador tienes mucho mas control y extensiones
+  * [How To Build An Unsplash Clone With No Code](https://community.nocodedevs.com/c/news-and-annoucements/how-to-build-an-unsplash-clone-with-no-code)
+  * [Showcase](https://bubble.io/showcase) Discover what you can build with Bubble.
+  * [Recomendacion para desarrollo apps](https://twitter.com/pabloheredia24/status/1333338642752921601) y [newsletter](https://bubblemakers.substack.com/p/coming-soon)
+
+* [Glide](https://www.glideapps.com/) construye en 5min una app PWA desde google sheets
+  * [Así es Glide](https://www.genbeta.com/herramientas/asi-glide-herramienta-para-crear-tu-propia-aplicacion-a-partir-hoja-calculo-google-cinco-minutos-gratis)
+  * [Crea tu app desde cero con Glide](https://www.youtube.com/watch?v=x6cFBIatyTg&feature=youtu.be)
+  * [Preguntas frecuentes al crear aplicaciones con Glideapp](https://www.youtube.com/watch?v=VWS0OLQ2r6w)
+  * [Tutorial Account Tracker in @Glide](https://www.youtube.com/watch?v=KAkn6Q136sM&feature=emb_logo) dentro del canal [No Code Apps with Darren](https://www.youtube.com/c/AppswithDarren/videos)
 
 ### Datos
 * [GoogleSheets](https://docs.google.com/spreadsheets) tan simple y accesible como una hoja excel online
 * [AirTable](https://airtable.com/) excel online inteligente
+  * [Organiza todo lo que puedas imaginar con Airtable](https://enfoquenomada.com/airtable-base-datos/)
+  * [Excel importer](https://support.airtable.com/hc/en-us/articles/360057346473) allows you to import an Excel file as a new base or add new table(s) to an existing base. With this feature, you can import all worksheets from an Excel workbook into Airtable base by uploading its .xls or .xlsx file. Note that at this time there is a file size limit of 5MB on Excel file imports.
+  * [Attachment commenting](https://support.airtable.com/hc/en-us/articles/360056114934) are similar to record comments except you can leave them on any attachment. This allows you to have separate conversations for each individual attachment in a record. For example, if you use Airtable for marketing planning, you can leave feedback directly on individual images or videos uploaded by your team.
+  * [script settings](https://airtable.com/developers/scripting/api) is a new feature that makes it easier for users to customize pre-built scripts to their own bases. After you install a script with script settings, you can configure the script using an interactive UI—without needing to go in and edit the code of the script yourself.
 
 ### Integracion
 * [zapier](https://zapier.com/) es el pegamento para conectar apps y automatizar flujos de trabajo
@@ -102,7 +122,28 @@ Luego si hay tracción ya se irá automatizando...
 
 ### productividad
 * [Notion](https://www.notion.so/) All-in-one workspace. One tool for your whole team. Write, plan, and get organized.
-* [coda](https://coda.io/) nuevo documentos online unificado
+  * Go to http://notion.so/guides to find tutorials, videos and inspiration
+  * [Links and backlinks](https://www.notion.so/Create-links-backlinks-cb3c406403c940b68af52de121e05474)
+  * [Ejemplo portafolio](https://twitter.com/zenekezene/status/1306188657989222400?s=12]
+  * [Ejemplo notion repositorio app nocode](https://sincodigo.io/tutorial/directorio-recursos-notion)
+  * [Crea tu propia página web con ayuda de Notion](https://hipertextual.com/2020/08/publicar-pagina-web-notion)
+  * [Tablas](https://www.notion.so/Tables-66a1cce8fb6f4f64b9996f4146c51fad#42151d1191b54607a557bb107d5c38f0)
+  * [Timeline](https://www.notion.so/guides/timeline-view-unlocks-high-output-planning-for-your-team) is a new type of Notion database that’s way more than a Gantt chart. It gives you complete flexibility to scope projects, adjust their timelines, and customize your workflow.
+  * [How to Build a Live Pricing Page on Notion](https://www.youtube.com/watch?v=Og8HtbcvmFc)
+  * [Repositorios donde encontrarás plantillas gratuitas para Notion](https://hipertextual.com/2020/11/repositorios-plantillas-gratuitas-notion)
+  * [Newsletter OS](https://newsletteros.com/) curate, write, grow and monetize your newsletter with this comprehensive system build by Notion and Carrd
+* [coda](https://coda.io/) nuevos documentos online unificado, al estilo de Notion pero mas completo y menos extendido
+  * [Doc gallery](https://coda.io/gallery)
+  * [Book and reading tracking](https://coda.io/@rachelmanwill/book-reading-tracker-by-book-riot)
+  * [Home IoT](https://coda.io/@matthew-tebbs/home-iot)
+  * [Figma Product Roadmap](https://coda.io/@yuhki/figma-product-roadmap)
+  * [Save a Page as PDF](https://community.coda.io/t/launched-save-a-page-as-pdf/18045)
+  * [Integrate Coda + Slack to unlock new features](https://help.coda.io/en/articles/4467209-adding-coda-bot-to-slack)
+  * [Import coda doc from notion](https://coda.io/@ben-parker/the-notion-users-guide-to-coda/using-the-importer-2)
+  * [The Sales Team Starter Kit](https://coda.io/@coda/the-sales-team-starter-kit) Our guide to building success-driven docs that scale with your team.
+  * [How Spotify Design increases transparency with a tracking doc](https://coda.io/@kamdyn-moore/spotify-designs-program-tracker)
+  * [The Notion User's Guide to Coda](https://coda.io/@ben-parker/the-notion-users-guide-to-coda)
+  * [Uber App Redesign Project Doc](https://coda.io/@yixin/ubers-app-redesign-project-doc)
 * [trello](https://trello.com/es) gestion de tareas proyectos de forma visual y colaborativa
 * [Roam research](https://roamresearch.com/)
 * [comparativa Notion, Coda, Roam](https://www.reddit.com/r/Notion/comments/eyos06/notion_vs_roam_research/)
@@ -130,53 +171,6 @@ Luego si hay tracción ya se irá automatizando...
 * [Canal Sin Codigo](https://www.youtube.com/channel/UCK5CiYuAvpYh9qpf_ujlufg)
 * [NoCode MBA](https://www.nocode.mba/) Learn to build real apps and websites. All without code.
 
-## [AirTable](https://airtable.com/)
-* [Organiza todo lo que puedas imaginar con Airtable](https://enfoquenomada.com/airtable-base-datos/)
-* [Excel importer](https://support.airtable.com/hc/en-us/articles/360057346473) allows you to import an Excel file as a new base or add new table(s) to an existing base. With this feature, you can import all worksheets from an Excel workbook into Airtable base by uploading its .xls or .xlsx file. Note that at this time there is a file size limit of 5MB on Excel file imports.
-* [Attachment commenting](https://support.airtable.com/hc/en-us/articles/360056114934) are similar to record comments except you can leave them on any attachment. This allows you to have separate conversations for each individual attachment in a record. For example, if you use Airtable for marketing planning, you can leave feedback directly on individual images or videos uploaded by your team.
-* [script settings](https://airtable.com/developers/scripting/api) is a new feature that makes it easier for users to customize pre-built scripts to their own bases. After you install a script with script settings, you can configure the script using an interactive UI—without needing to go in and edit the code of the script yourself.
-
-## [Bubble](https://bubble.io/)
-* [How To Build An Unsplash Clone With No Code](https://community.nocodedevs.com/c/news-and-annoucements/how-to-build-an-unsplash-clone-with-no-code)
-* [Showcase](https://bubble.io/showcase) Discover what you can build with Bubble.
-* [Recomendacion para desarrollo apps](https://twitter.com/pabloheredia24/status/1333338642752921601) y [newsletter](https://bubblemakers.substack.com/p/coming-soon)
-
-## [Glide]()
-* [Tutorial Account Tracker in @Glide](https://www.youtube.com/watch?v=KAkn6Q136sM&feature=emb_logo) dentro del canal [No Code Apps with Darren](https://www.youtube.com/c/AppswithDarren/videos)
-
-
-## webflow
-* [Learn webflow in 45min](https://mail.google.com/mail/u/1/#inbox/FMfcgxwKjKqxZRFdmfMfxvHLsVHbzTDv?projector=1)
-* [Multi-Vendor Digital Marketplace. Everything $5 and below] (https://twitter.com/nocodedevs/status/1325869800254476288) built on @webflow. 
-
-## [Notion](notion.so)
-* Go to http://notion.so/guides to find:
-🧱 Tutorials for engineers, designers, PMs & more
-🧱 Bite sized videos
-🧱 Inspiration for what to build next!
-* [Links and backlinks](https://www.notion.so/Create-links-backlinks-cb3c406403c940b68af52de121e05474)
-* [Ejemplo portafolio](https://twitter.com/zenekezene/status/1306188657989222400?s=12]
-* [Ejemplo notion repositorio app nocode](https://sincodigo.io/tutorial/directorio-recursos-notion)
-* [Crea tu propia página web con ayuda de Notion](https://hipertextual.com/2020/08/publicar-pagina-web-notion)
-* [Tablas](https://www.notion.so/Tables-66a1cce8fb6f4f64b9996f4146c51fad#42151d1191b54607a557bb107d5c38f0)
-* [Timeline](https://www.notion.so/guides/timeline-view-unlocks-high-output-planning-for-your-team) is a new type of Notion database that’s way more than a Gantt chart. It gives you complete flexibility to scope projects, adjust their timelines, and customize your workflow.
-* [How to Build a Live Pricing Page on Notion](https://www.youtube.com/watch?v=Og8HtbcvmFc)
-* [Repositorios donde encontrarás plantillas gratuitas para Notion](https://hipertextual.com/2020/11/repositorios-plantillas-gratuitas-notion)
-* [Newsletter OS](https://newsletteros.com/) curate, write, grow and monetize your newsletter with this comprehensive system build by Notion and Carrd
-
-## [Coda](coda.io)
-* [Doc gallery](https://coda.io/gallery)
-* [Book and reading tracking](https://coda.io/@rachelmanwill/book-reading-tracker-by-book-riot)
-* [Home IoT](https://coda.io/@matthew-tebbs/home-iot)
-* [Figma Product Roadmap](https://coda.io/@yuhki/figma-product-roadmap)
-* [Save a Page as PDF](https://community.coda.io/t/launched-save-a-page-as-pdf/18045)
-* [Integrate Coda + Slack to unlock new features](https://help.coda.io/en/articles/4467209-adding-coda-bot-to-slack)
-* [Import coda doc from notion](https://coda.io/@ben-parker/the-notion-users-guide-to-coda/using-the-importer-2)
-* [The Sales Team Starter Kit](https://coda.io/@coda/the-sales-team-starter-kit) Our guide to building success-driven docs that scale with your team.
-* [How Spotify Design increases transparency with a tracking doc](https://coda.io/@kamdyn-moore/spotify-designs-program-tracker)
-* [The Notion User's Guide to Coda](https://coda.io/@ben-parker/the-notion-users-guide-to-coda)
-* [Uber App Redesign Project Doc](https://coda.io/@yixin/ubers-app-redesign-project-doc)
-
 ## Plataformas
 * [Node-red](https://nodered.org/) se ha convertido en el estándar open-source para la gestión y procesado de datos en tiempo real, logrando simplificar los procesos entre productores y consumidores de información.
 * [Blynk](https://blynk.io/) is a hardware-agnostic IoT platform with white-label mobile apps, private clouds, device management, data analytics, and machine learning.
@@ -192,10 +186,6 @@ Luego si hay tracción ya se irá automatizando...
 * [Google apuesta por el movimiento No Code con AppSheet, una plataforma para crear apps sin escribir ni una línea de código](https://www.genbeta.com/desarrollo/google-apuesta-movimiento-no-code-appsheet-plataforma-para-crear-apps-escribir-linea-codigo)
 * [Power Apps](https://www.genbeta.com/desarrollo/power-apps-plataforma-desarrollo-codigo-aplicaciones-microsoft-incorpora-funciones-realidad-mixta) la plataforma de desarrollo sin código de aplicaciones de Microsoft, incorpora funciones de realidad mixta
 
-## proyectos para desarrollar demos/conceptos
-* [X Progress](https://www.producthunt.com/posts/x-progress-4) helps you to track event’s progress, from the progress of the year, to all kinds of custom events.
-* [apps para votar online](https://hipertextual.com/2020/11/apps-crear-encuestas-votar-online)
-* [Social Seras](https://www.ideable.net/social-seras-caso-exito-app-epilepsia/) app de control y seguimiento epilepsia
-* [QueCovid.es](https://twitter.com/irreductible/status/1325738011926081543?s=12)  permite consultar las restricciones del estado de alarma desde la [web app](QueCovid.es) y [API](https://api.quecovid.es/) con acceso a [documentacion](https://documenter.getpostman.com/view/11845477/TVepATmT).
-* [Newsletter OS](https://newsletteros.com/) Master the art of creating & running a newsletter. Curate, write, grow and monetize your newsletter with this comprehensive system. A Notion dashboard by @janelSGM
-* [Newsletter Danny Saltaren](https://saltaren.substack.com/)
+## Colaboradores
+* [Imanol Teran](https://imanolteran.com/)
+* [Agencia Digital Minimun](https://es.minimum.run/)
