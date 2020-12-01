@@ -84,6 +84,7 @@ Luego si hay tracción ya se irá automatizando...
   * [Can you scan a barcode into a Google Sheet?](https://www.youtube.com/watch?v=XGS3ctyVbHA&feature=youtu.be)
 * [Adalo](https://www.adalo.com/) construye tu app de forma más configurable y con mayores funcionalidades
   * [twitter](https://twitter.com/AdaloHQ/status/1250838868909346816) Interesante bolsa de freelances expertos en desarrollo y formaciona sobre plataforma.
+  * [APIs Adalo y empoderamiento](https://saltaren.substack.com/p/05-apis-adalo-y-empoderamiento)
 * [AppGyver](https://www.appgyver.com/) no-code platform, enabling you to build apps for all form factors, including mobile, desktop, browser, TV and others. Parece que tiene notificaciones y QR Scan
   * [Workflow for couriers at sustainable delivery startup](https://blog.appgyver.com/creator-of-the-week-workflow-for-couriers-at-sustainable-delivery-startup-d4a3faeeccfc) incluye lector QR y notificaciones push
   * [Data privacy compliance, visualized and simplified](https://blog.appgyver.com/creator-of-the-week-data-privacy-compliance-visualized-and-simplified-with-harpocrates-b6e13fab006b)* [AppHive](https://apphive.io/es) Crea tu propia App gratis. Elige una plantilla, cambia arrastrando, y publica en iOS/Android. Incluye funciones como GPS, calendario, notificaciones, pagos y mucho más...
@@ -197,3 +198,4 @@ Luego si hay tracción ya se irá automatizando...
 * [Social Seras](https://www.ideable.net/social-seras-caso-exito-app-epilepsia/) app de control y seguimiento epilepsia
 * [QueCovid.es](https://twitter.com/irreductible/status/1325738011926081543?s=12)  permite consultar las restricciones del estado de alarma desde la [web app](QueCovid.es) y [API](https://api.quecovid.es/) con acceso a [documentacion](https://documenter.getpostman.com/view/11845477/TVepATmT).
 * [Newsletter OS](https://newsletteros.com/) Master the art of creating & running a newsletter. Curate, write, grow and monetize your newsletter with this comprehensive system. A Notion dashboard by @janelSGM
+* [Newsletter Danny Saltaren](https://saltaren.substack.com/)
