@@ -67,6 +67,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * Whereby para las reuniones de equipo y de comunidad (afterwork, mesas redondas...).
   * Siteground para hosting
   * FacturaDirecta para las facturas
+* [60 herramientas](https://twitter.com/victorianoi/status/1335204145826045952) usadas en @graphext con coste y clasificadas por categorías y [recopiladas en notion](https://notion.so/03678cf5a7d542bbaad6bae90c3a492d?v=51da8a7da36340b58e94f1b8ffc8d919)
 
 ### Landing Page
 * [Carrd](https://carrd.co/) permite construir una landing de forma simple y rapida
