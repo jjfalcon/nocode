@@ -103,13 +103,15 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * [Showcase](https://bubble.io/showcase) Discover what you can build with Bubble.
   * [Recomendacion para desarrollo apps](https://twitter.com/pabloheredia24/status/1333338642752921601) y [newsletter](https://bubblemakers.substack.com/p/coming-soon)
   * [Investing in Bubble startups](https://bubble.io/investordescription.pdf) If you find yourself in a position where you are trying to raise capital, Bubble may be a topic of conversation with investors since it is (still!) a fairly new way to build web apps. To help you in these conversations, we put together this document that addresses the main questions we hear investors asking.
+  * [Plantillas](https://bubble.io/templates)
+  * [EasyCode](https://ezcode.co/)
 
 * [Glide](https://www.glideapps.com/) construye en 5min una app PWA desde google sheets
   * [Así es Glide](https://www.genbeta.com/herramientas/asi-glide-herramienta-para-crear-tu-propia-aplicacion-a-partir-hoja-calculo-google-cinco-minutos-gratis)
   * [Crea tu app desde cero con Glide](https://www.youtube.com/watch?v=x6cFBIatyTg&feature=youtu.be)
   * [Preguntas frecuentes al crear aplicaciones con Glideapp](https://www.youtube.com/watch?v=VWS0OLQ2r6w)
-  * [Tutorial Account Tracker in @Glide](https://www.youtube.com/watch?v=KAkn6Q136sM&feature=emb_logo) dentro del canal [No Code Apps with Darren](https://www.youtube.com/c/AppswithDarren/videos)
-
+  * [Tutorial Account Tracker in @Glide](https://www.youtube.com/watch?v=KAkn6Q136sM&feature=emb_logo) dentro del canal [No Code Apps with Darren](https://www.youtube.com/c/AppswithDarren/videos
+ 
 ### Datos
 * [GoogleSheets](https://docs.google.com/spreadsheets) tan simple y accesible como una hoja excel online
 * [AirTable](https://airtable.com/) excel online inteligente
@@ -194,3 +196,4 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 ## Colaboradores
 * [Imanol Teran](https://imanolteran.com/)
 * [Agencia Digital Minimun](https://es.minimum.run/)
+* [EasyCode](https://ezcode.co/) MVP con Bubble
