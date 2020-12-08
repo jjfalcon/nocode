@@ -32,7 +32,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 * [Speakeasy](https://community.nocodedevs.com/c/news-and-annoucements/bubble-app-of-the-day-speakeasy) [SpeakEasy](https://speakeasycommunity.com/) helps parents boost the speech and language development of their children, from birth-to-five. Desarrollado con Bubble. 
 * [How I Founded Two No-Code Startups](https://community.nocodedevs.com/c/news-and-annoucements/how-i-founded-two-no-code-startups)
 * [Newsletter OS](https://newsletteros.com/) curate, write, grow and monetize your newsletter with this comprehensive system build by Notion and Carrd Lanzamiento [ProductHunt](https://www.producthunt.com/posts/newsletter-operating-system) a partir de [Newsletter](https://brainpint.com/)
-* [ElenaMadrigal](https://elenadrigal.com/)
+* [ElenaMadrigal](https://elenadrigal.com/) creadora de [Aprendiendo Notion](https://aprendenotion.com/)
 
 ## ejemplos funcionalidades 
 * [Thoughts writing a Google App script](https://martinfowler.com/articles/202009-google-app-dir.html) Hosting a simple application on a Google spreadsheet is an appealing deployment platform for a range of simple tasks. It allows users to run code without having to install something on their machine, to enter data in a familiar environment, and support easy sharing with colleagues. It's not a platform I hear much discussion about, but it's one to keep in mind. In particular, for any task that would be a simple shell script, but your users aren't comfortable with console windows and text files.
@@ -53,6 +53,8 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 * [Newsletter OS](https://newsletteros.com/) Master the art of creating & running a newsletter. Curate, write, grow and monetize your newsletter with this comprehensive system. A Notion dashboard by @janelSGM
 * [Newsletter Danny Saltaren](https://saltaren.substack.com/) y creador [Agencia Digital Minimun](https://es.minimum.run/)
 * [Calendarist](https://www.trycalendarist.com/) lanzamiento [ProductHunt](https://www.producthunt.com/posts/calendarist)
+* [masuno](https://elenadrigal.com/project/masuno) intentando mejorar como quedan las personas
+* [linbits](https://linbits.typeform.com/to/EPCAwWl8) el primer sistema de prototipado rápido de la metodología #LeanBusinessFunnel. Adquiere aquí los elementos que necesites: tu pack inicial de tarjetas (Linbits), el tablero (Lean Business Funnel Canvas) y/o la formación de la metodología y del uso de las Linbits.
 
 ## principales herramientas recomendadas
 * [10 herramientas para montar un negocio](https://mail.google.com/mail/u/1/#inbox/FMfcgxwJXpWfLNnTnGhcPPWmCkWBMxGW) 
@@ -70,7 +72,36 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * Siteground para hosting
   * FacturaDirecta para las facturas
 * [60 herramientas](https://twitter.com/victorianoi/status/1335204145826045952) usadas en @graphext con coste y clasificadas por categorías y [recopiladas en notion](https://notion.so/03678cf5a7d542bbaad6bae90c3a492d?v=51da8a7da36340b58e94f1b8ffc8d919)
-
+* [Herramientas](https://twitter.com/jackbutcher/status/1331807953712779265?s=20)
+  * Content Creation
+    * Sketch
+    * After Effects
+    * Figma
+    * Keynote
+    * Premiere
+    * Notes
+  * Demand Generation
+    * Instagram
+    * Twitter
+    * Youtube
+    * Linkedin
+    * Substack
+    * Hyperfury
+    * Creator Studio
+  * Demand Capture 
+    * Calendly
+    * Shopify
+    * Webflow
+    * Stripe
+    * Gumroad
+  * Client Service
+    * Loom
+    * Keynote
+    * Zoom
+    * Slack
+    * Mightynetworks
+    * Google Suite
+  
 ### Landing Page
 * [Carrd](https://carrd.co/) permite construir una landing de forma simple y rapida
 * [Más herramientas aquí](https://www.nocodejournal.com/posts/the-best-landing-pages-using-nocode)
@@ -139,6 +170,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * [How to Build a Live Pricing Page on Notion](https://www.youtube.com/watch?v=Og8HtbcvmFc)
   * [Repositorios donde encontrarás plantillas gratuitas para Notion](https://hipertextual.com/2020/11/repositorios-plantillas-gratuitas-notion)
   * [Newsletter OS](https://newsletteros.com/) curate, write, grow and monetize your newsletter with this comprehensive system build by Notion and Carrd
+  * [Aprendiendo Notion](https://aprendenotion.com/)
 * [coda](https://coda.io/) nuevos documentos online unificado, al estilo de Notion pero mas completo y menos extendido
   * [Doc gallery](https://coda.io/gallery)
   * [Book and reading tracking](https://coda.io/@rachelmanwill/book-reading-tracker-by-book-riot)
