@@ -102,6 +102,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * [How To Build An Unsplash Clone With No Code](https://community.nocodedevs.com/c/news-and-annoucements/how-to-build-an-unsplash-clone-with-no-code)
   * [Showcase](https://bubble.io/showcase) Discover what you can build with Bubble.
   * [Recomendacion para desarrollo apps](https://twitter.com/pabloheredia24/status/1333338642752921601) y [newsletter](https://bubblemakers.substack.com/p/coming-soon)
+  * [Investing in Bubble startups](https://bubble.io/investordescription.pdf) If you find yourself in a position where you are trying to raise capital, Bubble may be a topic of conversation with investors since it is (still!) a fairly new way to build web apps. To help you in these conversations, we put together this document that addresses the main questions we hear investors asking.
 
 * [Glide](https://www.glideapps.com/) construye en 5min una app PWA desde google sheets
   * [Así es Glide](https://www.genbeta.com/herramientas/asi-glide-herramienta-para-crear-tu-propia-aplicacion-a-partir-hoja-calculo-google-cinco-minutos-gratis)
