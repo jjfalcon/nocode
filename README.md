@@ -51,6 +51,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 * [QueCovid.es](https://twitter.com/irreductible/status/1325738011926081543?s=12)  permite consultar las restricciones del estado de alarma desde la [web app](QueCovid.es) y [API](https://api.quecovid.es/) con acceso a [documentacion](https://documenter.getpostman.com/view/11845477/TVepATmT).
 * [Newsletter OS](https://newsletteros.com/) Master the art of creating & running a newsletter. Curate, write, grow and monetize your newsletter with this comprehensive system. A Notion dashboard by @janelSGM
 * [Newsletter Danny Saltaren](https://saltaren.substack.com/) y creador [Agencia Digital Minimun](https://es.minimum.run/)
+* [Calendarist](https://www.trycalendarist.com/) lanzamiento [ProductHunt](https://www.producthunt.com/posts/calendarist)
 
 ## principales herramientas recomendadas
 * [10 herramientas para montar un negocio](https://mail.google.com/mail/u/1/#inbox/FMfcgxwJXpWfLNnTnGhcPPWmCkWBMxGW) 
