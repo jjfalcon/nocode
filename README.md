@@ -1,5 +1,9 @@
 # nocode
 
+## TODO
+* [How to Setup a New Glide Project for Your Developer](https://community.nocodedevs.com/c/free-tutorials/how-to-setup-a-new-glide-project-for-your-developer)
+
+
 Nocode es un conjunto de herramientas para desarrollar soluciones software sin conocimiento de software.
 Esta herramientas permiten realizar desarrollos rápidos, flexibles, por personas sin conocimientos específicos de software.
 La utilización de estas herramientas se está orientando a validar ideas de forma rápida (lean startup), desarollos internos [Nocode operations](https://community.nocodedevs.com/c/news-and-annoucements/what-is-no-code-operations), desarrollo de mvps, etc.
@@ -149,6 +153,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * [Crea tu app desde cero con Glide](https://www.youtube.com/watch?v=x6cFBIatyTg&feature=youtu.be)
   * [Preguntas frecuentes al crear aplicaciones con Glideapp](https://www.youtube.com/watch?v=VWS0OLQ2r6w)
   * [Tutorial Account Tracker in @Glide](https://www.youtube.com/watch?v=KAkn6Q136sM&feature=emb_logo) dentro del canal [No Code Apps with Darren](https://www.youtube.com/c/AppswithDarren/videos
+  * [How to Setup a New Glide Project for Your Developer](https://community.nocodedevs.com/c/free-tutorials/how-to-setup-a-new-glide-project-for-your-developer)
  
 ### Datos
 * [GoogleSheets](https://docs.google.com/spreadsheets) tan simple y accesible como una hoja excel online
