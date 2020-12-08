@@ -33,6 +33,12 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 * [How I Founded Two No-Code Startups](https://community.nocodedevs.com/c/news-and-annoucements/how-i-founded-two-no-code-startups)
 * [Newsletter OS](https://newsletteros.com/) curate, write, grow and monetize your newsletter with this comprehensive system build by Notion and Carrd Lanzamiento [ProductHunt](https://www.producthunt.com/posts/newsletter-operating-system) a partir de [Newsletter](https://brainpint.com/)
 * [ElenaMadrigal](https://elenadrigal.com/) creadora de [Aprendiendo Notion](https://aprendenotion.com/)
+* [6 side projects for less then $100](https://twitter.com/whit4th/status/1330923084833021956?s=12) by https://twitter.com/badunicornvc
+  * [MuskOnMars](https://www.muskonmars.space/) $75
+  * [ZoomHypeMan](https://zoomhypeman.xyz/) $45
+  * [MemeUniversity](https://memeuniversity.lol/) $10
+  * [SlowSale](https://www.slow.sale/)
+  * 
 
 ## ejemplos funcionalidades 
 * [Thoughts writing a Google App script](https://martinfowler.com/articles/202009-google-app-dir.html) Hosting a simple application on a Google spreadsheet is an appealing deployment platform for a range of simple tasks. It allows users to run code without having to install something on their machine, to enter data in a familiar environment, and support easy sharing with colleagues. It's not a platform I hear much discussion about, but it's one to keep in mind. In particular, for any task that would be a simple shell script, but your users aren't comfortable with console windows and text files.
@@ -152,6 +158,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * [Attachment commenting](https://support.airtable.com/hc/en-us/articles/360056114934) are similar to record comments except you can leave them on any attachment. This allows you to have separate conversations for each individual attachment in a record. For example, if you use Airtable for marketing planning, you can leave feedback directly on individual images or videos uploaded by your team.
   * [script settings](https://airtable.com/developers/scripting/api) is a new feature that makes it easier for users to customize pre-built scripts to their own bases. After you install a script with script settings, you can configure the script using an interactive UI—without needing to go in and edit the code of the script yourself.
 * [Retool](https://retool.com/) Get started building your internal tool in minutes
+* [DataFetcher](https://datafetcher.io/) Import data in Airtable from API
 
 ### Integracion
 * [zapier](https://zapier.com/) es el pegamento para conectar apps y automatizar flujos de trabajo
