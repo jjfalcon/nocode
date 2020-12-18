@@ -1,12 +1,11 @@
 # nocode
 
-## TODO
-* [How to Setup a New Glide Project for Your Developer](https://community.nocodedevs.com/c/free-tutorials/how-to-setup-a-new-glide-project-for-your-developer)
-
-
 Nocode es un conjunto de herramientas para desarrollar soluciones software sin conocimiento de software.
 Esta herramientas permiten realizar desarrollos rápidos, flexibles, por personas sin conocimientos específicos de software.
 La utilización de estas herramientas se está orientando a validar ideas de forma rápida (lean startup), desarollos internos [Nocode operations](https://community.nocodedevs.com/c/news-and-annoucements/what-is-no-code-operations), desarrollo de mvps, etc.
+
+## TODO
+* [How to Setup a New Glide Project for Your Developer](https://community.nocodedevs.com/c/free-tutorials/how-to-setup-a-new-glide-project-for-your-developer)
 
 ## como validar ideas?
 * Generar ideas, a partir de identificar puntos de dolor o fricción en situaciones existentes.
@@ -42,7 +41,6 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * [ZoomHypeMan](https://zoomhypeman.xyz/) $45
   * [MemeUniversity](https://memeuniversity.lol/) $10
   * [SlowSale](https://www.slow.sale/)
-  * 
 
 ## ejemplos funcionalidades 
 * [Thoughts writing a Google App script](https://martinfowler.com/articles/202009-google-app-dir.html) Hosting a simple application on a Google spreadsheet is an appealing deployment platform for a range of simple tasks. It allows users to run code without having to install something on their machine, to enter data in a familiar environment, and support easy sharing with colleagues. It's not a platform I hear much discussion about, but it's one to keep in mind. In particular, for any task that would be a simple shell script, but your users aren't comfortable with console windows and text files.
@@ -111,6 +109,9 @@ La utilización de estas herramientas se está orientando a validar ideas de for
     * Slack
     * Mightynetworks
     * Google Suite
+  * Analitica
+    * Google Tag Manager
+    * Google Analitics
   
 ### Landing Page
 * [Carrd](https://carrd.co/) permite construir una landing de forma simple y rapida
