@@ -164,6 +164,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * [Excel importer](https://support.airtable.com/hc/en-us/articles/360057346473) allows you to import an Excel file as a new base or add new table(s) to an existing base. With this feature, you can import all worksheets from an Excel workbook into Airtable base by uploading its .xls or .xlsx file. Note that at this time there is a file size limit of 5MB on Excel file imports.
   * [Attachment commenting](https://support.airtable.com/hc/en-us/articles/360056114934) are similar to record comments except you can leave them on any attachment. This allows you to have separate conversations for each individual attachment in a record. For example, if you use Airtable for marketing planning, you can leave feedback directly on individual images or videos uploaded by your team.
   * [script settings](https://airtable.com/developers/scripting/api) is a new feature that makes it easier for users to customize pre-built scripts to their own bases. After you install a script with script settings, you can configure the script using an interactive UI—without needing to go in and edit the code of the script yourself.
+  * [The superpower of scripts without the complexity of code](https://blog.airtable.com/script-templates/)
 * [Retool](https://retool.com/) Get started building your internal tool in minutes
 * [DataFetcher](https://datafetcher.io/) Import data in Airtable from API
 
