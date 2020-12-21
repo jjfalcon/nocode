@@ -197,6 +197,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * [The Notion User's Guide to Coda](https://coda.io/@ben-parker/the-notion-users-guide-to-coda)
   * [Uber App Redesign Project Doc](https://coda.io/@yixin/ubers-app-redesign-project-doc)
 * [trello](https://trello.com/es) gestion de tareas proyectos de forma visual y colaborativa
+* [Infinity](https://startinfinity.com/) un competidor de Trello, Asana
 * [Roam research](https://roamresearch.com/)
 * [comparativa Notion, Coda, Roam](https://www.reddit.com/r/Notion/comments/eyos06/notion_vs_roam_research/)
 
