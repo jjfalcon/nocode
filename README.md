@@ -112,6 +112,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * Analitica
     * Google Tag Manager
     * Google Analitics
+    * [Hotjar](https://www.hotjar.com/) [Cómo integrar Hotjar en el flujo web a través de Google Tag Manager](https://es.minimum.run/posts/how-to-integrate-hotjar-in-webflow-through-google-tag-manager)
   
 ### Landing Page
 * [Carrd](https://carrd.co/) permite construir una landing de forma simple y rapida
