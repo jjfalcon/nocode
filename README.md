@@ -124,7 +124,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * [Multi-Vendor Digital Marketplace. Everything $5 and below] (https://twitter.com/nocodedevs/status/1325869800254476288) built on @webflow. 
 * [Bubble](https://bubble.io/) Muy completa con muchas funcionalidades, extensiones, etc para web y app
 * [typeform](https://www.typeform.com/)
-* [Dork](https://dorik.com/) Design & Host Beautiful Websites Without Code! Flexible & easy-to-use nocode website builder with 120+ UI Components and 12 beautiful templates. Save time and money on building your next website.
+* [Dork](https://dorik.com/) Amazing mix of webflow and carrd. Design & Host Beautiful Websites Without Code! Flexible & easy-to-use nocode website builder with 120+ UI Components and 12 beautiful templates. Save time and money on building your next website.
 
 ### App
 * [Comparativa herramientas para crear apps](https://antoniosanchez.pro/blog/comparativa-de-herramientas-no-code-para-crear-apps-nativas/)
