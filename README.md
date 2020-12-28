@@ -162,6 +162,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 ### Datos
 * [GoogleSheets](https://docs.google.com/spreadsheets) tan simple y accesible como una hoja excel online
 * [AirTable](https://airtable.com/) excel online inteligente
+  * [Introduccion a Airtable](https://nocodehackers.webflow.io/cursos/introduccion-a-airtable)
   * [Organiza todo lo que puedas imaginar con Airtable](https://enfoquenomada.com/airtable-base-datos/)
   * [Excel importer](https://support.airtable.com/hc/en-us/articles/360057346473) allows you to import an Excel file as a new base or add new table(s) to an existing base. With this feature, you can import all worksheets from an Excel workbook into Airtable base by uploading its .xls or .xlsx file. Note that at this time there is a file size limit of 5MB on Excel file imports.
   * [Attachment commenting](https://support.airtable.com/hc/en-us/articles/360056114934) are similar to record comments except you can leave them on any attachment. This allows you to have separate conversations for each individual attachment in a record. For example, if you use Airtable for marketing planning, you can leave feedback directly on individual images or videos uploaded by your team.
