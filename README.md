@@ -157,6 +157,8 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * [Preguntas frecuentes al crear aplicaciones con Glideapp](https://www.youtube.com/watch?v=VWS0OLQ2r6w)
   * [Tutorial Account Tracker in @Glide](https://www.youtube.com/watch?v=KAkn6Q136sM&feature=emb_logo) dentro del canal [No Code Apps with Darren](https://www.youtube.com/c/AppswithDarren/videos
   * [How to Setup a New Glide Project for Your Developer](https://community.nocodedevs.com/c/free-tutorials/how-to-setup-a-new-glide-project-for-your-developer)  
+  * [Glide le guide complete](https://noncodeur.com/glide-guide/)
+  * [app para monetizar retweet](https://twitter.com/nocodedevs/status/1346872175379296256?s=12)
 * [UI Bakery](https://uibakery.io/) is like Webflow but for web app development
  
 ### Datos
