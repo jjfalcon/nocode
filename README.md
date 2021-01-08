@@ -9,6 +9,12 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 * [Spend 5 more minutes designing your database](https://bubblemakers.substack.com/p/databases)
   * [Database Design with GoogleSheet](https://share.vidyard.com/watch/SAdnMnJnBC9sAs5bRxGeKR?)
   * [Verbatelo](https://www.vertabelo.com/blog/example_er_diagrams/) Vertabelo has a ton of database examples for all kind of apps: SaaS, marketplaces, fitness apps, delivery apps, board games… Even though their articles are not oriented towards Bubble users, I find them quite useful. I haven’t used their tool because I don’t really need to but I still get a lot of value from their explanations.
+* Glide demo
+  * [Glide Notifications](https://docs.glideapps.com/all/reference/features/notifications)
+  * [Other notifications](https://community.glideapps.com/t/push-notifications/6770)
+  * [Free notifications sms from google](https://community.glideapps.com/t/free-push-notifications-solved/6183)
+  * [WhatsApp notifications](https://community.glideapps.com/t/whatsapp-notifications/9803)
+  * [Whatsapp Business Push Notification](https://community.glideapps.com/t/whatsapp-business-push-notification/19761)
 
 ## como validar ideas?
 * Generar ideas, a partir de identificar puntos de dolor o fricción en situaciones existentes.
