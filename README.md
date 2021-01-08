@@ -15,6 +15,8 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * [Free notifications sms from google](https://community.glideapps.com/t/free-push-notifications-solved/6183)
   * [WhatsApp notifications](https://community.glideapps.com/t/whatsapp-notifications/9803)
   * [Whatsapp Business Push Notification](https://community.glideapps.com/t/whatsapp-business-push-notification/19761)
+  * [QR code scanner demo](https://community.glideapps.com/t/qr-code-scanner-demo/11620)
+  * [Building A Building Access Records Tracker App](https://www.linkedin.com/pulse/building-basic-access-records-tracker-contact-tracing-eu-zhijing) with Limited Contact Tracing Functionality) Using Glide & Google Sheets
 
 ## como validar ideas?
 * Generar ideas, a partir de identificar puntos de dolor o fricción en situaciones existentes.
