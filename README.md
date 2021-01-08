@@ -6,6 +6,9 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 
 ## TODO
 * [How to Setup a New Glide Project for Your Developer](https://community.nocodedevs.com/c/free-tutorials/how-to-setup-a-new-glide-project-for-your-developer)
+* [Spend 5 more minutes designing your database](https://bubblemakers.substack.com/p/databases)
+  * [Database Design with GoogleSheet](https://share.vidyard.com/watch/SAdnMnJnBC9sAs5bRxGeKR?)
+  * [Verbatelo](https://www.vertabelo.com/blog/example_er_diagrams/) Vertabelo has a ton of database examples for all kind of apps: SaaS, marketplaces, fitness apps, delivery apps, board games… Even though their articles are not oriented towards Bubble users, I find them quite useful. I haven’t used their tool because I don’t really need to but I still get a lot of value from their explanations.
 
 ## como validar ideas?
 * Generar ideas, a partir de identificar puntos de dolor o fricción en situaciones existentes.
