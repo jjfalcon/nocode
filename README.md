@@ -74,7 +74,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 * [Calendarist](https://www.trycalendarist.com/) lanzamiento [ProductHunt](https://www.producthunt.com/posts/calendarist)
 * [masuno](https://elenadrigal.com/project/masuno) intentando mejorar como quedan las personas
 * [linbits](https://linbits.typeform.com/to/EPCAwWl8) el primer sistema de prototipado rápido de la metodología #LeanBusinessFunnel. Adquiere aquí los elementos que necesites: tu pack inicial de tarjetas (Linbits), el tablero (Lean Business Funnel Canvas) y/o la formación de la metodología y del uso de las Linbits.
-* [Pariente Score](https://parientescore.webflow.io/)
+* [Pariente Score](https://parientescore.webflow.io/) app a desarrollar en glide y/o notion
 
 ## principales herramientas recomendadas
 * [10 herramientas para montar un negocio](https://mail.google.com/mail/u/1/#inbox/FMfcgxwJXpWfLNnTnGhcPPWmCkWBMxGW) 
