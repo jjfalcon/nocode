@@ -75,8 +75,10 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 * [masuno](https://elenadrigal.com/project/masuno) intentando mejorar como quedan las personas
 * [linbits](https://linbits.typeform.com/to/EPCAwWl8) el primer sistema de prototipado rápido de la metodología #LeanBusinessFunnel. Adquiere aquí los elementos que necesites: tu pack inicial de tarjetas (Linbits), el tablero (Lean Business Funnel Canvas) y/o la formación de la metodología y del uso de las Linbits.
 * [Pariente Score](https://parientescore.webflow.io/) app a desarrollar en glide y/o notion
+* [Katana IU](https://katanamrp.com/)
 
 ## principales herramientas recomendadas
+* [Apption](https://apption.co/) marketplace de componentes plug&play
 * [10 herramientas para montar un negocio](https://mail.google.com/mail/u/1/#inbox/FMfcgxwJXpWfLNnTnGhcPPWmCkWBMxGW) 
   * Webflow, Bubble para montar web
   * Tribe, Circle para montar landing sencilla
@@ -174,7 +176,6 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 * [UI Bakery](https://uibakery.io/) is like Webflow but for web app development
 * [Directual](https://www.directual.com/) is a no-code platform for building scalable and sophisticated apps in an intuitive visual interface. https://my.directual.com/platform/apps/ jjf*@gmail.com/fEy3Q2Hp
  
- 
 ### Datos
 * [GoogleSheets](https://docs.google.com/spreadsheets) tan simple y accesible como una hoja excel online
 * [AirTable](https://airtable.com/) excel online inteligente
@@ -191,6 +192,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 * [zapier](https://zapier.com/) es el pegamento para conectar apps y automatizar flujos de trabajo
 * [integromat](https://www.integromat.com/) similar a zapier
 * [Integration Capabilities in top 20 nocode platforms](https://nocodeinfo.com/integration-capabilities-in-top-20-nocode-platforms/) 
+* [PrestoAPI](https://prestoapi.com/) The API Tool You Need. Spend more time on front-end development
 
 ### productividad
 * [Notion](https://www.notion.so/) All-in-one workspace. One tool for your whole team. Write, plan, and get organized.
