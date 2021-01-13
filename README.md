@@ -140,6 +140,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 * [Bubble](https://bubble.io/) Muy completa con muchas funcionalidades, extensiones, etc para web y app
 * [typeform](https://www.typeform.com/)
 * [Dork](https://dorik.com/) Amazing mix of webflow and carrd. Design & Host Beautiful Websites Without Code! Flexible & easy-to-use nocode website builder with 120+ UI Components and 12 beautiful templates. Save time and money on building your next website.
+* [softr.io](https://community.makerpad.co/c/showcase/membership-web-apps-on-airtable-in-10-minutes-with-softr-io) Membership web-apps. Build powerful websites and web apps on Airtable, in 10 minutes.
 
 ### App
 * [Comparativa herramientas para crear apps](https://antoniosanchez.pro/blog/comparativa-de-herramientas-no-code-para-crear-apps-nativas/)
@@ -225,6 +226,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 * [comparativa Notion, Coda, Roam](https://www.reddit.com/r/Notion/comments/eyos06/notion_vs_roam_research/)
 
 ### Otros
+* [Levity](https://www.levity.ai/) Create your own AI for documents, images, or text that takes daily, repetitive tasks off your shoulders so your team can reach the next level of productivity.
 * [arengu](https://www.arengu.com/) formularios de registro muy personalible (lowcode)
 * [landbot](http://landbot.io/) chatbot maker for creating interactive experiences for web and mobile in minutes
 * [cognito](https://www.cognitoforms.com/) easily build powerful forms
