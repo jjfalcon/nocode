@@ -208,6 +208,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * [Repositorios donde encontrarás plantillas gratuitas para Notion](https://hipertextual.com/2020/11/repositorios-plantillas-gratuitas-notion)
   * [Newsletter OS](https://newsletteros.com/) curate, write, grow and monetize your newsletter with this comprehensive system build by Notion and Carrd
   * [Aprendiendo Notion](https://aprendenotion.com/)
+  * [Notelet](https://notelet.so/) Create a website or blog with Notion. Write in Notion, publish to the web. Custom domain, analytics, themes and more.
 * [coda](https://coda.io/) nuevos documentos online unificado, al estilo de Notion pero mas completo y menos extendido
   * [Doc gallery](https://coda.io/gallery)
   * [Book and reading tracking](https://coda.io/@rachelmanwill/book-reading-tracker-by-book-riot)
