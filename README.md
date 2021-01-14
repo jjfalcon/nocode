@@ -76,6 +76,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 * [linbits](https://linbits.typeform.com/to/EPCAwWl8) el primer sistema de prototipado rápido de la metodología #LeanBusinessFunnel. Adquiere aquí los elementos que necesites: tu pack inicial de tarjetas (Linbits), el tablero (Lean Business Funnel Canvas) y/o la formación de la metodología y del uso de las Linbits.
 * [Pariente Score](https://parientescore.webflow.io/) app a desarrollar en glide y/o notion
 * [Katana IU](https://katanamrp.com/)
+* [Pomotroid](https://madewithvuejs.com/pomotroid) Pomodoro Timer Desktop App
 
 ## principales herramientas recomendadas
 * [Apption](https://apption.co/) marketplace de componentes plug&play
