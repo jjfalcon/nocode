@@ -200,6 +200,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 * [PrestoAPI](https://prestoapi.com/) The API Tool You Need. Spend more time on front-end development
 
 ### productividad
+* [Walling](https://walling.app/) Collaborative walls for ideas, projects and research. Walling is your space to capture ideas, organize content and visually work through projects and research.
 * [Notion](https://www.notion.so/) All-in-one workspace. One tool for your whole team. Write, plan, and get organized.
   * Go to http://notion.so/guides to find tutorials, videos and inspiration
   * [Links and backlinks](https://www.notion.so/Create-links-backlinks-cb3c406403c940b68af52de121e05474)
