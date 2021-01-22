@@ -207,6 +207,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * [Ejemplo portafolio](https://twitter.com/zenekezene/status/1306188657989222400?s=12]
   * [Ejemplo notion repositorio app nocode](https://sincodigo.io/tutorial/directorio-recursos-notion)
   * [Crea tu propia página web con ayuda de Notion](https://hipertextual.com/2020/08/publicar-pagina-web-notion)
+  * [Ejemplo site con super.so](https://saltaren.substack.com/p/09-no-code-la-economa-del-creador)  [Mi casa modular](https://micasamodular.com/) [Miriam](https://miriamgonzalez.dev/) [Saltaren](https://www.notion.so/SALTAREN-by-Danny-Saltaren-9f2295b213e94e3a85ef383e1bbc6a41)
   * [Tablas](https://www.notion.so/Tables-66a1cce8fb6f4f64b9996f4146c51fad#42151d1191b54607a557bb107d5c38f0)
   * [Timeline](https://www.notion.so/guides/timeline-view-unlocks-high-output-planning-for-your-team) is a new type of Notion database that’s way more than a Gantt chart. It gives you complete flexibility to scope projects, adjust their timelines, and customize your workflow.
   * [How to Build a Live Pricing Page on Notion](https://www.youtube.com/watch?v=Og8HtbcvmFc)
