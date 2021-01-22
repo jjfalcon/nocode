@@ -52,7 +52,8 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * [ZoomHypeMan](https://zoomhypeman.xyz/) $45
   * [MemeUniversity](https://memeuniversity.lol/) $10
   * [SlowSale](https://www.slow.sale/)
-* [Venta dibujos personalizados online](https://github.com/kettanaito/naming-cheatsheet) Ejemplo de lo fácil que es montar un #sideproject a día de hoy con #nocode.
+* [Venta dibujos personalizados online](https://github.com/kettanaito/naming-cheatsheet) Ejemplo de lo fácil que es montar un #sideproject a día de hoy con #nocode
+* [Here is how I built the website GIF tool](https://www.loom.com/share/68bff095014b4283a3587724242f3f11)
 
 ## ejemplos funcionalidades 
 * [Thoughts writing a Google App script](https://martinfowler.com/articles/202009-google-app-dir.html) Hosting a simple application on a Google spreadsheet is an appealing deployment platform for a range of simple tasks. It allows users to run code without having to install something on their machine, to enter data in a familiar environment, and support easy sharing with colleagues. It's not a platform I hear much discussion about, but it's one to keep in mind. In particular, for any task that would be a simple shell script, but your users aren't comfortable with console windows and text files.
