@@ -221,6 +221,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * [Aprendiendo Notion](https://aprendenotion.com/)
   * [Notelet](https://notelet.so/) Create a website or blog with Notion. Write in Notion, publish to the web. Custom domain, analytics, themes and more.
 * [coda](https://coda.io/) nuevos documentos online unificado, al estilo de Notion pero mas completo y menos extendido
+  * [Blog](https://coda.io/@coda/the-coda-blog)
   * [Doc gallery](https://coda.io/gallery)
   * [Book and reading tracking](https://coda.io/@rachelmanwill/book-reading-tracker-by-book-riot)
   * [Home IoT](https://coda.io/@matthew-tebbs/home-iot)
