@@ -186,8 +186,6 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * [How to Implement Mobile-to-Web Cross Login Using a QR Code](https://backendless.com/how-to-implement-mobile-to-web-cross-login-using-a-qr-code/)
   * [How To Build A No-Code App With UI Builder](https://backendless.com/how-to-build-a-no-code-app-with-ui-builder/)
 
-
-
 ### Datos
 * [GoogleSheets](https://docs.google.com/spreadsheets) tan simple y accesible como una hoja excel online
 * [AirTable](https://airtable.com/) excel online inteligente
@@ -246,13 +244,13 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 * [cognito](https://www.cognitoforms.com/) easily build powerful forms
 * [twilio](https://www.twilio.com/) para comunicacion multicanal (inluso SMS)
 * [palabra.io](https://palabra.io/] email automation platform that integrates with your existing tools.
-
 * [Calendy](https://calendly.com/es) ayuda a programar reuniones sin tener que enviar decenas de correos
 * [TypeForm]
 * [Anima](https://www.animaapp.com/) Design to Code, Automated. Create High-Fidelity Prototypes in Sketch, XD, or Figma, and Export HTML. Available for Sketch, XD & Figma
 * [SwipePages](https://wwwhatsnew.com/2020/10/15/swipepages-para-crear-webs-para-moviles-sin-programar-nada/) para crear webs para moviles sin programar
 * [externalizar el formulario de contacto](https://twitter.com/jlhortelano/status/1299360673571508224)
 * [Count](https://count.co/) The fastest way to combine, organise and visualise your data. Count is the all-in-one data platform for you and your team
+* [Wildcard](https://www.geoffreylitt.com/wildcard/)
 
 ## comunidad, formacion
 * [NocodeDevs](https://community.nocodedevs.com/) comunidad nocode desarrollada en Notion
@@ -275,7 +273,6 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 * [Bonilla lista no-code](https://mail.google.com/mail/u/0/#inbox/FMfcgxwGCkhtMKRPDphfdklCfrSwdWJC) es posible crear software para un uso profesional sin saber programar. Ha llegado el No-Code.
 * [No Code y la progresiva automatización de la programación](https://www.enriquedans.com/2020/08/no-code-y-la-progresiva-automatizacion-de-la-programacion.html)
 * [The Difference Between Low-Code Development and Traditional Coding](https://simpleprogrammer.com/low-code-development-traditional-coding/)
-
 * [Google apuesta por el movimiento No Code con AppSheet, una plataforma para crear apps sin escribir ni una línea de código](https://www.genbeta.com/desarrollo/google-apuesta-movimiento-no-code-appsheet-plataforma-para-crear-apps-escribir-linea-codigo)
 * [Power Apps](https://www.genbeta.com/desarrollo/power-apps-plataforma-desarrollo-codigo-aplicaciones-microsoft-incorpora-funciones-realidad-mixta) la plataforma de desarrollo sin código de aplicaciones de Microsoft, incorpora funciones de realidad mixta
 
