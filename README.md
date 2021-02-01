@@ -197,6 +197,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * [The superpower of scripts without the complexity of code](https://blog.airtable.com/script-templates/)
 * [Retool](https://retool.com/) Get started building your internal tool in minutes
 * [DataFetcher](https://datafetcher.io/) Import data in Airtable from API
+* [Count](https://count.co/) the data notebook your whole team will love
 
 ### Integracion
 * [zapier](https://zapier.com/) es el pegamento para conectar apps y automatizar flujos de trabajo
