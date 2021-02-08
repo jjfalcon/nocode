@@ -4,6 +4,13 @@ Nocode es un conjunto de herramientas para desarrollar soluciones software sin c
 Esta herramientas permiten realizar desarrollos rápidos, flexibles, por personas sin conocimientos específicos de software.
 La utilización de estas herramientas se está orientando a validar ideas de forma rápida (lean startup), desarollos internos [Nocode operations](https://community.nocodedevs.com/c/news-and-annoucements/what-is-no-code-operations), desarrollo de mvps, etc.
 
+* [5 pasos para comenzar con no-code](https://sharingaway.com/no-code-para-principiantes-los-5-pasos-que-debes-seguir/) 
+  * Descubre tu motivacion
+  * Elige las herramientas que vas a usar
+  * Únete a la comunidad
+  * Empieza hoy mismo con tu aprendizaje
+  * Crea un proyecto
+
 ## TODO
 * [How to Setup a New Glide Project for Your Developer](https://community.nocodedevs.com/c/free-tutorials/how-to-setup-a-new-glide-project-for-your-developer)
 * [Spend 5 more minutes designing your database](https://bubblemakers.substack.com/p/databases)
