@@ -81,6 +81,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 * [Pomotroid](https://madewithvuejs.com/pomotroid) Pomodoro Timer Desktop App
 
 ## principales herramientas recomendadas
+* [26 herramientas que necesitas para crear un proyecto digital](https://sharingaway.com/las-26-herramientas-no-code-que-necesitas-para-crear-un-proyecto-digital/)
 * [Apption](https://apption.co/) marketplace de componentes plug&play
 * [10 herramientas para montar un negocio](https://mail.google.com/mail/u/1/#inbox/FMfcgxwJXpWfLNnTnGhcPPWmCkWBMxGW) 
   * Webflow, Bubble para montar web
