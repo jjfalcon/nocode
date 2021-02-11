@@ -86,6 +86,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 * [Pariente Score](https://parientescore.webflow.io/) app a desarrollar en glide y/o notion
 * [Katana IU](https://katanamrp.com/)
 * [Pomotroid](https://madewithvuejs.com/pomotroid) Pomodoro Timer Desktop App
+* [Belion](https://www.producthunt.com/posts/belion) Track your time and calculate your profits
 
 ## principales herramientas recomendadas
 * [26 herramientas que necesitas para crear un proyecto digital](https://sharingaway.com/las-26-herramientas-no-code-que-necesitas-para-crear-un-proyecto-digital/)
