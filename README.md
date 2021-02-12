@@ -61,6 +61,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * [SlowSale](https://www.slow.sale/)
 * [Venta dibujos personalizados online](https://github.com/kettanaito/naming-cheatsheet) Ejemplo de lo fácil que es montar un #sideproject a día de hoy con #nocode
 * [Here is how I built the website GIF tool](https://www.loom.com/share/68bff095014b4283a3587724242f3f11)
+* [Ostrich](https://apps.apple.com/es/app/ostrich-build-money-habits/id1530618708#?platform=iphone)Build Money Habit‪s‬ desarrollado con AppGiver
 
 ## ejemplos funcionalidades 
 * [Thoughts writing a Google App script](https://martinfowler.com/articles/202009-google-app-dir.html) Hosting a simple application on a Google spreadsheet is an appealing deployment platform for a range of simple tasks. It allows users to run code without having to install something on their machine, to enter data in a familiar environment, and support easy sharing with colleagues. It's not a platform I hear much discussion about, but it's one to keep in mind. In particular, for any task that would be a simple shell script, but your users aren't comfortable with console windows and text files.
@@ -169,6 +170,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * [Workflow for couriers at sustainable delivery startup](https://blog.appgyver.com/creator-of-the-week-workflow-for-couriers-at-sustainable-delivery-startup-d4a3faeeccfc) incluye lector QR y notificaciones push
   * [Data privacy compliance, visualized and simplified](https://blog.appgyver.com/creator-of-the-week-data-privacy-compliance-visualized-and-simplified-with-harpocrates-b6e13fab006b)* [AppHive](https://apphive.io/es) Crea tu propia App gratis. Elige una plantilla, cambia arrastrando, y publica en iOS/Android. Incluye funciones como GPS, calendario, notificaciones, pagos y mucho más...
   * [Tutorial para crear app tipo Uber Eats o Rappi sin escribir código](https://www.youtube.com/watch?v=SD4H4jXcTTY&feature=youtu.be)
+  * [Ostrich](https://apps.apple.com/es/app/ostrich-build-money-habits/id1530618708#?platform=iphone)Build Money Habit‪s‬
 
 * [Bubble](https://bubble.io/) para desarrollar apps en movil, ordenador tienes mucho mas control y extensiones
   * [How To Build An Unsplash Clone With No Code](https://community.nocodedevs.com/c/news-and-annoucements/how-to-build-an-unsplash-clone-with-no-code)
