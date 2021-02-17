@@ -150,6 +150,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 * [Webflow](https://webflow.com/) opcion completa y personalizable
   * [Learn webflow in 45min](https://mail.google.com/mail/u/1/#inbox/FMfcgxwKjKqxZRFdmfMfxvHLsVHbzTDv?projector=1)
   * [Multi-Vendor Digital Marketplace. Everything $5 and below] (https://twitter.com/nocodedevs/status/1325869800254476288) built on @webflow. 
+  * [eCommerce](https://webflow.com/ecommerce)
 * [Bubble](https://bubble.io/) Muy completa con muchas funcionalidades, extensiones, etc para web y app
 * [typeform](https://www.typeform.com/)
 * [Dork](https://dorik.com/) Amazing mix of webflow and carrd. Design & Host Beautiful Websites Without Code! Flexible & easy-to-use nocode website builder with 120+ UI Components and 12 beautiful templates. Save time and money on building your next website.
@@ -215,6 +216,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 * [integromat](https://www.integromat.com/) similar a zapier
 * [Integration Capabilities in top 20 nocode platforms](https://nocodeinfo.com/integration-capabilities-in-top-20-nocode-platforms/) 
 * [PrestoAPI](https://prestoapi.com/) The API Tool You Need. Spend more time on front-end development
+* [Xano](https://www.xano.com/) generate API scalable backend automatically
 
 ### productividad
 * [Walling](https://walling.app/) Collaborative walls for ideas, projects and research. Walling is your space to capture ideas, organize content and visually work through projects and research.
