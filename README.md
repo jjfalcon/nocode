@@ -92,6 +92,13 @@ La utilización de estas herramientas se está orientando a validar ideas de for
 * [Belion](https://www.producthunt.com/posts/belion) Track your time and calculate your profits
 
 ## principales herramientas recomendadas
+* Herramientas Minimun.run (consultora nocode, con futuro en desarrollo herramientas gap). Proceso condiciona herramienta
+  * Webflow, https://jetboost.io/
+  * Integromat, Zapier
+  * Memberstack , arengu
+  * Twillio sms
+  * Stripe
+
 * [26 herramientas que necesitas para crear un proyecto digital](https://sharingaway.com/las-26-herramientas-no-code-que-necesitas-para-crear-un-proyecto-digital/)
 * [Apption](https://apption.co/) marketplace de componentes plug&play
 * [10 herramientas para montar un negocio](https://mail.google.com/mail/u/1/#inbox/FMfcgxwJXpWfLNnTnGhcPPWmCkWBMxGW) 
