@@ -250,6 +250,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * [Aprendiendo Notion](https://aprendenotion.com/)
   * [Notelet](https://notelet.so/) Create a website or blog with Notion. Write in Notion, publish to the web. Custom domain, analytics, themes and more.
 * [coda](https://coda.io/) nuevos documentos online unificado, al estilo de Notion pero mas completo y menos extendido
+  * [Learn coda in 10 tweets](https://twitter.com/kmendes/status/1363953459138097152) Imprescindible
   * [Blog](https://coda.io/@coda/the-coda-blog)
   * [Doc gallery](https://coda.io/gallery)
   * [Book and reading tracking](https://coda.io/@rachelmanwill/book-reading-tracker-by-book-riot)
