@@ -183,6 +183,7 @@ La utilización de estas herramientas se está orientando a validar ideas de for
   * [Can you scan a barcode into a Google Sheet?](https://www.youtube.com/watch?v=XGS3ctyVbHA&feature=youtu.be)
 
 * [AppGyver](https://www.appgyver.com/) no-code platform, enabling you to build apps for all form factors, including mobile, desktop, browser, TV and others. Parece que tiene notificaciones y QR Scan
+  * [Free tier is here to stay](https://blog.appgyver.com/free-tier-is-here-to-stay-8a73a532414)
   * [Workflow for couriers at sustainable delivery startup](https://blog.appgyver.com/creator-of-the-week-workflow-for-couriers-at-sustainable-delivery-startup-d4a3faeeccfc) incluye lector QR y notificaciones push
   * [Data privacy compliance, visualized and simplified](https://blog.appgyver.com/creator-of-the-week-data-privacy-compliance-visualized-and-simplified-with-harpocrates-b6e13fab006b)* [AppHive](https://apphive.io/es) Crea tu propia App gratis. Elige una plantilla, cambia arrastrando, y publica en iOS/Android. Incluye funciones como GPS, calendario, notificaciones, pagos y mucho más...
   * [Tutorial para crear app tipo Uber Eats o Rappi sin escribir código](https://www.youtube.com/watch?v=SD4H4jXcTTY&feature=youtu.be)
