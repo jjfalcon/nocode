@@ -1,8 +1,11 @@
 # nocode
 
 Nocode es un conjunto de herramientas para desarrollar soluciones software sin conocimiento de software.
-Esta herramientas permiten realizar desarrollos rápidos, flexibles, por personas sin conocimientos específicos de software.
-La utilización de estas herramientas se está orientando a validar ideas de forma rápida (lean startup), desarollos internos [Nocode operations](https://community.nocodedevs.com/c/news-and-annoucements/what-is-no-code-operations), desarrollo de mvps, etc.
+Estas herramientas permiten realizar desarrollos rápidos, flexibles, por personas sin conocimientos específicos de software.
+El uso se orienta a validar ideas de forma rápida (lean startup), desarollos internos [Nocode operations](https://community.nocodedevs.com/c/news-and-annoucements/what-is-no-code-operations), desarrollo de mvps, y etc.
+
+* [Recursos NoCode en español](https://www.notion.so/Recursos-Comunidad-No-Code-en-espa-ol-16e78fa58d62474e8ec44189316894a6)
+![Listado de herramientas](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fde214e5f-eaa0-44e0-8a21-6213269135d6%2F511EB886-1F23-4542-A874-6ECA2F7191BF.jpeg)
 
 * [5 pasos para comenzar con no-code](https://sharingaway.com/no-code-para-principiantes-los-5-pasos-que-debes-seguir/) 
   * Descubre tu motivacion
