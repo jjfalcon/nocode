@@ -158,6 +158,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Más herramientas aquí](https://www.nocodejournal.com/posts/the-best-landing-pages-using-nocode)
 
 ### [Web app](https://www.nocode.tech/build/web-app)
+* [Kirby](https://getkirby.com/) [CMS basado en estructura de archivos](https://twitter.com/rafael_casuso/status/1371201427012530176?s=12), markdown con esteroides, API automático, multilenguaje, potente templating y UI modular. Muy buenas ideas.
 * [sheet2site](https://sheet2site.com/) la opción más simple, flexible y rápida.
 * [table2site](https://table2site.com/) Build sites without coding — use an Airtable base as your CMS desde 10€/mes 
 * [Airtable](https://airtable.com/) la mejor opción sin usas AirTable y es una webapp basada en datos
