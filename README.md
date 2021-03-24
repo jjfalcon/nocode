@@ -311,6 +311,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [The Difference Between Low-Code Development and Traditional Coding](https://simpleprogrammer.com/low-code-development-traditional-coding/)
 * [Google apuesta por el movimiento No Code con AppSheet, una plataforma para crear apps sin escribir ni una línea de código](https://www.genbeta.com/desarrollo/google-apuesta-movimiento-no-code-appsheet-plataforma-para-crear-apps-escribir-linea-codigo)
 * [Power Apps](https://www.genbeta.com/desarrollo/power-apps-plataforma-desarrollo-codigo-aplicaciones-microsoft-incorpora-funciones-realidad-mixta) la plataforma de desarrollo sin código de aplicaciones de Microsoft, incorpora funciones de realidad mixta
+* [Internal Tools - nocode operations](https://blog.usejournal.com/why-no-code-operations-is-the-next-big-job-in-tech-b8bb886378ac) In the right hands, internal tools built with nocode are almost indiscernible from solutions built with “real code.” Except for two main differences, speed and specificity. For an early stage startup, building solutions like this can be a superpower. This is why “no code operations” is the next great job in tech.
 
 ## Colaboradores
 * [Imanol Teran](https://imanolteran.com/)
