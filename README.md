@@ -257,6 +257,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [Newsletter OS](https://newsletteros.com/) curate, write, grow and monetize your newsletter with this comprehensive system build by Notion and Carrd
   * [Aprendiendo Notion](https://aprendenotion.com/)
   * [Notelet](https://notelet.so/) Create a website or blog with Notion. Write in Notion, publish to the web. Custom domain, analytics, themes and more.
+  * [mendesaltaren](https://www.mendesaltaren.com/handbook-sections/notion) En Notion se lleva a cabo toda la organización interna del equipo y la organización de proyectos.
 * [coda](https://coda.io/) nuevos documentos online unificado, al estilo de Notion pero mas completo y menos extendido
   * [Learn coda in 10 tweets](https://twitter.com/kmendes/status/1363953459138097152) Imprescindible
   * [Blog](https://coda.io/@coda/the-coda-blog)
