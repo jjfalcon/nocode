@@ -192,6 +192,8 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [Data privacy compliance, visualized and simplified](https://blog.appgyver.com/creator-of-the-week-data-privacy-compliance-visualized-and-simplified-with-harpocrates-b6e13fab006b)* [AppHive](https://apphive.io/es) Crea tu propia App gratis. Elige una plantilla, cambia arrastrando, y publica en iOS/Android. Incluye funciones como GPS, calendario, notificaciones, pagos y mucho más...
   * [Tutorial para crear app tipo Uber Eats o Rappi sin escribir código](https://www.youtube.com/watch?v=SD4H4jXcTTY&feature=youtu.be)
   * [Ostrich](https://apps.apple.com/es/app/ostrich-build-money-habits/id1530618708#?platform=iphone)Build Money Habit‪s‬
+  * [Building a smart home with personal weather stations](https://blog.appgyver.com/creator-of-the-week-building-a-smart-home-with-personal-weather-stations-5ab1c3d33753)
+  * [Lesson 5 - Styles](https://docs.appgyver.com/appgyver-academy/core-lessons-complete-guide-to-composer-pro/core-lesson-5-styles)
 
 * [Bubble](https://bubble.io/) para desarrollar apps en movil, ordenador tienes mucho mas control y extensiones
   * [How To Build An Unsplash Clone With No Code](https://community.nocodedevs.com/c/news-and-annoucements/how-to-build-an-unsplash-clone-with-no-code)
