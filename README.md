@@ -221,7 +221,6 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [How To Build A No-Code App With UI Builder](https://backendless.com/how-to-build-a-no-code-app-with-ui-builder/)
   * [API Backendless](https://backendless.com/features/api-services/codeless) Develop without coding, cloud code, api services, and custom alexa skills.
 
-
 ### Datos
 * [GoogleSheets](https://docs.google.com/spreadsheets) tan simple y accesible como una hoja excel online
 * [AirTable](https://airtable.com/) excel online inteligente
@@ -260,6 +259,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [Aprendiendo Notion](https://aprendenotion.com/)
   * [Notelet](https://notelet.so/) Create a website or blog with Notion. Write in Notion, publish to the web. Custom domain, analytics, themes and more.
   * [mendesaltaren](https://www.mendesaltaren.com/handbook-sections/notion) En Notion se lleva a cabo toda la organización interna del equipo y la organización de proyectos.
+  * [Barra de progreso](https://aprendenotion.com/barras-de-progreso)
 * [coda](https://coda.io/) nuevos documentos online unificado, al estilo de Notion pero mas completo y menos extendido
   * [Learn coda in 10 tweets](https://twitter.com/kmendes/status/1363953459138097152) Imprescindible
   * [Blog](https://coda.io/@coda/the-coda-blog)
@@ -303,6 +303,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Startupping](https://startuping.unicornplatform.com/) The best way to launch and boost your startup. We provide you with the Network and the +1000 Tools directory for digital projects
 * [Canal Sin Codigo](https://www.youtube.com/channel/UCK5CiYuAvpYh9qpf_ujlufg)
 * [NoCode MBA](https://www.nocode.mba/) Learn to build real apps and websites. All without code.
+* [Bests NoCode Content Creators](https://twitter.com/nocodedevs/status/1380209823761960960?s=12)
 
 ## Plataformas
 * [Retool](https://retool.com/) Get started building your internal tool in minutes
