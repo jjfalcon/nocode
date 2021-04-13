@@ -70,6 +70,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Ostrich](https://apps.apple.com/es/app/ostrich-build-money-habits/id1530618708#?platform=iphone)Build Money Habit‪s‬ desarrollado con AppGiver
 * [GetSilverLinning](https://twitter.com/chrisbrownridge/status/1346605213512204291) An inspirational #nocode story
 * [CleanMenu](https://bubble.io/blog/bubble-app-cleanmenu/) Bubble App of the Day. 
+* [Tablao](https://irenedavila.com/39b3ab3d823f4a5cbe0a0b2858e63627) ha sido creada utilizando Airtable, Integromat, Webflow y Typeform en sus versiones gratuitas. Todo el proyecto ha costado 0€ y ha llevado unas 12h. 
 
 ## ejemplos funcionalidades 
 * [Thoughts writing a Google App script](https://martinfowler.com/articles/202009-google-app-dir.html) Hosting a simple application on a Google spreadsheet is an appealing deployment platform for a range of simple tasks. It allows users to run code without having to install something on their machine, to enter data in a familiar environment, and support easy sharing with colleagues. It's not a platform I hear much discussion about, but it's one to keep in mind. In particular, for any task that would be a simple shell script, but your users aren't comfortable with console windows and text files.
