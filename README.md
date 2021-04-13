@@ -7,6 +7,9 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Recursos NoCode en español](https://www.notion.so/Recursos-Comunidad-No-Code-en-espa-ol-16e78fa58d62474e8ec44189316894a6)
 ![Listado de herramientas](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fde214e5f-eaa0-44e0-8a21-6213269135d6%2F511EB886-1F23-4542-A874-6ECA2F7191BF.jpeg?table=block&id=5c352d8a-1a19-4c8c-9fe5-14da4062b4d7&width=2560&userId=c141d9cc-7b14-4104-94f0-0dd4e9589b1d&cache=v2)
 
+* [Recursos Nocode](https://twitter.com/david_bonilla/status/1380175600749588489)
+![image](https://user-images.githubusercontent.com/593060/114519720-f9ef9480-9c40-11eb-87d9-6329abfa7e72.png)
+
 * [5 pasos para comenzar con no-code](https://sharingaway.com/no-code-para-principiantes-los-5-pasos-que-debes-seguir/) 
   * Descubre tu motivacion
   * Elige las herramientas que vas a usar
