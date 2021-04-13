@@ -206,6 +206,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [Investing in Bubble startups](https://bubble.io/investordescription.pdf) If you find yourself in a position where you are trying to raise capital, Bubble may be a topic of conversation with investors since it is (still!) a fairly new way to build web apps. To help you in these conversations, we put together this document that addresses the main questions we hear investors asking.
   * [Plantillas](https://bubble.io/templates)
   * [EasyCode](https://ezcode.co/)
+  * [Bubble Makers 10](https://bubblemakers.substack.com/p/10) Create custom checkboxes, [Minimaps](https://minimaps.io/) an app to create simple roadmaps, and opening links in a tab.
 
 * [Glide](https://www.glideapps.com/) construye en 5min una app PWA desde google sheets
   * [Así es Glide](https://www.genbeta.com/herramientas/asi-glide-herramienta-para-crear-tu-propia-aplicacion-a-partir-hoja-calculo-google-cinco-minutos-gratis)
