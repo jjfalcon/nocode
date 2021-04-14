@@ -97,6 +97,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Katana IU](https://katanamrp.com/)
 * [Pomotroid](https://madewithvuejs.com/pomotroid) Pomodoro Timer Desktop App
 * [Belion](https://www.producthunt.com/posts/belion) Track your time and calculate your profits
+* [https://www.notioneverything.com/](https://twitter.com/valentin_gef/status/1381620907223965699) Como crear y general 3000$/mes de un side projec
 
 ## principales herramientas recomendadas
 * Herramientas Minimun.run (consultora nocode, con futuro en desarrollo herramientas gap). Proceso condiciona herramienta
@@ -265,6 +266,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [Notelet](https://notelet.so/) Create a website or blog with Notion. Write in Notion, publish to the web. Custom domain, analytics, themes and more.
   * [mendesaltaren](https://www.mendesaltaren.com/handbook-sections/notion) En Notion se lleva a cabo toda la organización interna del equipo y la organización de proyectos.
   * [Barra de progreso](https://aprendenotion.com/barras-de-progreso)
+  * [Templates Store](https://www.notioneverything.com/) múltples plantillas Notion de pago y gratuitas
 * [coda](https://coda.io/) nuevos documentos online unificado, al estilo de Notion pero mas completo y menos extendido
   * [Learn coda in 10 tweets](https://twitter.com/kmendes/status/1363953459138097152) Imprescindible
   * [Blog](https://coda.io/@coda/the-coda-blog)
@@ -301,10 +303,18 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Wildcard](https://www.geoffreylitt.com/wildcard/)
 
 ## comunidad, formacion
-* [NocodeDevs](https://community.nocodedevs.com/) comunidad nocode desarrollada en Notion
-* [Nucode.co](https://www.nucode.co/) Nocode community. Join 3660+ makers & experts learning & building products with no-code tools.
-* [Makerpad.co](https://www.makerpad.co/) Nocode community. Learn from our best-in-class education. From side projects to business workflows, discover, clone and create projects or workflows alongside thousands of operators. 
-* [Nocodehackers](https://www.nocodehackers.es/) es la plataforma en español donde aprender sobre las herramientas sin código. Mediante proyectos reales, aprenderás todo lo que necesitas saber para poder llevar a cabo tus ideas y lanzarlas al mercado, o mejorar tu día a día.
+* [Top Nocode Communities](https://twitter.com/Formstack/status/1382057681158955009)
+  * @100daysnocode
+  * http://NoCode.tech
+  * [NocodeDevs](https://community.nocodedevs.com/) comunidad nocode desarrollada en Notion
+  * [@nocodery](https://nocodery.com/)
+  * [Nocodehackers](https://www.nocodehackers.es/) es la plataforma en español donde aprender sobre las herramientas sin código. Mediante proyectos reales, aprenderás todo lo que necesitas saber para poder llevar a cabo tus ideas y lanzarlas al mercado, o mejorar tu día a día.
+  * [@nocodejournal](https://www.nocodejournal.com/)
+  * [@nocodefounders](https://nocodefounders.com/)
+  * [@nocodemakers_](https://nocodemakers.com/)
+  * [@nocodeops](https://www.nocodeops.com/)
+  * [@BuildNucode](https://www.nucode.co/) Nocode community. Join 3660+ makers & experts learning & building products with no-code tools.
+  * [Makerpad.co](https://www.makerpad.co/) Nocode community. Learn from our best-in-class education. From side projects to business workflows, discover, clone and create projects or workflows alongside thousands of operators. 
 * [Startupping](https://startuping.unicornplatform.com/) The best way to launch and boost your startup. We provide you with the Network and the +1000 Tools directory for digital projects
 * [Canal Sin Codigo](https://www.youtube.com/channel/UCK5CiYuAvpYh9qpf_ujlufg)
 * [NoCode MBA](https://www.nocode.mba/) Learn to build real apps and websites. All without code.
