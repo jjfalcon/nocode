@@ -304,6 +304,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [thinkific](https://www.thinkific.com/) Crear cursos de formacion bajo tu propia marca
 
 ## Formacion
+* [Loom](https://www.loom.com/) Herramienta para captura de pantallas y camara.
 * [Mi Formacion Nocodehackers](https://nocodehackers.thinkific.com/)
   * [Aprende Zapier en una hora](https://nocodehackers.thinkific.com/courses/take/aprende-zapier-en-una-hora)
   * [Aprende Airtable en una hora](https://nocodehackers.thinkific.com/courses/take/Airtable-basics)
