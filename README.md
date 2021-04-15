@@ -301,8 +301,13 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [externalizar el formulario de contacto](https://twitter.com/jlhortelano/status/1299360673571508224)
 * [Count](https://count.co/) The fastest way to combine, organise and visualise your data. Count is the all-in-one data platform for you and your team
 * [Wildcard](https://www.geoffreylitt.com/wildcard/)
+* [thinkific](https://www.thinkific.com/) Crear cursos de formacion bajo tu propia marca
 
-## comunidad, formacion
+## Formacion
+* [Aprende Zapier en una hora](https://nocodehackers.thinkific.com/courses/take/aprende-zapier-en-una-hora)
+* [Aprende Airtable en una hora](https://nocodehackers.thinkific.com/courses/take/Airtable-basics)
+
+## Comunidad
 * [Top Nocode Communities](https://twitter.com/Formstack/status/1382057681158955009)
   * @100daysnocode
   * http://NoCode.tech
