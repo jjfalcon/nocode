@@ -10,6 +10,8 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Recursos Nocode](https://twitter.com/david_bonilla/status/1380175600749588489)
 ![image](https://user-images.githubusercontent.com/593060/114519720-f9ef9480-9c40-11eb-87d9-6329abfa7e72.png)
 
+* [NoCode 20 Tools for each category](https://twitter.com/nocodeluc/status/1367715251089707010?s=27)
+
 * [5 pasos para comenzar con no-code](https://sharingaway.com/no-code-para-principiantes-los-5-pasos-que-debes-seguir/) 
   * Descubre tu motivacion
   * Elige las herramientas que vas a usar
