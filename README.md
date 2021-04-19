@@ -232,6 +232,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 ### Datos
 * [GoogleSheets](https://docs.google.com/spreadsheets) tan simple y accesible como una hoja excel online
 * [AirTable](https://airtable.com/) excel online inteligente
+  * [Formacion Airtable oficial](https://support.airtable.com/)
   * [Introduccion a Airtable](https://nocodehackers.webflow.io/cursos/introduccion-a-airtable)
   * [Organiza todo lo que puedas imaginar con Airtable](https://enfoquenomada.com/airtable-base-datos/)
   * [Excel importer](https://support.airtable.com/hc/en-us/articles/360057346473) allows you to import an Excel file as a new base or add new table(s) to an existing base. With this feature, you can import all worksheets from an Excel workbook into Airtable base by uploading its .xls or .xlsx file. Note that at this time there is a file size limit of 5MB on Excel file imports.
