@@ -290,6 +290,9 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Roam research](https://roamresearch.com/)
 * [comparativa Notion, Coda, Roam](https://www.reddit.com/r/Notion/comments/eyos06/notion_vs_roam_research/)
 
+### Venta online
+* [eCommNocode](https://www.designresourc.es/) Aprende a crear tu tienda online y validar tu idea sin necesidad de saber programar.
+
 ### Otros
 * [Levity](https://www.levity.ai/) Create your own AI for documents, images, or text that takes daily, repetitive tasks off your shoulders so your team can reach the next level of productivity.
 * [arengu](https://www.arengu.com/) formularios de registro muy personalible (lowcode)
