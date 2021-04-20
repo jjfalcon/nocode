@@ -285,6 +285,9 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [The Notion User's Guide to Coda](https://coda.io/@ben-parker/the-notion-users-guide-to-coda)
   * [Uber App Redesign Project Doc](https://coda.io/@yixin/ubers-app-redesign-project-doc)
   * [Custom Templates](https://coda.io/@steve/meet-custom-templates)
+* [Count]
+  * [What is the count notebool](https://www.loom.com/share/c857145a09e84f7eaaa8c5f41fb30379)
+ 
 * [trello](https://trello.com/es) gestion de tareas proyectos de forma visual y colaborativa
 * [Infinity](https://startinfinity.com/) un competidor de Trello, Asana
 * [Roam research](https://roamresearch.com/)
