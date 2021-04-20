@@ -288,10 +288,11 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Count]
   * [What is the count notebool](https://www.loom.com/share/c857145a09e84f7eaaa8c5f41fb30379)
  
-* [trello](https://trello.com/es) gestion de tareas proyectos de forma visual y colaborativa
-* [Infinity](https://startinfinity.com/) un competidor de Trello, Asana
 * [Roam research](https://roamresearch.com/)
 * [comparativa Notion, Coda, Roam](https://www.reddit.com/r/Notion/comments/eyos06/notion_vs_roam_research/)
+
+* [trello](https://trello.com/es) gestion de tareas proyectos de forma visual y colaborativa
+* [Infinity](https://startinfinity.com/) un competidor de Trello, Asana
 
 ### Venta online
 
@@ -323,6 +324,9 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 
 ## Formacion
 * [Loom](https://www.loom.com/) Herramienta para captura de pantallas y camara.
+* [OBS Studio](https://obsproject.com/) Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux.
+* [RecordCast](https://www.recordcast.com/) Free Online Screen Recorder and Video Editor
+* [Vadoo Tv Player](https://vadoo.tv/) Ad-free video hosting with a customizable player & tools to grow your audience.
 * [Mi Formacion Nocodehackers](https://nocodehackers.thinkific.com/)
   * [Aprende Zapier en una hora](https://nocodehackers.thinkific.com/courses/take/aprende-zapier-en-una-hora)
   * [Aprende Airtable en una hora](https://nocodehackers.thinkific.com/courses/take/Airtable-basics)
