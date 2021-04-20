@@ -291,23 +291,32 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [comparativa Notion, Coda, Roam](https://www.reddit.com/r/Notion/comments/eyos06/notion_vs_roam_research/)
 
 ### Venta online
-* [eCommNocode](https://www.designresourc.es/) Aprende a crear tu tienda online y validar tu idea sin necesidad de saber programar.
 
 ### Otros
-* [Levity](https://www.levity.ai/) Create your own AI for documents, images, or text that takes daily, repetitive tasks off your shoulders so your team can reach the next level of productivity.
-* [arengu](https://www.arengu.com/) formularios de registro muy personalible (lowcode)
-* [landbot](http://landbot.io/) chatbot maker for creating interactive experiences for web and mobile in minutes
-* [cognito](https://www.cognitoforms.com/) easily build powerful forms
-* [twilio](https://www.twilio.com/) para comunicacion multicanal (inluso SMS)
-* [palabra.io](https://palabra.io/] email automation platform that integrates with your existing tools.
-* [Calendy](https://calendly.com/es) ayuda a programar reuniones sin tener que enviar decenas de correos
-* [TypeForm]
 * [Anima](https://www.animaapp.com/) Design to Code, Automated. Create High-Fidelity Prototypes in Sketch, XD, or Figma, and Export HTML. Available for Sketch, XD & Figma
 * [SwipePages](https://wwwhatsnew.com/2020/10/15/swipepages-para-crear-webs-para-moviles-sin-programar-nada/) para crear webs para moviles sin programar
 * [externalizar el formulario de contacto](https://twitter.com/jlhortelano/status/1299360673571508224)
 * [Count](https://count.co/) The fastest way to combine, organise and visualise your data. Count is the all-in-one data platform for you and your team
 * [Wildcard](https://www.geoffreylitt.com/wildcard/)
 * [thinkific](https://www.thinkific.com/) Crear cursos de formacion bajo tu propia marca
+* ECOMMERCE
+  * [eCommNocode](https://www.designresourc.es/) Aprende a crear tu tienda online y validar tu idea sin necesidad de saber programar.
+  * [Shopify]()
+* API
+  * [NocodeApi](https://nocodeapi.com/)
+  * [Nocode API Builders](https://startuptalky.com/no-code-api-builders/)
+* IA
+  * [Levity](https://www.levity.ai/) Create your own AI for documents, images, or text that takes daily, repetitive tasks off your shoulders so your team can reach the next level of productivity.
+* BOT
+  * [landbot](http://landbot.io/) chatbot maker for creating interactive experiences for web and mobile in minutes
+  * [BotFlow](https://botflow.link/) is the guide where you are going to learn how to build conversational assistants with no-code tools.
+* [twilio](https://www.twilio.com/) para comunicacion multicanal (inluso SMS)
+* [palabra.io](https://palabra.io/] email automation platform that integrates with your existing tools.
+* [Calendy](https://calendly.com/es) ayuda a programar reuniones sin tener que enviar decenas de correos
+* FORM
+  * [TypeForm]
+  * [arengu](https://www.arengu.com/) formularios de registro muy personalible (lowcode)
+  * [cognito](https://www.cognitoforms.com/) easily build powerful forms
 
 ## Formacion
 * [Loom](https://www.loom.com/) Herramienta para captura de pantallas y camara.
