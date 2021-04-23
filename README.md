@@ -311,6 +311,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [Nocode API Builders](https://startuptalky.com/no-code-api-builders/)
 * IA
   * [Levity](https://www.levity.ai/) Create your own AI for documents, images, or text that takes daily, repetitive tasks off your shoulders so your team can reach the next level of productivity.
+  * [Datature](https://datature.io/) end to end AI vision platform. Build your own computer vision models without a single line of code.
 * BOT
   * [landbot](http://landbot.io/) chatbot maker for creating interactive experiences for web and mobile in minutes
   * [BotFlow](https://botflow.link/) is the guide where you are going to learn how to build conversational assistants with no-code tools.
