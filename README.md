@@ -34,6 +34,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [Building A Building Access Records Tracker App](https://www.linkedin.com/pulse/building-basic-access-records-tracker-contact-tracing-eu-zhijing) with Limited Contact Tracing Functionality) Using Glide & Google Sheets
 
 ## como validar ideas?
+* [How to build a nocode mvp](https://dzone.com/articles/how-to-build-a-no-code-mvp)
 * Generar ideas, a partir de identificar puntos de dolor o fricción en situaciones existentes.
 * Evaluar idea de forma rápida, a través de canvas y respondiendo preguntas claves:
   * como monetizar, para hacer sostenible?
