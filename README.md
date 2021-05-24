@@ -251,6 +251,8 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 
 ### Integracion
 * [zapier](https://zapier.com/) es el pegamento para conectar apps y automatizar flujos de trabajo
+  * [How to get the most out of SMS messaging with automation](https://zapier.com/blog/sms-messaging-automation)
+  * [Conecta Notion con Zapier](https://www.nocodehackers.es/courses/conecta-todo-con-notion-y-zapier)
 * [integromat](https://www.integromat.com/) similar a zapier
 * [Integration Capabilities in top 20 nocode platforms](https://nocodeinfo.com/integration-capabilities-in-top-20-nocode-platforms/) 
 * [PrestoAPI](https://prestoapi.com/) The API Tool You Need. Spend more time on front-end development
@@ -259,6 +261,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 ### productividad
 * [Walling](https://walling.app/) Collaborative walls for ideas, projects and research. Walling is your space to capture ideas, organize content and visually work through projects and research.
 * [Notion](https://www.notion.so/) All-in-one workspace. One tool for your whole team. Write, plan, and get organized.
+  * [Conecta Notion con Zapier](https://www.nocodehackers.es/courses/conecta-todo-con-notion-y-zapier)
   * Go to http://notion.so/guides to find tutorials, videos and inspiration
   * [Links and backlinks](https://www.notion.so/Create-links-backlinks-cb3c406403c940b68af52de121e05474)
   * [Ejemplo portafolio](https://twitter.com/zenekezene/status/1306188657989222400?s=12]
