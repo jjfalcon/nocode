@@ -104,7 +104,8 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Katana IU](https://katanamrp.com/)
 * [Pomotroid](https://madewithvuejs.com/pomotroid) Pomodoro Timer Desktop App
 * [Belion](https://www.producthunt.com/posts/belion) Track your time and calculate your profits
-* [https://www.notioneverything.com/](https://twitter.com/valentin_gef/status/1381620907223965699) Como crear y general 3000$/mes de un side projec
+* [https://www.notioneverything.com/](https://twitter.com/valentin_gef/status/1381620907223965699) Como crear y general 3000$/mes de un side project
+* [Circular Docs](https://www.circulardocs.com/)
 
 ## principales herramientas recomendadas
 * Herramientas Minimun.run (consultora nocode, con futuro en desarrollo herramientas gap). Proceso condiciona herramienta
