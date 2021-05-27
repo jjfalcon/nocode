@@ -52,6 +52,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Luego si hay tracción ya se irá automatizando...
 
 ## ejemplos startups
+* [mySpaList](https://www.myspalist.com/) Marketplace de spa en NY
 * [Altaguardia](https://www.minimum.run/posts/alta-guardia-nocode-for-minimum-run) Como crear una start-up de alquiler de alarmas usando tecnologías nocode
 * [heymarketers.com](https://www.makerpad.co/stories/corey-haines-launching-a-profitable-job-board-for-marketers-with-no-code-tools-in-3-weeks) Launching a profitable job board for marketers with no-code tools in 3 weeks
 * [Weremoto](https://weremoto.com/) : Trabajos remotos de Programación, Diseño, Marketing y más. Enfocados en Latinoamérica. Herramientas utilizadas sheet2site, glide
