@@ -52,7 +52,22 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Luego si hay tracción ya se irá automatizando...
 
 ## ejemplos startups
-* [mySpaList](https://www.myspalist.com/) Marketplace de spa en NY
+* [mySpaList](https://www.myspalist.com/) Marketplace de spa en NY desarrollado por minimun.run. Desarrollado en 2/3 meses sin dedicacion completa.
+ * Data (Tech Stack)
+  * Herramientas: Google (Analitics, Tag Manager, DataStudio, Sheets), CMS (webflow), recoger datos privados cliente (MemberStack) hacia Sheets con Integromat
+  * Medicion (Documento Notion o Google Slide/Doc):  1. idea de negocio 2. activo digital web (captación, conversión) 3. kpis(usuarios, registros, contactos a profesionales) 
+  * Etiquetado/configuracion (Documento Notion o Google Slide/Doc): D1. etiquetas de página (page_name, page_type) particular/profesional 2. variables de eventos (CTA, contacto) en webflow custom attributes 3. configurar etiquetas, eventos como objetivos. Agrupar por objetivos (registro, contacto, compartir social, etc) en categoria, accion, etiqueta
+  * Visualizacion: 1. captación 2. retención 3. conversión
+ * Build
+  * Web (webflow) diseño y cms (info pública masajistas)
+  * MemberStack (gestión de pagos y subscripciones de profesionales) de forma segura e integrada con webflow
+  * Stripe para los pagos de forma segura
+  * Integromat, para conectar todas estas herramientas. Algo más dificil que zapier, pero más potente y barato con uso
+  * twillio, para verificar email y numeros de telefono
+  * sendgrid, envio de emails
+  * jetboost, búsquedas en webflow y marcar como favoritas
+  * buscador webflow no viable, desarrollo propio Firebase y PostgreSQL
+  * https://nearch.me/ producto lanzado como solución al problema anterior. Buscar sobre CMS webflow o AirTable. Puede ser como https://www.algolia.com/
 * [Altaguardia](https://www.minimum.run/posts/alta-guardia-nocode-for-minimum-run) Como crear una start-up de alquiler de alarmas usando tecnologías nocode
 * [heymarketers.com](https://www.makerpad.co/stories/corey-haines-launching-a-profitable-job-board-for-marketers-with-no-code-tools-in-3-weeks) Launching a profitable job board for marketers with no-code tools in 3 weeks
 * [Weremoto](https://weremoto.com/) : Trabajos remotos de Programación, Diseño, Marketing y más. Enfocados en Latinoamérica. Herramientas utilizadas sheet2site, glide
