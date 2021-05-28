@@ -59,6 +59,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Medicion (Documento Notion o Google Slide/Doc):  1. idea de negocio 2. activo digital web (captación, conversión) 3. kpis(usuarios, registros, contactos a profesionales) 
   * Etiquetado/configuracion (Documento Notion o Google Slide/Doc): D1. etiquetas de página (page_name, page_type) particular/profesional 2. variables de eventos (CTA, contacto) en webflow custom attributes 3. configurar etiquetas, eventos como objetivos. Agrupar por objetivos (registro, contacto, compartir social, etc) en categoria, accion, etiqueta
   * Visualizacion: 1. captación 2. retención 3. conversión
+  * Dashboard: Google Data Studio, Sheets, Integromat
  * Build
   * Web (webflow) diseño y cms (info pública masajistas)
   * MemberStack (gestión de pagos y subscripciones de profesionales) de forma segura e integrada con webflow
