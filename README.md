@@ -20,7 +20,8 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Crea un proyecto
 
 ## TODO
-* [Nocode Fest](https://www.youtube.com/watch?v=OWiPt_cp2ks)
+* [Nocode Fest 1](https://www.youtube.com/watch?v=OWiPt_cp2ks)
+* [Nocode Fest 2](https://www.youtube.com/watch?v=Re9iDUBapIE) Minimum.run y Equipo Mínimo Viable
 * [Great Products](https://twitter.com/victorianoi/status/1389542935033692160?s=27) @TallyForms, @supabase_io, @jitsucom
 * [How to Setup a New Glide Project for Your Developer](https://community.nocodedevs.com/c/free-tutorials/how-to-setup-a-new-glide-project-for-your-developer)
 * [Spend 5 more minutes designing your database](https://bubblemakers.substack.com/p/databases)
