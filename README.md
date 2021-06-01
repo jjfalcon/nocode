@@ -53,6 +53,11 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Luego si hay tracción ya se irá automatizando...
 
 ## ejemplos startups
+* [1001 discos](https://1001discos.com/) que hay que escuchar antes de morir (procedente del libro). Otros relacionados... 
+ * [1001 pelis](https://es.wikipedia.org/wiki/1001_pel%C3%ADculas_que_hay_que_ver_antes_de_morir)
+ * [1001 libros](https://www.amazon.es/1001-libros-leer-antes-morir/dp/8425342511) 
+ * [1001 series](https://www.amazon.es/1001-antes-morir-Ocio-entretenimiento/dp/8416895554)
+ * [100 libros](https://www.traveler.es/experiencias/articulos/100-libros-que-deberias-leer-antes-de-morir/11167)
 * [mySpaList](https://www.myspalist.com/) Marketplace de spa en NY desarrollado por minimun.run. Desarrollado en 2/3 meses sin dedicacion completa.
  * Data (Tech Stack)
   * Herramientas: Google (Analitics, Tag Manager, DataStudio, Sheets), CMS (webflow), recoger datos privados cliente (MemberStack) hacia Sheets con Integromat
@@ -205,6 +210,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [CleanMenu](https://bubble.io/blog/bubble-app-cleanmenu/) enhances the experience of restaurant owners and customers with a QR code.
 * [typeform](https://www.typeform.com/)
 * [Dork](https://dorik.com/) Amazing mix of webflow and carrd. Design & Host Beautiful Websites Without Code! Flexible & easy-to-use nocode website builder with 120+ UI Components and 12 beautiful templates. Save time and money on building your next website.
+* [mmm](https://build.mmm.page/) es un constructor web diferente como un collage, Fácil y desenfadado para tu web personal?
 
 ### App
 * [Comparativa herramientas para crear apps](https://antoniosanchez.pro/blog/comparativa-de-herramientas-no-code-para-crear-apps-nativas/)
@@ -324,6 +330,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Infinity](https://startinfinity.com/) un competidor de Trello, Asana
 
 ### Venta online
+* [float](https://www.float.so/) permite crear cursos en Notion restringiendo el acceso a cierto contenido e integrándolo con una pasarela de pagos (stripe)
 
 ### Otros
 * [Anima](https://www.animaapp.com/) Design to Code, Automated. Create High-Fidelity Prototypes in Sketch, XD, or Figma, and Export HTML. Available for Sketch, XD & Figma
