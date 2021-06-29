@@ -278,6 +278,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [How To Integrate Retool With Backendless](https://backendless.com/how-to-integrate-retool-with-backendless/)
 * [DataFetcher](https://datafetcher.io/) Import data in Airtable from API
 * [Count](https://count.co/) the data notebook your whole team will love
+* [Fauna](https://fauna.com/serverless) helps software development teams replace the database infrastructure with a serverless data API. 
 
 ### Integracion
 * [zapier](https://zapier.com/) es el pegamento para conectar apps y automatizar flujos de trabajo
