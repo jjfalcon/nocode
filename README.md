@@ -19,6 +19,8 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Empieza hoy mismo con tu aprendizaje
   * Crea un proyecto
 
+* [Nocode landscape map](https://twitter.com/nocodedevs/status/1406769422073741312?s=27)
+
 ## TODO
 * [7 best no-code resources](https://twitter.com/nocodeluc/status/1409835139593506821?s=27)
 * [Nocode Fest 1](https://www.youtube.com/watch?v=OWiPt_cp2ks)
