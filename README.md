@@ -58,6 +58,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Luego si hay tracción ya se irá automatizando...
 
 ## ejemplos startups
+* [Remote First](https://remotefirst.digital/) Sideproject en nicho muy competitivo
 * [1001 discos](https://1001discos.com/) que hay que escuchar antes de morir (procedente del libro). Otros relacionados... 
  * [1001 pelis](https://es.wikipedia.org/wiki/1001_pel%C3%ADculas_que_hay_que_ver_antes_de_morir)
  * [1001 libros](https://www.amazon.es/1001-libros-leer-antes-morir/dp/8425342511) 
