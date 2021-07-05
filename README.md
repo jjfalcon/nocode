@@ -22,6 +22,14 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Nocode landscape map](https://twitter.com/nocodedevs/status/1406769422073741312?s=27)
 
 ## TODO
+* [7 best no-code resources to get start in nocode](https://twitter.com/NoCodeLuc/status/1409835139593506821?s=20)
+  * https://nocodemvp.com
+  * https://appswithoutcode.com
+  * makerpad.co
+  * nocodedevs.com
+  * nocodehq.com
+  * https://launchmba.co
+  * https://nucode.co
 * [Twitch NocodeHackers](https://m.twitch.tv/nocodehackers/home) Membership con Arengu y Stripe
 * [las mejores recetas IFTTT para twitter](https://andro4all.com/2014/09/mejores-recetas-ifttt-para-twitter)
 * [7 best no-code resources](https://twitter.com/nocodeluc/status/1409835139593506821?s=27)
@@ -40,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [Whatsapp Business Push Notification](https://community.glideapps.com/t/whatsapp-business-push-notification/19761)
   * [QR code scanner demo](https://community.glideapps.com/t/qr-code-scanner-demo/11620)
   * [Building A Building Access Records Tracker App](https://www.linkedin.com/pulse/building-basic-access-records-tracker-contact-tracing-eu-zhijing) with Limited Contact Tracing Functionality) Using Glide & Google Sheets
+  * [Glide 2.0 novedades](https://www.producthunt.com/posts/glide-2-0)
 
 ## como validar ideas?
 * [How to build a nocode mvp](https://dzone.com/articles/how-to-build-a-no-code-mvp)
@@ -58,6 +67,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Luego si hay tracción ya se irá automatizando...
 
 ## ejemplos startups
+* [Lanzar Sheet2Site](https://twitter.com/AndreyAzimov/status/1407388071994150912)
 * [Remote First](https://remotefirst.digital/) Sideproject en nicho muy competitivo
 * [1001 discos](https://1001discos.com/) que hay que escuchar antes de morir (procedente del libro). Otros relacionados... 
  * [1001 pelis](https://es.wikipedia.org/wiki/1001_pel%C3%ADculas_que_hay_que_ver_antes_de_morir)
@@ -106,6 +116,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [CleanMenu](https://bubble.io/blog/bubble-app-cleanmenu/) Bubble App of the Day. 
 * [Tablao](https://irenedavila.com/39b3ab3d823f4a5cbe0a0b2858e63627) ha sido creada utilizando Airtable, Integromat, Webflow y Typeform en sus versiones gratuitas. Todo el proyecto ha costado 0€ y ha llevado unas 12h. 
 * [https://twitter.com/visualdevs/status/1392879841230401536?s=27](https://twitter.com/visualdevs/status/1392879841230401536?s=27)
+* [Web hecha en webflow](https://calmfund.com/)
 
 ## ejemplos funcionalidades 
 * [Thoughts writing a Google App script](https://martinfowler.com/articles/202009-google-app-dir.html) Hosting a simple application on a Google spreadsheet is an appealing deployment platform for a range of simple tasks. It allows users to run code without having to install something on their machine, to enter data in a familiar environment, and support easy sharing with colleagues. It's not a platform I hear much discussion about, but it's one to keep in mind. In particular, for any task that would be a simple shell script, but your users aren't comfortable with console windows and text files.
@@ -202,11 +213,12 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 ### [Web app](https://www.nocode.tech/build/web-app)
 * [Umso](https://www.umso.com/) The Website Builder for Startups. The fastest way for startups to go live. Design and publish a beautiful website in no time.
 * [Kirby](https://getkirby.com/) [CMS basado en estructura de archivos](https://twitter.com/rafael_casuso/status/1371201427012530176?s=12), markdown con esteroides, API automático, multilenguaje, potente templating y UI modular. Muy buenas ideas.
-* [sheet2site](https://sheet2site.com/) la opción más simple, flexible y rápida.
+* [sheet2site](https://sheet2site.com/) la opción más simple, flexible y rápida. [La historia](https://twitter.com/AndreyAzimov/status/1407388071994150912)
 * [table2site](https://table2site.com/) Build sites without coding — use an Airtable base as your CMS desde 10€/mes 
 * [Airtable](https://airtable.com/) la mejor opción sin usas AirTable y es una webapp basada en datos
 * [Carrd](https://carrd.co/) permite construir una landing de forma simple y rapida
 * [softr.io](https://community.makerpad.co/c/showcase/membership-web-apps-on-airtable-in-10-minutes-with-softr-io) Membership web-apps. Build powerful websites and web apps on Airtable, in 10 minutes.
+* [Bildr](https://www.bildr.com/) The Future of Development is Visual. Build beautiful, complete SaaS products. No design constraints. Limitless functionality. Una herramienta muy interesante, aunque aún en sus fases iniciales es Bildr. Y es fascinante, porque la propia aplicación está hecha con su propia herramienta. Osea, que usas lo mismo que han creado para usar lo que estás usando. Inception puro y duro. Pero eso demuestra el potencial que tiene para construir aplicaciones complejas de manera visual. Aunque no es sencilla de usar - están tomando muy buenas decisiones a la hora de simplificar la creación de aplicaciones potentes y robustas, como el poder tener analítica integrada o el poder seleccionar la región desde la que quieres que se ejecute tu aplicación. ¡Ah! Y puedes crear extensiones de Chrome sin código. Toma ya.
  
 * [Webflow](https://webflow.com/) opcion completa y personalizable
   * [Learn webflow in 45min](https://mail.google.com/mail/u/1/#inbox/FMfcgxwKjKqxZRFdmfMfxvHLsVHbzTDv?projector=1)
@@ -339,6 +351,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 
 ### Venta online
 * [float](https://www.float.so/) permite crear cursos en Notion restringiendo el acceso a cierto contenido e integrándolo con una pasarela de pagos (stripe)
+* [Shopify](https://twitter.com/harleyf/status/1409934991254077448?) Adiós a la comisión de Shopify en el primer Millón de $ facturado cada año en su appstore. Sin comisiones para ventas menores de 1 Millon/año a partir de agosto/2021
 
 ### Otros
 * [Anima](https://www.animaapp.com/) Design to Code, Automated. Create High-Fidelity Prototypes in Sketch, XD, or Figma, and Export HTML. Available for Sketch, XD & Figma
@@ -349,7 +362,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [thinkific](https://www.thinkific.com/) Crear cursos de formacion bajo tu propia marca
 * ECOMMERCE
   * [eCommNocode](https://www.designresourc.es/) Aprende a crear tu tienda online y validar tu idea sin necesidad de saber programar.
-  * [Shopify]()
+  * [Shopify]() Adiós a la comisión de Shopify en el primer Millón de $ facturado cada año en su appstore
 * API
   * [NocodeApi](https://nocodeapi.com/)
   * [Nocode API Builders](https://startuptalky.com/no-code-api-builders/)
