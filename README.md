@@ -356,6 +356,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Shopify](https://twitter.com/harleyf/status/1409934991254077448?) Adiós a la comisión de Shopify en el primer Millón de $ facturado cada año en su appstore. Sin comisiones para ventas menores de 1 Millon/año a partir de agosto/2021
 
 ### Otros
+* [Reactive Resume](https://rxresu.me/)  A free and open source resume builder. Alternatives: @canva, flowcv.io, 
 * [Cookiehub](https://www.cookiehub.com/) Aviso Cookies, free para 25k/mes
 * [Anima](https://www.animaapp.com/) Design to Code, Automated. Create High-Fidelity Prototypes in Sketch, XD, or Figma, and Export HTML. Available for Sketch, XD & Figma
 * [SwipePages](https://wwwhatsnew.com/2020/10/15/swipepages-para-crear-webs-para-moviles-sin-programar-nada/) para crear webs para moviles sin programar
