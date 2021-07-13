@@ -67,6 +67,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Luego si hay tracción ya se irá automatizando...
 
 ## ejemplos startups
+* [VUI Challenge](http://vuichallenge.com/) a FREE project with 100 challenges to help you improve your voice design skills
 * [Lanzar Sheet2Site](https://twitter.com/AndreyAzimov/status/1407388071994150912)
 * [Remote First](https://remotefirst.digital/) Sideproject en nicho muy competitivo
 * [1001 discos](https://1001discos.com/) que hay que escuchar antes de morir (procedente del libro). Otros relacionados... 
