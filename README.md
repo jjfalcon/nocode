@@ -149,6 +149,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Circular Docs](https://www.circulardocs.com/)
 
 ## principales herramientas recomendadas
+* [Inversiones](https://twitter.com/thisiskp_/status/1415730479152517124?s=27) Coda, Webflow, Airtable, Zapier, Softr, Adalo, Bubble, Glide, Rows, Universe, Stacker, ObviouslyAI, LevityAI, n8n, Parabola.
 * Herramientas Minimun.run (consultora nocode, con futuro en desarrollo herramientas gap). Proceso condiciona herramienta
   * Webflow, https://jetboost.io/
   * Integromat, Zapier
