@@ -385,6 +385,13 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [TypeForm]
   * [arengu](https://www.arengu.com/) formularios de registro muy personalible (lowcode)
   * [cognito](https://www.cognitoforms.com/) easily build powerful forms
+* [SMS APIs](https://twitter.com/suprabhasupi/status/1418176752518533122?s=27)
+  * [Twilio](https://www.twilio.com/sms/pricing/es) 0,0833$/sms
+  * [Plivo](https://www.plivo.com/) 0,062$/msg
+  * [MessageBird](https://www.messagebird.com/) SMS 0,005$/msg WHATSAPP 0,0045$/msg 
+  * [Vonage](https://www.vonage.com.es/)
+  * [Textlocal](https://www.textlocal.com/)
+  * [Bandwidth](https://www.bandwidth.com/) 0,004$/msg
 
 ## Formacion
 * [Loom](https://www.loom.com/) Herramienta para captura de pantallas y camara.
