@@ -122,6 +122,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Web hecha en webflow](https://calmfund.com/)
 
 ## ejemplos funcionalidades 
+* [Ejemplos a practicar o portafolio](https://twitter.com/fmontes/status/1423642394524676101?s=27)
 * [Thoughts writing a Google App script](https://martinfowler.com/articles/202009-google-app-dir.html) Hosting a simple application on a Google spreadsheet is an appealing deployment platform for a range of simple tasks. It allows users to run code without having to install something on their machine, to enter data in a familiar environment, and support easy sharing with colleagues. It's not a platform I hear much discussion about, but it's one to keep in mind. In particular, for any task that would be a simple shell script, but your users aren't comfortable with console windows and text files.
 * [How to Export and Analyze Jira Issues in Google Sheets vs. Coda](https://dzone.com/articles/how-to-export-and-analyze-jira-issues-in-google-sh)
 * [Adding Audio to Play on a Set of Google Slides](https://jakemiller.net/adding-audio-to-play-on-a-set-of-google-slides/)
@@ -314,6 +315,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 ### productividad
 * [Walling](https://walling.app/) Collaborative walls for ideas, projects and research. Walling is your space to capture ideas, organize content and visually work through projects and research.
 * [Notion](https://www.notion.so/) All-in-one workspace. One tool for your whole team. Write, plan, and get organized.
+  * [Templates](https://twitter.com/victoruxui/status/1422738975215824901)
   * [Notion Everything](https://www.notioneverything.com/) Templates marketplace
   * [Conecta Notion con Zapier](https://www.nocodehackers.es/courses/conecta-todo-con-notion-y-zapier)
   * Go to http://notion.so/guides to find tutorials, videos and inspiration
