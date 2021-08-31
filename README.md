@@ -68,6 +68,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 
 ## ejemplos startups
 * [incomee](https://incomee.co/) Bublle App used by 2500+ freelancers. From proposal to payment, Incomee is the easiest tool to run your freelance business seamlessly
+* [@NobleSageLiquor](https://twitter.com/kevjochelson/status/1425776220034109440)
 * [Primera versión de @makerpad](https://twitter.com/bentossell/status/1067354945517694977) primera versión de @makerpad hecha en @carrd por @bentossell
 * [VUI Challenge](http://vuichallenge.com/) a FREE project with 100 challenges to help you improve your voice design skills
 * [Lanzar Sheet2Site](https://twitter.com/AndreyAzimov/status/1407388071994150912)
