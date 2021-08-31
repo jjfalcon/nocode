@@ -67,6 +67,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Luego si hay tracción ya se irá automatizando...
 
 ## ejemplos startups
+* [5 No-code business models](https://twitter.com/nocodechris/status/1426481081923129345?s=27)
 * [incomee](https://incomee.co/) Bublle App used by 2500+ freelancers. From proposal to payment, Incomee is the easiest tool to run your freelance business seamlessly
 * [@NobleSageLiquor](https://twitter.com/kevjochelson/status/1425776220034109440)
 * [Primera versión de @makerpad](https://twitter.com/bentossell/status/1067354945517694977) primera versión de @makerpad hecha en @carrd por @bentossell
@@ -314,8 +315,10 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Xano](https://www.xano.com/) generate API scalable backend automatically
 
 ### productividad
+* [Kairo](https://www.producthunt.com/posts/kairo) Time, habit and goal tracker on one flexible dashboard
 * [Walling](https://walling.app/) Collaborative walls for ideas, projects and research. Walling is your space to capture ideas, organize content and visually work through projects and research.
 * [Notion](https://www.notion.so/) All-in-one workspace. One tool for your whole team. Write, plan, and get organized.
+  * [Integrando Kairo](https://www.youtube.com/watch?v=rI9PQpthdqY&ab_channel=1BestCsharpblog)
   * [Templates](https://twitter.com/victoruxui/status/1422738975215824901)
   * [Notion Everything](https://www.notioneverything.com/) Templates marketplace
   * [Conecta Notion con Zapier](https://www.nocodehackers.es/courses/conecta-todo-con-notion-y-zapier)
