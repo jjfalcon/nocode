@@ -290,6 +290,9 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [API Backendless](https://backendless.com/features/api-services/codeless) Develop without coding, cloud code, api services, and custom alexa skills.
 
 ### Datos
+* Dashboard
+  * [UI bakery](https://uibakery.io/) Rapidly build dashboard, admin panels, internal tools, support apps with our free full-value training
+  * [Integrando Kairo](https://www.youtube.com/watch?v=rI9PQpthdqY&ab_channel=1BestCsharpblog)
 * [GoogleSheets](https://docs.google.com/spreadsheets) tan simple y accesible como una hoja excel online
 * [AirTable](https://airtable.com/) excel online inteligente
   * [Formacion Airtable oficial](https://support.airtable.com/)
