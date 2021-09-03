@@ -21,6 +21,16 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 
 * [Nocode landscape map](https://twitter.com/nocodedevs/status/1406769422073741312?s=27)
 
+
+## API
+* [5 APIS para nuevos proyectos](https://twitter.com/insharamin/status/1431600873977769990?s=27)
+* [NASA API](https://api.nasa.gov/) NASA offers a bunch of useful APIs for application developers. The objective of this site is to make NASA data, including imagery, eminently accessible to application developers.
+* [Frankfurter](https://www.frankfurter.app/) is an open-source API for current and historical foreign exchange rates. Fetch individual dates or download them in bulk as time-series data. Use in your web or mobile app.
+* [MovieDB API](https://www.themoviedb.org/documentation/api) gives you all the data you need to create a movie app. It’s a very useful API that allows you to fetch data about movies, actor images, TV shows, and much more.
+* [MealDB API](https://www.themealdb.com/) is an open, crowd-sourced database of Recipes from around the world. It gives you data about the ingredients of the meal, images, categories, meal videos, and much more.
+* [Responsive Voice API](https://responsivevoice.org/api/) Are You Interested In voice enabling your site with just one line of code? The responsive voice API allows you to transform any text into speech.
+* [Tonify API](https://deepai.org/machine-learning-model/toonify) Turn a photo of any face into a cartoon instantly with artificial intelligence
+
 ## TODO
 * [7 best no-code resources to get start in nocode](https://twitter.com/NoCodeLuc/status/1409835139593506821?s=20)
   * https://nocodemvp.com
@@ -264,6 +274,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [Lesson 5 - Styles](https://docs.appgyver.com/appgyver-academy/core-lessons-complete-guide-to-composer-pro/core-lesson-5-styles)
 
 * [Bubble](https://bubble.io/) para desarrollar apps en movil, ordenador tienes mucho mas control y extensiones
+  * [Bubble use cases](https://twitter.com/thisiskp_/status/1409578562982596609?s=27)
   * [How To Build An Unsplash Clone With No Code](https://community.nocodedevs.com/c/news-and-annoucements/how-to-build-an-unsplash-clone-with-no-code)
   * [Showcase](https://bubble.io/showcase) Discover what you can build with Bubble.
   * [Recomendacion para desarrollo apps](https://twitter.com/pabloheredia24/status/1333338642752921601) y [newsletter](https://bubblemakers.substack.com/p/coming-soon)
