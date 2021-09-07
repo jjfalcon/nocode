@@ -225,6 +225,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
     * [Hotjar](https://www.hotjar.com/) [Cómo integrar Hotjar en el flujo web a través de Google Tag Manager](https://es.minimum.run/posts/how-to-integrate-hotjar-in-webflow-through-google-tag-manager)
   
 ### Landing Page
+* [Mobirise](https://mobirise.com/es/) Crea paginas web rápidas, móviles y compatibles con Google! Sin programar y gratis.
 * [Umso](https://www.umso.com/) The Website Builder for Startups. The fastest way for startups to go live. Design and publish a beautiful website in no time.
 * [TypeDream](https://typedream.com/) Este constructor web #nocode combina la facilidad de Notion con la belleza de Webflow. Free (Unlimited pages, 1 Publishable page)
 * [Carrd](https://carrd.co/) permite construir una landing de forma simple y rapida
