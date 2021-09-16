@@ -21,6 +21,8 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 
 * [Nocode landscape map](https://twitter.com/nocodedevs/status/1406769422073741312?s=27)
 
+##
+* [Club EOM](https://www.youtube.com/channel/UCjg3NNw9IFnxiTj5MCip4Ag) Emprende o Muere
 
 ## API
 * [5 APIS para nuevos proyectos](https://twitter.com/insharamin/status/1431600873977769990?s=27)
@@ -331,6 +333,9 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Xano](https://www.xano.com/) generate API scalable backend automatically
 
 ### productividad
+* ERP
+  * [Holded](https://www.holded.com/)
+    * [Presentación rápida en 10min](https://www.youtube.com/watch?v=Ea0TP8gbe5g)
 * [Kairo](https://www.producthunt.com/posts/kairo) Time, habit and goal tracker on one flexible dashboard
 * [Walling](https://walling.app/) Collaborative walls for ideas, projects and research. Walling is your space to capture ideas, organize content and visually work through projects and research.
 * [Notion](https://www.notion.so/) All-in-one workspace. One tool for your whole team. Write, plan, and get organized.
