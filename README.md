@@ -336,6 +336,10 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * ERP
   * [Holded](https://www.holded.com/)
     * [Presentación rápida en 10min](https://www.youtube.com/watch?v=Ea0TP8gbe5g)
+* Gestion Proyectos, Calendr
+  * [Cómo gestionar PROYECTOS con Google Workspace](https://www.youtube.com/watch?v=IzJB5EjoSQc)
+  * [Administra tu tiempo con Google Calendar | Time Blocking](https://www.youtube.com/watch?v=nCoFwrmTyJQ)
+  * []()
 * [Kairo](https://www.producthunt.com/posts/kairo) Time, habit and goal tracker on one flexible dashboard
 * [Walling](https://walling.app/) Collaborative walls for ideas, projects and research. Walling is your space to capture ideas, organize content and visually work through projects and research.
 * [Notion](https://www.notion.so/) All-in-one workspace. One tool for your whole team. Write, plan, and get organized.
