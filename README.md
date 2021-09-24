@@ -79,6 +79,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Luego si hay tracción ya se irá automatizando...
 
 ## ejemplos startups
+* [Movie app](https://www.moviebase.app/) Desarrollo bastante transparente con su [Trello publico](https://trello.com/b/G6WeTzn0/moviebase)
 * [5 No-code business models](https://twitter.com/nocodechris/status/1426481081923129345?s=27)
 * [incomee](https://incomee.co/) Bublle App used by 2500+ freelancers. From proposal to payment, Incomee is the easiest tool to run your freelance business seamlessly
 * [@NobleSageLiquor](https://twitter.com/kevjochelson/status/1425776220034109440)
