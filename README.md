@@ -216,6 +216,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
     * Shopify
     * Webflow
     * Stripe
+    * [divilo](https://www.divilo.io/) [competidor de stripe](https://hipertextual.com/2021/09/divilo-startup-competidora-stripe)
     * Gumroad
   * Client Service
     * Loom
