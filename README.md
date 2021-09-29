@@ -394,6 +394,8 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 
 * [trello](https://trello.com/es) gestion de tareas proyectos de forma visual y colaborativa
 * [Infinity](https://startinfinity.com/) un competidor de Trello, Asana
+* [MentiMeter](https://www.mentimeter.com/) Create interactive presentations & meetings, wherever you are. Use live polls, quizzes, word clouds, Q&As and more to get real-time input - regardless if you’re remote, hybrid or face-to-face
+
 
 ### Venta online
 * [float](https://www.float.so/) permite crear cursos en Notion restringiendo el acceso a cierto contenido e integrándolo con una pasarela de pagos (stripe)
