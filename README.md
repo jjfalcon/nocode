@@ -148,6 +148,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [How to Send WhatsApp Messages from Google Sheets with JavaScript and Node.js](https://www.twilio.com/blog/send-whatsapp-messages-from-google-sheets-javascript-node-js)
 * [Free School Phone App template en Google Slides](https://slidesmania.com/free-school-phone-app-template-for-google-slides/)
 * [app delivery en glide](https://www.youtube.com/channel/UCK5CiYuAvpYh9qpf_ujlufg) videos y [plantillas](https://comunidad.essincodigo.com/t/app-de-delivery-de-los-videos-plantillas/184)
+* [BetterUptime](https://betteruptime.com/)
 
 ## ejemplos a desarrollar...
 * [Booking App with @JotForm](https://twitter.com/nocodedevs/status/1390010766556807174?s=27)
