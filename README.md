@@ -81,6 +81,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Luego si hay tracción ya se irá automatizando...
 
 ## ejemplos startups
+* [FaxMyDoc](https://blog.lowcode.agency/glide-integromat/) How We Built a Faxing SaaS with Glide and Integromat
 * [Ejemplo práctico de cómo montar y validar un negocio con #nocode y facturar +500K€ en menos de 3 meses](https://twitter.com/carlosbeneyto/status/1438052168909606912?s=27)
 * [Movie app](https://www.moviebase.app/) Desarrollo bastante transparente con su [Trello publico](https://trello.com/b/G6WeTzn0/moviebase)
 * [5 No-code business models](https://twitter.com/nocodechris/status/1426481081923129345?s=27)
