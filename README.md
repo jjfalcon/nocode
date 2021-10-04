@@ -241,6 +241,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [TypeDream](https://typedream.com/) Este constructor web #nocode combina la facilidad de Notion con la belleza de Webflow. Free (Unlimited pages, 1 Publishable page)
 * [Carrd](https://carrd.co/) permite construir una landing de forma simple y rapida
 * [Más herramientas aquí](https://www.nocodejournal.com/posts/the-best-landing-pages-using-nocode)
+* [Super Builder](https://zap.super.site/)
 
 ### [Web app](https://www.nocode.tech/build/web-app)
 * [SaaS Pages](https://saaspages.xyz/) A collection of the best landing pages with a focus on copywriting and design.
