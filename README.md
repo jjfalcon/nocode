@@ -405,6 +405,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 ### Venta online
 * [float](https://www.float.so/) permite crear cursos en Notion restringiendo el acceso a cierto contenido e integrándolo con una pasarela de pagos (stripe)
 * [Shopify](https://twitter.com/harleyf/status/1409934991254077448?) Adiós a la comisión de Shopify en el primer Millón de $ facturado cada año en su appstore. Sin comisiones para ventas menores de 1 Millon/año a partir de agosto/2021
+* [Optimize](https://optimize.google.com/optimize/home/#/accounts) Test A/B para tomar decisiones en base a datos de conversion de usuarios
 
 ### Otros
 * [Reactive Resume](https://rxresu.me/)  A free and open source resume builder. Alternatives: @canva, flowcv.io, 
