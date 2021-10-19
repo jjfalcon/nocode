@@ -36,6 +36,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Tonify API](https://deepai.org/machine-learning-model/toonify) Turn a photo of any face into a cartoon instantly with artificial intelligence
 
 ## TODO
+* [HelloGuru](https://hub.helloguru.io/) Cursos gratis de Adalo, Api, Bubble, Glide, Obviously IA, WebFlow y pronto Zapier, HelloGuru. Conviértete en un gurú del No-Code. Encuentra personas, aprende nuevas lecciones, conoce nuevas ideas. Todo gratis...
 * [7 best no-code resources to get start in nocode](https://twitter.com/NoCodeLuc/status/1409835139593506821?s=20)
   * https://nocodemvp.com
   * https://appswithoutcode.com
@@ -65,6 +66,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [Glide 2.0 novedades](https://www.producthunt.com/posts/glide-2-0)
 
 ## como validar ideas?
+* [PLYGRND](https://plygrnd.xyz/) The Fastest Way To Validate Your Business Idea. Create a landing page for your idea and start collecting sign-ups in minutes. All with a single tool - no coding, no integrations, no hassle. Start validating in 5 minutes
 * [How to build a nocode mvp](https://dzone.com/articles/how-to-build-a-no-code-mvp)
 * Generar ideas, a partir de identificar puntos de dolor o fricción en situaciones existentes.
 * Evaluar idea de forma rápida, a través de canvas y respondiendo preguntas claves:
@@ -403,7 +405,6 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [trello](https://trello.com/es) gestion de tareas proyectos de forma visual y colaborativa
 * [Infinity](https://startinfinity.com/) un competidor de Trello, Asana
 * [MentiMeter](https://www.mentimeter.com/) Create interactive presentations & meetings, wherever you are. Use live polls, quizzes, word clouds, Q&As and more to get real-time input - regardless if you’re remote, hybrid or face-to-face
-
 
 ### Venta online
 * [float](https://www.float.so/) permite crear cursos en Notion restringiendo el acceso a cierto contenido e integrándolo con una pasarela de pagos (stripe)
