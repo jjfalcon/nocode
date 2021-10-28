@@ -83,6 +83,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Luego si hay tracción ya se irá automatizando...
 
 ## ejemplos startups
+* [Desky](https://www.trydesky.com/es/home) Convierte tu oficinaen un espacioflexible. Facilita a tu equipo el escoger cómo y dónde trabajar, te damos herramientas para aprender sobre cómo se usa la nueva "oficina remota flexible".
 * [FaxMyDoc](https://blog.lowcode.agency/glide-integromat/) How We Built a Faxing SaaS with Glide and Integromat
 * [Ejemplo práctico de cómo montar y validar un negocio con #nocode y facturar +500K€ en menos de 3 meses](https://twitter.com/carlosbeneyto/status/1438052168909606912?s=27)
 * [Movie app](https://www.moviebase.app/) Desarrollo bastante transparente con su [Trello publico](https://trello.com/b/G6WeTzn0/moviebase)
