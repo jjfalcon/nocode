@@ -84,6 +84,9 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Luego si hay tracción ya se irá automatizando...
 
 ## ejemplos startups
+* [I launched 7 products on Product Hunt](https://twitter.com/tomjacquesson/status/1455955703861059591?s=27)
+* [No-Code isn't about "not using code" but multiplying the amount of mvp/product/workflow/automation builders in your company by 2-5x.](https://twitter.com/bentossell/status/1456230023501914112?s=27)
+* [Lanzamiento tercera empresa con 45 años](https://twitter.com/tibjazz/status/1455996511888805891?s=27)
 * [Desky](https://www.trydesky.com/es/home) Convierte tu oficinaen un espacioflexible. Facilita a tu equipo el escoger cómo y dónde trabajar, te damos herramientas para aprender sobre cómo se usa la nueva "oficina remota flexible".
 * [FaxMyDoc](https://blog.lowcode.agency/glide-integromat/) How We Built a Faxing SaaS with Glide and Integromat
 * [Ejemplo práctico de cómo montar y validar un negocio con #nocode y facturar +500K€ en menos de 3 meses](https://twitter.com/carlosbeneyto/status/1438052168909606912?s=27)
