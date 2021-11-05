@@ -177,6 +177,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Circular Docs](https://www.circulardocs.com/)
 
 ## principales herramientas recomendadas
+* [nocode app builders](https://twitter.com/explodingtopics/status/1454055917368999937?s=27)
 * [How To Host Your Full-Stack App For FREE](https://twitter.com/csaba_kissi/status/1453651922246946824?s=27)
 * [Tell me a #nocode tool everyone should know about](https://twitter.com/nocodedevs/status/1448793214010466307?s=11)
 * [Comparativa herramientas. Coste horario](https://twitter.com/nocodeluc/status/1437747984343527431?s=27)
