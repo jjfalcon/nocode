@@ -177,6 +177,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Circular Docs](https://www.circulardocs.com/)
 
 ## principales herramientas recomendadas
+* [How To Host Your Full-Stack App For FREE](https://twitter.com/csaba_kissi/status/1453651922246946824?s=27)
 * [Tell me a #nocode tool everyone should know about](https://twitter.com/nocodedevs/status/1448793214010466307?s=11)
 * [Comparativa herramientas. Coste horario](https://twitter.com/nocodeluc/status/1437747984343527431?s=27)
 * [Herramientas más utilizadas en proyectos](https://twitter.com/nocodeluc/status/1430137828613050372?s=27) 60% Bubble 20% Airtable 18% Figma 17% Webflow 16% Zapier 11% Stripe 8% Integromat 
@@ -451,6 +452,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [Bandwidth](https://www.bandwidth.com/) 0,004$/msg
 
 ## Formacion
+
 * [Loom](https://www.loom.com/) Herramienta para captura de pantallas y camara.
 * [OBS Studio](https://obsproject.com/) Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux.
 * [RecordCast](https://www.recordcast.com/) Free Online Screen Recorder and Video Editor
@@ -460,6 +462,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [Aprende Airtable en una hora](https://nocodehackers.thinkific.com/courses/take/Airtable-basics)
 
 ## Comunidad
+* [8 Site To Learn UI/UX Design](https://twitter.com/csaba_kissi/status/1453979094165696512?s=27)
 * [Top Nocode Communities](https://twitter.com/Formstack/status/1382057681158955009)
   * @100daysnocode
   * http://NoCode.tech
