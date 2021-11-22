@@ -149,6 +149,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Web hecha en webflow](https://calmfund.com/)
 
 ## ejemplos funcionalidades 
+* [Dashboards con Bubble](https://twitter.com/victoruxui/status/1459196772484591626?s=27)
 * [Building a Job Board with Airtable and Webflow? Start Here](https://medium.com/@matthewbusel/building-a-job-board-with-airtable-and-webflow-start-here-b82b03a0c5e3)
 * [Apps Ideas](https://twitter.com/csaba_kissi/status/1443825850659471360?s=11) Quiz, Calculator, Todo, Recipe, Pomodoro, Notes, etc
 * [Ejemplos a practicar o portafolio](https://twitter.com/fmontes/status/1423642394524676101?s=27)
