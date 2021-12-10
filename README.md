@@ -279,6 +279,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Bubble](https://bubble.io/) Muy completa con muchas funcionalidades, extensiones, etc para web y app
   * [CleanMenu](https://bubble.io/blog/bubble-app-cleanmenu/) enhances the experience of restaurant owners and customers with a QR code.
 * [typeform](https://www.typeform.com/)
+* [Tally Forms](https://tally.so/) is a new type of form builder that works like a doc. It makes form building easy and offers tons of powerful features for free.
 * [Dork](https://dorik.com/) Amazing mix of webflow and carrd. Design & Host Beautiful Websites Without Code! Flexible & easy-to-use nocode website builder with 120+ UI Components and 12 beautiful templates. Save time and money on building your next website.
 * [mmm](https://build.mmm.page/) es un constructor web diferente como un collage, Fácil y desenfadado para tu web personal?
 
