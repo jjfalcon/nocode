@@ -66,6 +66,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [Glide 2.0 novedades](https://www.producthunt.com/posts/glide-2-0)
 
 ## como validar ideas?
+* [Hilo de recursos para Marketers y Startuperos](https://twitter.com/jesusvivas11/status/1333448714959065091?s=27)
 * [How to Build 10k Audience on Twitter?](https://saviomartin.notion.site/saviomartin/How-to-Build-10k-Audience-98007f9dcf8945e3a4c4064416ed2bfd)
 * [PLYGRND](https://plygrnd.xyz/) The Fastest Way To Validate Your Business Idea. Create a landing page for your idea and start collecting sign-ups in minutes. All with a single tool - no coding, no integrations, no hassle. Start validating in 5 minutes
 * [How to build a nocode mvp](https://dzone.com/articles/how-to-build-a-no-code-mvp)
@@ -84,6 +85,11 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Luego si hay tracción ya se irá automatizando...
 
 ## ejemplos startups
+* [2 years ago I decided that I want to change my life](https://twitter.com/vladpasca5/status/1468557988864700417?s=27) Viaje de como hacerlo:
+  * Learned how to code and design
+  * Built a 40k followers Twitter audience
+  * Made over $6k online
+  * Started a freelancing business
 * [FriendlyReminders](https://friendlyreminderclub.unicornplatform.page/) Automatic email reminders. Stop wasting time reminding people for stuff. We got your back 😎
 * [@incomeeHQ](https://twitter.com/victoruxui/status/1458092755670945800?s=27 una web app creada con @bubble para llevar las finanzas, su principal segmento de usuarios son freelancers y les permite crear; Invoicing, Cotizaciones, Analytics
 * [I launched 7 products on Product Hunt](https://twitter.com/tomjacquesson/status/1455955703861059591?s=27)
@@ -184,6 +190,8 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Circular Docs](https://www.circulardocs.com/)
 
 ## principales herramientas recomendadas
+* [Grabar pantalla](https://twitter.com/jaime_mesa/status/1465761913644724237?s=27) [OBS Studio](https://obsproject.com/es/download), Screen Cast, [Loom](https://www.loom.com/), 
+* [17 no-code tools all claim to be the best at what they do](https://twitter.com/nocodeluc/status/1465621636858540042?s=27)
 * [nocode app builders](https://twitter.com/explodingtopics/status/1454055917368999937?s=27)
 * [How To Host Your Full-Stack App For FREE](https://twitter.com/csaba_kissi/status/1453651922246946824?s=27)
 * [Tell me a #nocode tool everyone should know about](https://twitter.com/nocodedevs/status/1448793214010466307?s=11)
@@ -331,6 +339,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [How to Implement Mobile-to-Web Cross Login Using a QR Code](https://backendless.com/how-to-implement-mobile-to-web-cross-login-using-a-qr-code/)
   * [How To Build A No-Code App With UI Builder](https://backendless.com/how-to-build-a-no-code-app-with-ui-builder/)
   * [API Backendless](https://backendless.com/features/api-services/codeless) Develop without coding, cloud code, api services, and custom alexa skills.
+  * [8 voice No-Code tools can help you create your own Alexa without any coding skills required](https://twitter.com/nocodeluc/status/1468535860962332675?s=27)
 
 ### Datos
 * Dashboard
@@ -400,6 +409,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [Learn coda in 10 tweets](https://twitter.com/kmendes/status/1363953459138097152) Imprescindible
   * [Blog](https://coda.io/@coda/the-coda-blog)
   * [Doc gallery](https://coda.io/gallery)
+  * [Manage your clients with EASE](https://wcm.robotjuggler.com/#pricing) coda template with Everything what you need in one place
   * [Book and reading tracking](https://coda.io/@rachelmanwill/book-reading-tracker-by-book-riot)
   * [Home IoT](https://coda.io/@matthew-tebbs/home-iot)
   * [Figma Product Roadmap](https://coda.io/@yuhki/figma-product-roadmap)
@@ -473,6 +483,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [Aprende Airtable en una hora](https://nocodehackers.thinkific.com/courses/take/Airtable-basics)
 
 ## Comunidad
+* [A founder's guide to community](https://www.lennysnewsletter.com/p/building-community?r=20r47)
 * [8 Site To Learn UI/UX Design](https://twitter.com/csaba_kissi/status/1453979094165696512?s=27)
 * [Top Nocode Communities](https://twitter.com/Formstack/status/1382057681158955009)
   * @100daysnocode
