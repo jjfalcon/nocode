@@ -260,6 +260,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Super Builder](https://zap.super.site/)
 
 ### [Web app](https://www.nocode.tech/build/web-app)
+* [Popsy](https://popsy.co/) Create websites with Notion for free. Custom domains, awesome themes and unlimited websites. Free forever, no credit card needed. Paste your notion page link and create the site
 * [SaaS Pages](https://saaspages.xyz/) A collection of the best landing pages with a focus on copywriting and design.
 * [Versoly](https://versoly.com/) Quickly create websites
 * [Umso](https://www.umso.com/) The Website Builder for Startups. The fastest way for startups to go live. Design and publish a beautiful website in no time.
@@ -371,6 +372,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Kairo](https://www.producthunt.com/posts/kairo) Time, habit and goal tracker on one flexible dashboard
 * [Walling](https://walling.app/) Collaborative walls for ideas, projects and research. Walling is your space to capture ideas, organize content and visually work through projects and research.
 * [Notion](https://www.notion.so/) All-in-one workspace. One tool for your whole team. Write, plan, and get organized.
+  * [Popsy](https://popsy.co/) Create websites with Notion for free. Custom domains, awesome themes and unlimited websites. Free forever, no credit card needed. Paste your notion page link and create the site
   * [Building a product requirement document in Notion](https://www.notion.so/guides/building-a-product-requirement-document-in-notion)
   * [Integrando Kairo](https://www.youtube.com/watch?v=rI9PQpthdqY&ab_channel=1BestCsharpblog)
   * [Templates](https://twitter.com/victoruxui/status/1422738975215824901)
