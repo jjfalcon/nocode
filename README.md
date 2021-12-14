@@ -36,6 +36,13 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Tonify API](https://deepai.org/machine-learning-model/toonify) Turn a photo of any face into a cartoon instantly with artificial intelligence
 
 ## TODO
+* [Stacks for nocode](https://twitter.com/thenocodepro/status/1469051175248957446?s=27)
+  * SAZ: @softr_io @airtable @zapier
+  * GAZ (jazz): @glideapps @airtable @zapier
+  * TNS (tins): @TallyForms @NotionHQ @super_
+  * AWZ: @airtable @webflow @zapier
+  * BOSS: @Bravostudioapp @onesignal (for push notifications) S - Sheets @googlesheets for backend S - Stripe for payments @stripe Use case - Nocode Ecommerce app
+  * 
 * [HelloGuru](https://hub.helloguru.io/) Cursos gratis de Adalo, Api, Bubble, Glide, Obviously IA, WebFlow y pronto Zapier, HelloGuru. Conviértete en un gurú del No-Code. Encuentra personas, aprende nuevas lecciones, conoce nuevas ideas. Todo gratis...
 * [7 best no-code resources to get start in nocode](https://twitter.com/NoCodeLuc/status/1409835139593506821?s=20)
   * https://nocodemvp.com
@@ -85,6 +92,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Luego si hay tracción ya se irá automatizando...
 
 ## ejemplos startups
+* [How we started 2021 shipping 1 product per week and reached $25k MRR in the same year](https://twitter.com/tibo_maker/status/1470414938980200454)
 * [2 years ago I decided that I want to change my life](https://twitter.com/vladpasca5/status/1468557988864700417?s=27) Viaje de como hacerlo:
   * Learned how to code and design
   * Built a 40k followers Twitter audience
@@ -156,6 +164,9 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Web hecha en webflow](https://calmfund.com/)
 
 ## ejemplos funcionalidades 
+* [Uber maps clone](https://www.youtube.com/watch?v=GUxR6TMrrpo&ab_channel=BastiUi) with BravoStudio
+* [Netflix clone](https://www.youtube.com/watch?v=YzCBt6JMj4k&ab_channel=BastiUi) with BravoStudio
+* [My experience building a @SlackHQ bot using @tray and @airtable as the #nocode tools](https://twitter.com/thenocodepro/status/1466868547150356491?s=27)
 * [Dashboards con Bubble](https://twitter.com/victoruxui/status/1459196772484591626?s=27)
 * [Building a Job Board with Airtable and Webflow? Start Here](https://medium.com/@matthewbusel/building-a-job-board-with-airtable-and-webflow-start-here-b82b03a0c5e3)
 * [Apps Ideas](https://twitter.com/csaba_kissi/status/1443825850659471360?s=11) Quiz, Calculator, Todo, Recipe, Pomodoro, Notes, etc
@@ -190,6 +201,15 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Circular Docs](https://www.circulardocs.com/)
 
 ## principales herramientas recomendadas
+* [We’ve built an entire business on a #nocode stack of tools. It’s taken 2 years to refine our stack!](https://twitter.com/nocodedevs/status/1470011922825330688) Here are the 8 tools we rely on every day to run our entire business:
+  * @webflow
+  * @outseta it’s a CRM, billing tool, and handles all of our user auth. It plays really nice with Webflow too, which is a major plus.
+  * @circleapp The perfect community tool for any community
+  * @zapier
+  * @airtable
+  * @LumaHQ is an event management tool like no other. If you want to run smooth events, don’t look anywhere else. We love their integration with Zoom
+  * @zoom
+  * @revue It’s super simple, free, and has really cool integrations with Twitter an others
 * [Grabar pantalla](https://twitter.com/jaime_mesa/status/1465761913644724237?s=27) [OBS Studio](https://obsproject.com/es/download), Screen Cast, [Loom](https://www.loom.com/), 
 * [17 no-code tools all claim to be the best at what they do](https://twitter.com/nocodeluc/status/1465621636858540042?s=27)
 * [nocode app builders](https://twitter.com/explodingtopics/status/1454055917368999937?s=27)
