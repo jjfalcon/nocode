@@ -73,6 +73,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [Glide 2.0 novedades](https://www.producthunt.com/posts/glide-2-0)
 
 ## como validar ideas?
+* [TinyLaunch](https://twitter.com/paulberesuita/status/1438129077790126090?s=27) to build the factory that helps build products. A place to brainstorm, build, and take your product to market.
 * [Hilo de recursos para Marketers y Startuperos](https://twitter.com/jesusvivas11/status/1333448714959065091?s=27)
 * [How to Build 10k Audience on Twitter?](https://saviomartin.notion.site/saviomartin/How-to-Build-10k-Audience-98007f9dcf8945e3a4c4064416ed2bfd)
 * [PLYGRND](https://plygrnd.xyz/) The Fastest Way To Validate Your Business Idea. Create a landing page for your idea and start collecting sign-ups in minutes. All with a single tool - no coding, no integrations, no hassle. Start validating in 5 minutes
