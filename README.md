@@ -443,6 +443,9 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [The Notion User's Guide to Coda](https://coda.io/@ben-parker/the-notion-users-guide-to-coda)
   * [Uber App Redesign Project Doc](https://coda.io/@yixin/ubers-app-redesign-project-doc)
   * [Custom Templates](https://coda.io/@steve/meet-custom-templates)
+  * [Daily Stand Up](https://coda.io/@malcolm/daily-stand-up) is a doc that agile teams can use to help facilitate their daily stand ups
+  * [Post COVID reopenings](https://coda.io/@dpup/post-covid-reopenings) aims to track how different companies are approaching their reopening plans
+  * [Global Entrepreneurship Ecosystem Platform (GEEP)](https://coda.io/@essam/geep)
 * [Count]
   * [What is the count notebool](https://www.loom.com/share/c857145a09e84f7eaaa8c5f41fb30379)
  
