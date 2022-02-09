@@ -280,6 +280,8 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
     * [Hotjar](https://www.hotjar.com/) [Cómo integrar Hotjar en el flujo web a través de Google Tag Manager](https://es.minimum.run/posts/how-to-integrate-hotjar-in-webflow-through-google-tag-manager)
   * IA
     * [El nocode va ganando importancia en IA](https://www.genbeta.com/actualidad/no-code-va-ganando-importancia-inteligencia-artificial-tendencia-que-permitira-usar-entender-ia-a-gente)
+  * DATA
+    * [Graphext](https://www.graphext.com/) the easier way of work your data
   
 ### Landing Page
 * [Mobirise](https://mobirise.com/es/) Crea paginas web rápidas, móviles y compatibles con Google! Sin programar y gratis.
