@@ -21,6 +21,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Empieza hoy mismo con tu aprendizaje
   * Crea un proyecto
 
+* [TODO lo que he aprendido a hacer con #nocode en 2021](https://twitter.com/pab_sharingaway/status/1476184633284902919?s=12) explicado paso a paso con casos reales
 * [Nocode landscape map](https://twitter.com/nocodedevs/status/1406769422073741312?s=27)
 
 ##
