@@ -204,6 +204,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Circular Docs](https://www.circulardocs.com/)
 
 ## principales herramientas recomendadas
+* [plataformas recomendadas](https://twitter.com/heyeaslo/status/1491592781587881988)
 * [We’ve built an entire business on a #nocode stack of tools. It’s taken 2 years to refine our stack!](https://twitter.com/nocodedevs/status/1470011922825330688) Here are the 8 tools we rely on every day to run our entire business:
   * @webflow
   * @outseta it’s a CRM, billing tool, and handles all of our user auth. It plays really nice with Webflow too, which is a major plus.
