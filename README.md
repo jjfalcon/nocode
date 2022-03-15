@@ -37,6 +37,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Tonify API](https://deepai.org/machine-learning-model/toonify) Turn a photo of any face into a cartoon instantly with artificial intelligence
 
 ## TODO
+* [@framer sites](https://twitter.com/victoruxui/status/1496897294154805253) permite diseñar y construir websites muy cool! Crear las animaciones y efectos es una experiencia genial super fácil e intuitiva.
 * [Building a startup is HARD](https://twitter.com/angezanetti/status/1488541319425372162?s=12) Meet 30 helpful tools I use every day to make this a bit easier.
 * [Stacks for nocode](https://twitter.com/thenocodepro/status/1469051175248957446?s=27)
   * SAZ: @softr_io @airtable @zapier
