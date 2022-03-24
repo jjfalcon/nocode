@@ -411,6 +411,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Kairo](https://www.producthunt.com/posts/kairo) Time, habit and goal tracker on one flexible dashboard
 * [Walling](https://walling.app/) Collaborative walls for ideas, projects and research. Walling is your space to capture ideas, organize content and visually work through projects and research.
 * [Notion](https://www.notion.so/) All-in-one workspace. One tool for your whole team. Write, plan, and get organized.
+  * [learn Notion for free](https://twitter.com/heyeaslo/status/1493042321293660160)
   * [Company Home Template](https://easlo.notion.site/Company-Home-4a2ca7d4d25f48a8996ca3b36038fc97)
   * [how build a task manager](https://twitter.com/heyeaslo/status/1506450667283513346)
   * [Popsy](https://popsy.co/) Create websites with Notion for free. Custom domains, awesome themes and unlimited websites. Free forever, no credit card needed. Paste your notion page link and create the site
