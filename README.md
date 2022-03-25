@@ -474,7 +474,7 @@ Own Your Content · Share Ideas
 * [Infinity](https://startinfinity.com/) un competidor de Trello, Asana
 * [MentiMeter](https://www.mentimeter.com/) Create interactive presentations & meetings, wherever you are. Use live polls, quizzes, word clouds, Q&As and more to get real-time input - regardless if you’re remote, hybrid or face-to-face
 * [calendly](https://calendly.com/) is your hub for scheduling meetings professionally and efficiently, eliminating the hassle of back-and-forth emails so you can get back to work.
-* [Automate your marketing in a few simple clicks](https://www.activecampaign.com/es)
+* [Automate your marketing in a few simple clicks](https://www.activecampaign.com/es) automatizar ventas con una potente herramienta
 
 ### Venta online
 * [float](https://www.float.so/) permite crear cursos en Notion restringiendo el acceso a cierto contenido e integrándolo con una pasarela de pagos (stripe)
