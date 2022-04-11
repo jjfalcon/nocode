@@ -98,6 +98,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Luego si hay tracción ya se irá automatizando...
 
 ## ejemplos startups
+* [Tienda online Marc Frau](https://twitter.com/marcfrau_opina/status/1510312880327073802)
 * [https://www.ukrainetakeshelter.com/](https://www.ukrainetakeshelter.com/) Acogida desplazados Ucrania
 * [How we started 2021 shipping 1 product per week and reached $25k MRR in the same year](https://twitter.com/tibo_maker/status/1470414938980200454)
 * [2 years ago I decided that I want to change my life](https://twitter.com/vladpasca5/status/1468557988864700417?s=27) Viaje de como hacerlo:
