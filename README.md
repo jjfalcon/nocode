@@ -418,6 +418,7 @@ Own Your Content · Share Ideas
 * [Kairo](https://www.producthunt.com/posts/kairo) Time, habit and goal tracker on one flexible dashboard
 * [Walling](https://walling.app/) Collaborative walls for ideas, projects and research. Walling is your space to capture ideas, organize content and visually work through projects and research.
 * [Notion](https://www.notion.so/) All-in-one workspace. One tool for your whole team. Write, plan, and get organized.
+  * [Top Tools to Upgrade Notion](https://twitter.com/heyeaslo/status/1515872754343428099) 1. Super — Turn into a beautiful website, 2. HelpKit — Turn into a knowledge base, 3. Queue — Turn into a tweet scheduler, 4. Zorbi — Turn into study flashcards
   * [My first client paid me $100 for a @NotionHQ workspace. My 10th client paid me $1,000 for the same work]https://twitter.com/heyeaslo/status/1512067725937426443()  What changed wasn't the product. It was my ability to market my service, and confidence in my own worth.
   * [How to use Notion as a CRM (TEMPLATE INCLUDED)](https://www.youtube.com/watch?v=EWpRikjGhEM)
   * [personal productivity and life organization system with Notion](https://twitter.com/thenocodepro/status/1481033356712292352)
