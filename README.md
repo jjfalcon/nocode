@@ -38,6 +38,9 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Tonify API](https://deepai.org/machine-learning-model/toonify) Turn a photo of any face into a cartoon instantly with artificial intelligence
 
 ## TODO
+* [$2M in income in 2.5 years as a solopreneur with #nocode](https://twitter.com/justinsaas/status/1516457662900314119) Carrd, Gumroad, Canva, Outseta, Airtable, Calendly, Fathom Analytics, Loom, Testimonial.to, HypeFury, Typeshare, Notion, BlackMagic, Zapier
+* [How To Build A Clubhouse Clone With No-Code Using Bubble](https://www.youtube.com/watch?v=STPV4cDcX6c)
+* [8 grandes compañías que conoces y que están utilizando #NoCode](https://twitter.com/pab_sharingaway/status/1516720730280443910)
 * [No-code is the future of web design](https://twitter.com/heyeaslo/status/1515555662235078662)
 * [Top 5 Websites to get free hosting](https://twitter.com/ravikmmr/status/1507727181921030145) Github Pages, Netflify, Heroku, Firebase, Vercel, Fly.io, DigitalOcean, render.com, surge.sh, Cloudfare
 * [@framer sites](https://twitter.com/victoruxui/status/1496897294154805253) permite diseñar y construir websites muy cool! Crear las animaciones y efectos es una experiencia genial super fácil e intuitiva.
