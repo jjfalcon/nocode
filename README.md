@@ -26,6 +26,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 
 ##
 * [Club EOM](https://www.youtube.com/channel/UCjg3NNw9IFnxiTj5MCip4Ag) Emprende o Muere
+* [Framer](https://www.framer.com/sites/) es una mezcla de Figma y WebFlow
 
 ## API
 * [13 no-code tools you can automate and build your own API's](https://twitter.com/nocodeluc/status/1495707378376843264)
