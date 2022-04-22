@@ -38,7 +38,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Tonify API](https://deepai.org/machine-learning-model/toonify) Turn a photo of any face into a cartoon instantly with artificial intelligence
 
 ## TODO
-P
+* [A Quick Guide toLaunching a BusinessWith No-Code](https://uploads-ssl.webflow.com/5c1a1fb9f264d636fe4b69fa/619f9a8a009e1d96eb0395d7_A%20Quick%20Guide%20to%20Launching%20a%20Business%20With%20No-Code.pdf)
 * [GlidePages](https://www.producthunt.com/posts/glide-pages) Como desarrollar web apps con [Plantillas Glide](https://www.glideapps.com/templates)
 * [how a Zapier partnership manager built a coffee subscription business with Softr](https://www.makerpad.co/posts/how-a-zapier-partnership-manager-built-a-coffee-subscription-business-with-softr)
 * [$2M in income in 2.5 years as a solopreneur with #nocode](https://twitter.com/justinsaas/status/1516457662900314119) Carrd, Gumroad, Canva, Outseta, Airtable, Calendly, Fathom Analytics, Loom, Testimonial.to, HypeFury, Typeshare, Notion, BlackMagic, Zapier
