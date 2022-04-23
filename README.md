@@ -25,6 +25,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Nocode landscape map](https://twitter.com/nocodedevs/status/1406769422073741312?s=27)
 
 ##
+* [Flexbox en Bublle](https://www.youtube.com/watch?v=G0oObymzoJs)
 * [Club EOM](https://www.youtube.com/channel/UCjg3NNw9IFnxiTj5MCip4Ag) Emprende o Muere
 * [Framer](https://www.framer.com/sites/) es una mezcla de Figma y WebFlow
 
