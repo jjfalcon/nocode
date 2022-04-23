@@ -294,6 +294,7 @@ Own Your Content · Share Ideas
   * Analitica
     * Google Tag Manager
     * Google Analitics
+    * [Mixpanel](https://mixpanel.com/es/)
     * [Hotjar](https://www.hotjar.com/) [Cómo integrar Hotjar en el flujo web a través de Google Tag Manager](https://es.minimum.run/posts/how-to-integrate-hotjar-in-webflow-through-google-tag-manager)
   * IA
     * [El nocode va ganando importancia en IA](https://www.genbeta.com/actualidad/no-code-va-ganando-importancia-inteligencia-artificial-tendencia-que-permitira-usar-entender-ia-a-gente)
