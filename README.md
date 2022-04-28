@@ -45,6 +45,9 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 
 ## TODO
 * [Nocode: crear proyectos sin programar](https://www.youtube.com/watch?v=2LjSWDg-fjM&t=9s)
+  * [Lineup](https://lineupforecast.com/) php realizada en php e incorporada como webapp con Bravo en plan Bravissimo 50~/mes
+  * Como hacer servicio descuento para negocios: formulario para promocion y pagar stipe/CheckoutLink apagar enviar cupon que al presentar en negocio permite descuento para asegurar fidelizacion.
+  * Lanzar apps con Bravo teniendo algo realizado de backend
 * [Strapi](https://strapi.io/) Design APIs fast, manage content easily. Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 * [Registrar habitos en Notion](https://www.youtube.com/watch?v=r2lA9vwmAig)
 * [Automatiza tu facturacion con Airtable](https://www.youtube.com/watch?v=xgbJderwwFg&t=180s)
