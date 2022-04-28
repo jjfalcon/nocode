@@ -44,6 +44,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Tonify API](https://deepai.org/machine-learning-model/toonify) Turn a photo of any face into a cartoon instantly with artificial intelligence
 
 ## TODO
+* [Registrar habitos en Notion](https://www.youtube.com/watch?v=r2lA9vwmAig)
 * [Automatiza tu facturacion con Airtable](https://www.youtube.com/watch?v=xgbJderwwFg&t=180s)
 * [GlideApps](https://www.youtube.com/watch?v=9f1sqwMpla4) Ejemplo de app con filtros y notificaciones
 * [Glide Lessons](https://jesusvargas.glideapp.io/dl/ewAiAHQAIgA6ADQALAAiAHMAIgA6ACIAYwBsAGEAcwBzAC0ATABlAHMAcwBvAG4AcwAiACwAIgByACIAOgAiAEsAZgA0AC0AcgBrAGcAYQBRAGMAeQBlAFMANwBzAHYASwBrAHMAVQBZAGcAIgAsACIAbgAiADoAIgBMAGUAcwBzAG8AbgAgADEAIgB9AA%3D%3D)
