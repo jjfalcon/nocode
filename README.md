@@ -44,6 +44,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Tonify API](https://deepai.org/machine-learning-model/toonify) Turn a photo of any face into a cartoon instantly with artificial intelligence
 
 ## TODO
+* [Nocode: crear proyectos sin programar](https://www.youtube.com/watch?v=2LjSWDg-fjM&t=9s)
 * [Strapi](https://strapi.io/) Design APIs fast, manage content easily. Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 * [Registrar habitos en Notion](https://www.youtube.com/watch?v=r2lA9vwmAig)
 * [Automatiza tu facturacion con Airtable](https://www.youtube.com/watch?v=xgbJderwwFg&t=180s)
