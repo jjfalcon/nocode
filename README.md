@@ -51,6 +51,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Como hacer servicio descuento para negocios: formulario para promocion y pagar stipe/CheckoutLink apagar enviar cupon que al presentar en negocio permite descuento para asegurar fidelizacion.
   * Lanzar apps con Bravo teniendo algo realizado de backend
   * [Strapi](https://strapi.io/) Design APIs fast, manage content easily. Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
+  * [Builder](https://www.builder.ai/app-builder)
 * [Registrar habitos en Notion](https://www.youtube.com/watch?v=r2lA9vwmAig)
 * [Automatiza tu facturacion con Airtable](https://www.youtube.com/watch?v=xgbJderwwFg&t=180s)
 * [GlideApps](https://www.youtube.com/watch?v=9f1sqwMpla4) Ejemplo de app con filtros y notificaciones
