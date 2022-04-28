@@ -45,6 +45,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 
 ## TODO
 * [GlideApps](https://www.youtube.com/watch?v=9f1sqwMpla4) Ejemplo de app con filtros y notificaciones
+* [Glide Lessons](https://jesusvargas.glideapp.io/dl/ewAiAHQAIgA6ADQALAAiAHMAIgA6ACIAYwBsAGEAcwBzAC0ATABlAHMAcwBvAG4AcwAiACwAIgByACIAOgAiAEsAZgA0AC0AcgBrAGcAYQBRAGMAeQBlAFMANwBzAHYASwBrAHMAVQBZAGcAIgAsACIAbgAiADoAIgBMAGUAcwBzAG8AbgAgADEAIgB9AA%3D%3D)
 * [FutterFlow](https://www.youtube.com/watch?v=5GJfs4WMXiY) Para crear apps nativas con herramienta online sin límites.
 * [A Quick Guide toLaunching a BusinessWith No-Code](https://uploads-ssl.webflow.com/5c1a1fb9f264d636fe4b69fa/619f9a8a009e1d96eb0395d7_A%20Quick%20Guide%20to%20Launching%20a%20Business%20With%20No-Code.pdf)
 * [GlidePages](https://www.producthunt.com/posts/glide-pages) Como desarrollar web apps con [Plantillas Glide](https://www.glideapps.com/templates)
