@@ -45,6 +45,8 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 
 ## TODO
 * [Nocode: crear proyectos sin programar](https://www.youtube.com/watch?v=2LjSWDg-fjM&t=9s)
+  * AltaGuardia: Twillio, Integromat, WebFlow, Flutter
+  * OnTrack: transporte, Telegram, code, Operaciones Internas
   * [Lineup](https://lineupforecast.com/) php realizada en php e incorporada como webapp con Bravo en plan Bravissimo 50~/mes
   * Como hacer servicio descuento para negocios: formulario para promocion y pagar stipe/CheckoutLink apagar enviar cupon que al presentar en negocio permite descuento para asegurar fidelizacion.
   * Lanzar apps con Bravo teniendo algo realizado de backend
