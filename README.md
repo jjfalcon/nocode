@@ -44,7 +44,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Tonify API](https://deepai.org/machine-learning-model/toonify) Turn a photo of any face into a cartoon instantly with artificial intelligence
 
 ## TODO
-* [Popsy](https://popsy.co/) Turn your Notion page into a website for free
+* [Popsy](https://popsy.co/) Turn your Notion page into a website for free. Alternativa a Super.So y Fruition, que te permite convertir cualquier documento de Notion en una página web. Una vez hecho, podrás personalizarlo aprovechando una de sus plantillas o tocando estilos por tu cuenta. El proceso es tan sencillo como añadir la página de Notion y crear la web. Así de fácil.
 * [How to build a crazy efficient consulting business with Outseta, stripe and Carrd](https://www.outseta.com/guides/consulting-business-with-outseta-and-carrd)
 * [Embed a #chatbot in @glideapps is super simple](https://twitter.com/camillefrancesc/status/1519295997087731712)
 * [Nocode: crear proyectos sin programar](https://www.youtube.com/watch?v=2LjSWDg-fjM&t=9s)
