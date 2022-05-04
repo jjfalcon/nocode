@@ -44,6 +44,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Tonify API](https://deepai.org/machine-learning-model/toonify) Turn a photo of any face into a cartoon instantly with artificial intelligence
 
 ## TODO
+* [Popsy](https://popsy.co/) Turn your Notion page into a website for free
 * [How to build a crazy efficient consulting business with Outseta, stripe and Carrd](https://www.outseta.com/guides/consulting-business-with-outseta-and-carrd)
 * [Embed a #chatbot in @glideapps is super simple](https://twitter.com/camillefrancesc/status/1519295997087731712)
 * [Nocode: crear proyectos sin programar](https://www.youtube.com/watch?v=2LjSWDg-fjM&t=9s)
@@ -448,6 +449,7 @@ Own Your Content · Share Ideas
 * [Kairo](https://www.producthunt.com/posts/kairo) Time, habit and goal tracker on one flexible dashboard
 * [Walling](https://walling.app/) Collaborative walls for ideas, projects and research. Walling is your space to capture ideas, organize content and visually work through projects and research.
 * [Notion](https://www.notion.so/) All-in-one workspace. One tool for your whole team. Write, plan, and get organized.
+  * [Popsy](https://popsy.co/) Turn your Notion page into a website for free
   * [Top Tools to Upgrade Notion](https://twitter.com/heyeaslo/status/1515872754343428099) 1. Super — Turn into a beautiful website, 2. HelpKit — Turn into a knowledge base, 3. Queue — Turn into a tweet scheduler, 4. Zorbi — Turn into study flashcards
   * [My first client paid me $100 for a @NotionHQ workspace. My 10th client paid me $1,000 for the same work]https://twitter.com/heyeaslo/status/1512067725937426443()  What changed wasn't the product. It was my ability to market my service, and confidence in my own worth.
   * [How to use Notion as a CRM (TEMPLATE INCLUDED)](https://www.youtube.com/watch?v=EWpRikjGhEM)
