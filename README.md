@@ -181,7 +181,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * jetboost, búsquedas en webflow y marcar como favoritas
   * buscador webflow no viable, desarrollo propio Firebase y PostgreSQL
   * https://nearch.me/ producto lanzado como solución al problema anterior. Buscar sobre CMS webflow o AirTable. Puede ser como https://www.algolia.com/
-* [Altaguardia](https://www.minimum.run/posts/alta-guardia-nocode-for-minimum-run) Como crear una start-up de alquiler de alarmas usando tecnologías nocode
+* [Altaguardia](https://www.minimum.run/posts/alta-guardia-nocode-for-minimum-run) ahora [Bambai](https://www.bambai.app/) Como crear una start-up de alquiler de alarmas usando tecnologías nocode
 * [heymarketers.com](https://www.makerpad.co/stories/corey-haines-launching-a-profitable-job-board-for-marketers-with-no-code-tools-in-3-weeks) Launching a profitable job board for marketers with no-code tools in 3 weeks
 * [Weremoto](https://weremoto.com/) : Trabajos remotos de Programación, Diseño, Marketing y más. Enfocados en Latinoamérica. Herramientas utilizadas sheet2site, glide
 * [NetMinds](https://www.netminds.uk/) Conectar emprendedores y mentores. Herramietnas utilizadas: AirTable 2 formularios. Luego AirTable, Webflow, zapier, cognito
