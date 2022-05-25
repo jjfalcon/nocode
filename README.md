@@ -563,6 +563,7 @@ Own Your Content · Share Ideas
   * [Bandwidth](https://www.bandwidth.com/) 0,004$/msg
 
 ## Formacion
+* [6 mejores canales de YouTube donde puedes aprender NoCode gratis](https://twitter.com/pab_sharingaway/status/1527552291565355008)
 * [NoCode MBA](https://www.nocode.mba/) WebFlow, Glide, Zapier, Stripe, MemberStack
 * [Loom](https://www.loom.com/) Herramienta para captura de pantallas y camara.
 * [OBS Studio](https://obsproject.com/) Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux.
