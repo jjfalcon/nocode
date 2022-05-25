@@ -14,6 +14,19 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 
 * [NoCode 20 Tools for each category](https://twitter.com/nocodeluc/status/1367715251089707010?s=27)
 
+* [I started an $80K online business with nothing but my laptop and internet](https://twitter.com/heyeaslo/status/1527469166420119552)
+  * @canva is free.
+  * @stripe is free.
+  * @figma is free.
+  * @buffer is free.
+  * @SlackHQ is free.
+  * @Calendly is free.
+  * @NotionHQ is free.
+  * @gumroad is free.
+  * @AppSumo is free.
+  * @SubstackInc is free.
+  * No more excuses.
+
 * [5 pasos para comenzar con no-code](https://sharingaway.com/no-code-para-principiantes-los-5-pasos-que-debes-seguir/) 
   * Descubre tu motivacion
   * Elige las herramientas que vas a usar
@@ -246,6 +259,16 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Circular Docs](https://www.circulardocs.com/)
 
 ## principales herramientas recomendadas
+* [Herramientas @Jaime_Mesa](https://twitter.com/jaime_mesa/status/1527242041293303810)
+  * @webflow Diseño de la web.
+  * @Carrd para webs sencillas
+  * @super_ para webs editando desde notion
+  * @outseta Gestión suscripciones.
+  * @NotionHQ Wiki.
+  * @zapier Automatizaciones.
+  * @MailerLite Email marketing.
+  * @facturadirecta Facturas.
+* [PicMaker](https://www.picmaker.com/) create stunning designs with our online graphic design software. Edit thousands of professional design templates in minutes. 
 * [Hashnode](https://hashnode.com/) The hassle-free blogging platform for engineers, thought-leaders, and the dev community!
 Own Your Content · Share Ideas
 * [plataformas recomendadas](https://twitter.com/heyeaslo/status/1491592781587881988)
