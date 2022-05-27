@@ -262,7 +262,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Herramientas @Jaime_Mesa](https://twitter.com/jaime_mesa/status/1527242041293303810)
   * @webflow Diseño de la web.
   * @Carrd para webs sencillas
-  * @super_ para webs editando desde notion
+  * @super_ y @typedreamHQ [EJEMPLO @EASLO](https://notiontrackerbundle.typedream.app/) para webs editando desde notion
   * @outseta Gestión suscripciones.
   * @NotionHQ Wiki.
   * @zapier Automatizaciones.
