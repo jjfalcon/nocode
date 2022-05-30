@@ -148,6 +148,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Luego si hay tracción ya se irá automatizando...
 
 ## ejemplos startups
+* [4 startups de Latam creadas con  #nocode](https://twitter.com/victoruxui/status/1529486130399289347)
 * [Tienda online Marc Frau](https://twitter.com/marcfrau_opina/status/1510312880327073802)
 * [https://www.ukrainetakeshelter.com/](https://www.ukrainetakeshelter.com/) Acogida desplazados Ucrania
 * [How we started 2021 shipping 1 product per week and reached $25k MRR in the same year](https://twitter.com/tibo_maker/status/1470414938980200454)
