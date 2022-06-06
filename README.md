@@ -149,6 +149,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Luego si hay tracción ya se irá automatizando...
 
 ## ejemplos startups
+* [Monetizar Notion @heyeaslo](https://twitter.com/pab_sharingaway/status/1532671012550197250)
 * [4 startups de Latam creadas con  #nocode](https://twitter.com/victoruxui/status/1529486130399289347)
 * [Tienda online Marc Frau](https://twitter.com/marcfrau_opina/status/1510312880327073802)
 * [https://www.ukrainetakeshelter.com/](https://www.ukrainetakeshelter.com/) Acogida desplazados Ucrania
