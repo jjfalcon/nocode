@@ -231,6 +231,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Web hecha en webflow](https://calmfund.com/)
 
 ## ejemplos funcionalidades 
+* [Automatización Airtable lista contactos](https://jakobgreenfeld.com/stay-in-touch))
 * [reddit clone](https://www.genbeta.com/web/alguien-ha-creado-clon-reddit-12-dias-conocimientos-programacion-asi-ha-hecho) [Blog](https://bubble.io/blog/build-reddit-clone-no-code/) y [video](https://www.youtube.com/watch?v=aFosrFDacpo) con tutorial.
 * [Uber maps clone](https://www.youtube.com/watch?v=GUxR6TMrrpo&ab_channel=BastiUi) with BravoStudio
 * [Netflix clone](https://www.youtube.com/watch?v=YzCBt6JMj4k&ab_channel=BastiUi) with BravoStudio
