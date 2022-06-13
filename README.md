@@ -234,6 +234,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 ## ejemplos funcionalidades 
 * [How To Build A Tinder Clone With No-Code Using Bubble](https://www.youtube.com/watch?v=9oLsBBZtuaI) 
 * [Bubble Chrome Extension Builder](https://www.youtube.com/watch?v=dW-L1lHSHG0)
+* [8 simple automations handle 87.5% of my admin work](https://twitter.com/dcanosa/status/1534181674921099264)
 * [Automatización Airtable lista contactos](https://jakobgreenfeld.com/stay-in-touch))
 * [reddit clone](https://www.genbeta.com/web/alguien-ha-creado-clon-reddit-12-dias-conocimientos-programacion-asi-ha-hecho) [Blog](https://bubble.io/blog/build-reddit-clone-no-code/) y [video](https://www.youtube.com/watch?v=aFosrFDacpo) con tutorial.
 * [Uber maps clone](https://www.youtube.com/watch?v=GUxR6TMrrpo&ab_channel=BastiUi) with BravoStudio
