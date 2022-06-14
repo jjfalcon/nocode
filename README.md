@@ -136,6 +136,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [Glide 2.0 novedades](https://www.producthunt.com/posts/glide-2-0)
 
 ## como validar ideas?
+* [¿Quieres emprender una #startup y necesitar validar tu idea rápidamente tu idea de negocio?](https://twitter.com/macarlucho/status/1535168918712635392)
 * [TinyLaunch](https://twitter.com/paulberesuita/status/1438129077790126090?s=27) to build the factory that helps build products. A place to brainstorm, build, and take your product to market.
 * [Hilo de recursos para Marketers y Startuperos](https://twitter.com/jesusvivas11/status/1333448714959065091?s=27)
 * [How to Build 10k Audience on Twitter?](https://saviomartin.notion.site/saviomartin/How-to-Build-10k-Audience-98007f9dcf8945e3a4c4064416ed2bfd)
@@ -156,6 +157,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Luego si hay tracción ya se irá automatizando...
 
 ## ejemplos startups
+* [How to make passive income with $0](https://twitter.com/heyeaslo/status/1535260511603814400)
 * [¿Cómo he montado una newsletter con membresía anual?](https://twitter.com/Jaime_Mesa/status/1531576252741455872)
 * [Monetizar Notion @heyeaslo](https://twitter.com/pab_sharingaway/status/1532671012550197250)
 * [4 startups de Latam creadas con  #nocode](https://twitter.com/victoruxui/status/1529486130399289347)
