@@ -157,6 +157,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * Luego si hay tracción ya se irá automatizando...
 
 ## ejemplos startups
+* [Estudio de arquitectura @lacasaese](https://twitter.com/pab_sharingaway/status/1535531116207165440) [Info centralizada en Notion](https://www.sharingaway.com/descubre/la-casa-ese-un-estudio-de-arquitectura-diferente-y-mucho-notion)
 * [How to make passive income with $0](https://twitter.com/heyeaslo/status/1535260511603814400)
 * [¿Cómo he montado una newsletter con membresía anual?](https://twitter.com/Jaime_Mesa/status/1531576252741455872)
 * [Monetizar Notion @heyeaslo](https://twitter.com/pab_sharingaway/status/1532671012550197250)
