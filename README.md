@@ -237,6 +237,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Web hecha en webflow](https://calmfund.com/)
 
 ## ejemplos funcionalidades 
+* [7 clones con nocode como netflix, tinder, twitch por menos de 50 €](https://twitter.com/macarlucho/status/1537020883621056513)
 * [How To Build A Tinder Clone With No-Code Using Bubble](https://www.youtube.com/watch?v=9oLsBBZtuaI) 
 * [Bubble Chrome Extension Builder](https://www.youtube.com/watch?v=dW-L1lHSHG0)
 * [8 simple automations handle 87.5% of my admin work](https://twitter.com/dcanosa/status/1534181674921099264)
@@ -382,6 +383,7 @@ Own Your Content · Share Ideas
 * [Super Builder](https://zap.super.site/)
 
 ### [Web app](https://www.nocode.tech/build/web-app)
+* [Sofr Mobile](https://www.softr.io/mobileapp) Turn your Softr web app into a mobile app with just one-click. Immediately made available on both Apple and Android devices (no extra resources needed)
 * [Popsy](https://popsy.co/) Create websites with Notion for free. Custom domains, awesome themes and unlimited websites. Free forever, no credit card needed. Paste your notion page link and create the site
 * [SaaS Pages](https://saaspages.xyz/) A collection of the best landing pages with a focus on copywriting and design.
 * [Versoly](https://versoly.com/) Quickly create websites
