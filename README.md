@@ -237,6 +237,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Web hecha en webflow](https://calmfund.com/)
 
 ## ejemplos funcionalidades 
+* [Crypto SAAS](https://www.youtube.com/watch?v=00i3JRAQ_w4&list=LL) WebFlow, MemberStack, Stripe, AirTable, Zapier y WiseStamp
 * [7 clones con nocode como netflix, tinder, twitch por menos de 50 €](https://twitter.com/macarlucho/status/1537020883621056513)
 * [How To Build A Tinder Clone With No-Code Using Bubble](https://www.youtube.com/watch?v=9oLsBBZtuaI) 
 * [Bubble Chrome Extension Builder](https://www.youtube.com/watch?v=dW-L1lHSHG0)
