@@ -137,6 +137,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [Glide 2.0 novedades](https://www.producthunt.com/posts/glide-2-0)
 
 ## como validar ideas?
+* [validar ecommerce con telegram, airtable, gmail y paypal](https://twitter.com/alvaroalegriam/status/1538451941805723648)
 * [¿Quieres emprender una #startup y necesitar validar tu idea rápidamente tu idea de negocio?](https://twitter.com/macarlucho/status/1535168918712635392)
 * [TinyLaunch](https://twitter.com/paulberesuita/status/1438129077790126090?s=27) to build the factory that helps build products. A place to brainstorm, build, and take your product to market.
 * [Hilo de recursos para Marketers y Startuperos](https://twitter.com/jesusvivas11/status/1333448714959065091?s=27)
