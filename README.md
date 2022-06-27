@@ -67,6 +67,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Tonify API](https://deepai.org/machine-learning-model/toonify) Turn a photo of any face into a cartoon instantly with artificial intelligence
 
 ## TODO
+* [Plataformas Nocode 2022](https://hipertextual.com/2022/06/crear-apps-no-code-sin-codigo)
 * [Alternativas OpenSource de herramientas Nococe](https://twitter.com/iaiocabron/status/1533127133110882304)
   * @baserow to replace Airtable.
   * @appflowy to replace Notion. 
