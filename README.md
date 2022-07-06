@@ -44,7 +44,9 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [TODO lo que he aprendido a hacer con #nocode en 2021](https://twitter.com/pab_sharingaway/status/1476184633284902919?s=12) explicado paso a paso con casos reales
 * [Nocode landscape map](https://twitter.com/nocodedevs/status/1406769422073741312?s=27)
 
-##
+## TODO
+* [HazloSinCodigo](https://www.hazlosincodigo.com/) es una web actualizada con las mejores y nuevas herramientas nocode
+* [ycode](https://www.ycode.com/) The no-code platform for builders, which you can transform ideas into dynamic websites and apps. Visually build and design beautiful, responsive web projects without compromising your vision.
 * [No Code Map App](https://www.nocodemapapp.com/) The easiest way to build custom interactive maps with dynamic filters
 * [Colorful](https://www.colorful.app/) Create jaw-dropping photos with the power of 3D. Unlock your imagination with Colorful. Design a scene, place your objects, take gorgeously realistic photos. All in your browser.
 * [Descubre 9 proyectos rentables hechos con No-code](https://nocodehackers.substack.com/p/91-descubre-9-proyectos-rentables)
