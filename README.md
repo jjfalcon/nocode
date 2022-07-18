@@ -509,6 +509,7 @@ Own Your Content · Share Ideas
 * [Kairo](https://www.producthunt.com/posts/kairo) Time, habit and goal tracker on one flexible dashboard
 * [Walling](https://walling.app/) Collaborative walls for ideas, projects and research. Walling is your space to capture ideas, organize content and visually work through projects and research.
 * [Notion](https://www.notion.so/) All-in-one workspace. One tool for your whole team. Write, plan, and get organized.
+  * [Cronotion](https://cronotion.com/) Repeated tasks for your notion. You can create (cron like) repeated tasks by using Cronotion
   * [100+ best resources for Notion](https://twitter.com/heyeaslo/status/1522395739137007616)
   * [Popsy](https://popsy.co/) Turn your Notion page into a website for free
   * [Top Tools to Upgrade Notion](https://twitter.com/heyeaslo/status/1515872754343428099) 1. Super — Turn into a beautiful website, 2. HelpKit — Turn into a knowledge base, 3. Queue — Turn into a tweet scheduler, 4. Zorbi — Turn into study flashcards
