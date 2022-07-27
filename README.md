@@ -45,6 +45,8 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Nocode landscape map](https://twitter.com/nocodedevs/status/1406769422073741312?s=27)
 
 ## TODO
+* [Build your pricing page with stripe](https://twitter.com/stripe/status/1551945731984003072)
+* [Jerga nocode](https://twitter.com/100daysnocode/status/1551960551009296385)
 * [NocodeHackers. Crea un dashboard sin codigo con airtable](https://nocodehackers.podia.com/view/courses/airtable-crea-un-dashboard-con-las-interfaces) 
 * [HazloSinCodigo](https://www.hazlosincodigo.com/) es una web actualizada con las mejores y nuevas herramientas nocode
 * [ycode](https://www.ycode.com/) The no-code platform for builders, which you can transform ideas into dynamic websites and apps. Visually build and design beautiful, responsive web projects without compromising your vision.
