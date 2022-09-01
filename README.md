@@ -45,6 +45,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Nocode landscape map](https://twitter.com/nocodedevs/status/1406769422073741312?s=27)
 
 ## TODO
+* [nocode gamificacion](https://twitter.com/dbustac/status/1559907946267611136)
 * [+200 Productos desarrollados con nocode](https://twitter.com/ravisharora/status/1559950098754605056) [proyectos](https://airtable.com/shrU3nzwFspEnaKoN/tblb7x4GrFUWvNnQz?backgroundColor=purple&viewControls=on)
 * [BuildInPublic universidad hilos Twitter](https://twitter.com/yeswelab_ou/status/1562244733103218688) Aqui [video](https://www.youtube.com/watch?v=hzUiAURGgr4)
 * [How To Build A Linktree Clone With No-Code Using Bubble](https://www.youtube.com/watch?v=gOJ-Phh656E)
