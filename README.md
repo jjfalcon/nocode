@@ -45,6 +45,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Nocode landscape map](https://twitter.com/nocodedevs/status/1406769422073741312?s=27)
 
 ## TODO
+* [lowcode vs nocode](https://twitter.com/softr_io/status/1560202860553543684)
 * [how to create a custom client portal with @glideapps](https://twitter.com/nocodedarren/status/1559221619544948738) Explicado paso a paso
 * [How I made money by selling @NotionHQ templates in just 4 weeks](https://twitter.com/heyamna1/status/1559872733722382337)
 * [How teachers can use Notion to stay flexible and organized this school year](https://www.notion.so/blog/how-teachers-use-notion-flexible-organized-school-year)
