@@ -73,6 +73,8 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Tonify API](https://deepai.org/machine-learning-model/toonify) Turn a photo of any face into a cartoon instantly with artificial intelligence
 
 ## TODO
+* [Create a blog from Google Docs](https://docswrite.com/) Free Trial de 7 días, y luego plan basico de 10$/mes o 100$/año. Permite importar de WP.
+* [Airtable vs Notion](https://www.youtube.com/watch?v=xCwLmKMIn3c) Do yourself a favor and don't use Notion. Instead, you should use Airtable. Here are 3 reasons why: 1/ easier to automate things and save time, 2/ easier to sync with your everyday tools, 3/ easier to take insights and take advantage of your data. Airtable is great as simple CRM and Notion is great for notes.
 * [10 Mejores Canales de YouTube en Español para aprender TODO sobre #NoCode](https://twitter.com/eddyjprado/status/1544374696963031040)
 * [Plataformas Nocode 2022](https://hipertextual.com/2022/06/crear-apps-no-code-sin-codigo)
 * [Alternativas OpenSource de herramientas Nococe](https://twitter.com/iaiocabron/status/1533127133110882304)
