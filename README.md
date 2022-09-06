@@ -45,6 +45,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Nocode landscape map](https://twitter.com/nocodedevs/status/1406769422073741312?s=27)
 
 ## TODO
+* [Wailling](https://walling.app/) Alternativa Notion
 * [10 habilidades #nocode de altísimo nivel para 2022](https://twitter.com/macarlucho/status/1554824696721448960) 1. Excel / Google Sheet 2. @figma 3. @NotionHQ 4. 
 @canva 5. @bubble 6. @zapier 7. @umsohq 8. @webflow 9. @Photoshop 10. @flutterflow
 * [Blog in Bubble](https://twitter.com/pabloheredia24/status/1556289068706586624) Now that Bubble is starting to be faster, it might make sense for some websites to have their blogs built inside the platform.
