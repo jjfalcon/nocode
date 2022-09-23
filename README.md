@@ -44,6 +44,9 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [TODO lo que he aprendido a hacer con #nocode en 2021](https://twitter.com/pab_sharingaway/status/1476184633284902919?s=12) explicado paso a paso con casos reales
 * [Nocode landscape map](https://twitter.com/nocodedevs/status/1406769422073741312?s=27)
 
+## 10 MEJORES RECURSOS
+* [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
+
 ## TODO
 * [Create charts using your databases from Notion or Airtable](https://chartbrick.com/) Visualize your data as insightful charts. Embed them in Notion pages or anywhere else.
 * [Wailling](https://walling.app/) Alternativa Notion
@@ -73,18 +76,6 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Club EOM](https://www.youtube.com/channel/UCjg3NNw9IFnxiTj5MCip4Ag) Emprende o Muere
 * [Framer](https://www.framer.com/sites/) es una mezcla de Figma y WebFlow
 * [PolyFlow](https://www.polyflow.co/) Scale your Webflow site internationally
-
-## API
-* [13 no-code tools you can automate and build your own API's](https://twitter.com/nocodeluc/status/1495707378376843264)
-* [5 APIS para nuevos proyectos](https://twitter.com/insharamin/status/1431600873977769990?s=27)
-* [NASA API](https://api.nasa.gov/) NASA offers a bunch of useful APIs for application developers. The objective of this site is to make NASA data, including imagery, eminently accessible to application developers.
-* [Frankfurter](https://www.frankfurter.app/) is an open-source API for current and historical foreign exchange rates. Fetch individual dates or download them in bulk as time-series data. Use in your web or mobile app.
-* [MovieDB API](https://www.themoviedb.org/documentation/api) gives you all the data you need to create a movie app. It’s a very useful API that allows you to fetch data about movies, actor images, TV shows, and much more.
-* [MealDB API](https://www.themealdb.com/) is an open, crowd-sourced database of Recipes from around the world. It gives you data about the ingredients of the meal, images, categories, meal videos, and much more.
-* [Responsive Voice API](https://responsivevoice.org/api/) Are You Interested In voice enabling your site with just one line of code? The responsive voice API allows you to transform any text into speech.
-* [Tonify API](https://deepai.org/machine-learning-model/toonify) Turn a photo of any face into a cartoon instantly with artificial intelligence
-
-## TODO
 * [Create a blog from Google Docs](https://docswrite.com/) Free Trial de 7 días, y luego plan basico de 10$/mes o 100$/año. Permite importar de WP.
 * [Airtable vs Notion](https://www.youtube.com/watch?v=xCwLmKMIn3c) Do yourself a favor and don't use Notion. Instead, you should use Airtable. Here are 3 reasons why: 1/ easier to automate things and save time, 2/ easier to sync with your everyday tools, 3/ easier to take insights and take advantage of your data. Airtable is great as simple CRM and Notion is great for notes.
 * [10 Mejores Canales de YouTube en Español para aprender TODO sobre #NoCode](https://twitter.com/eddyjprado/status/1544374696963031040)
@@ -157,6 +148,16 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
   * [QR code scanner demo](https://community.glideapps.com/t/qr-code-scanner-demo/11620)
   * [Building A Building Access Records Tracker App](https://www.linkedin.com/pulse/building-basic-access-records-tracker-contact-tracing-eu-zhijing) with Limited Contact Tracing Functionality) Using Glide & Google Sheets
   * [Glide 2.0 novedades](https://www.producthunt.com/posts/glide-2-0)
+
+## API
+* [13 no-code tools you can automate and build your own API's](https://twitter.com/nocodeluc/status/1495707378376843264)
+* [5 APIS para nuevos proyectos](https://twitter.com/insharamin/status/1431600873977769990?s=27)
+* [NASA API](https://api.nasa.gov/) NASA offers a bunch of useful APIs for application developers. The objective of this site is to make NASA data, including imagery, eminently accessible to application developers.
+* [Frankfurter](https://www.frankfurter.app/) is an open-source API for current and historical foreign exchange rates. Fetch individual dates or download them in bulk as time-series data. Use in your web or mobile app.
+* [MovieDB API](https://www.themoviedb.org/documentation/api) gives you all the data you need to create a movie app. It’s a very useful API that allows you to fetch data about movies, actor images, TV shows, and much more.
+* [MealDB API](https://www.themealdb.com/) is an open, crowd-sourced database of Recipes from around the world. It gives you data about the ingredients of the meal, images, categories, meal videos, and much more.
+* [Responsive Voice API](https://responsivevoice.org/api/) Are You Interested In voice enabling your site with just one line of code? The responsive voice API allows you to transform any text into speech.
+* [Tonify API](https://deepai.org/machine-learning-model/toonify) Turn a photo of any face into a cartoon instantly with artificial intelligence
 
 ## como validar ideas?
 * [validar ecommerce con telegram, airtable, gmail y paypal](https://twitter.com/alvaroalegriam/status/1538451941805723648)
