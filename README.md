@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [Más de 500.000€ facturados vendiendo aceite de oliva con una simple Landing page y un botón de WhatsApp](https://twitter.com/jjosemarquez/status/1564274267012972545)
 * [cal.com](https://cal.com/) the event-juggling scheduler for everyone. Focus on meeting, not making meetings. Scheduling infrastructure for everyone.
 * [Create charts using your databases from Notion or Airtable](https://chartbrick.com/) Visualize your data as insightful charts. Embed them in Notion pages or anywhere else.
 * [Wailling](https://walling.app/) Alternativa Notion
