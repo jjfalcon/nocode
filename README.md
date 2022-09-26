@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [cal.com](https://cal.com/) the event-juggling scheduler for everyone. Focus on meeting, not making meetings. Scheduling infrastructure for everyone.
 * [Create charts using your databases from Notion or Airtable](https://chartbrick.com/) Visualize your data as insightful charts. Embed them in Notion pages or anywhere else.
 * [Wailling](https://walling.app/) Alternativa Notion
 * [10 habilidades #nocode de altísimo nivel para 2022](https://twitter.com/macarlucho/status/1554824696721448960) 1. Excel / Google Sheet 2. @figma 3. @NotionHQ 4. 
