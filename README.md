@@ -48,7 +48,8 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
-* [How to build, grow and sell a job board made with No-Code](https://www.nocode-exits.com/p/2-how-to-build-grow-and-sell-a-jo) 
+* [Learn to build custom apps for your startup in 30 days](https://www.100daysofnocode.com/softr-30-days-challenge) Free, fun and effective 30 minute bitesized lessons delivered daily to 10X your teams output with no-code skills.
+* [How to build, grow and sell a job board made with No-Code](https://www.nocode-exits.com/p/2-how-to-build-grow-and-sell-a-job) 
 * [Popsy](https://popsy.co/) Website builder that works like Notion. Just start typing and create professional websites in seconds. Customize design and publish with no code.
 * [Magical](https://www.getmagical.com/) Chrome extension to Make tasks disappear like magic. Slash through repetitive tasks in seconds by teleporting data between your tabs. Youtube review.
 * [BrowserFlow](https://browserflow.app/) Chrome extension to Scrape websites. No coding required. Save time by automating repetitive tasks in minutes. Run in your browser or in the cloud.
