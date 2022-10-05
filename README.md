@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [no-code solution for everything](https://twitter.com/sveta_bay/status/1576837977439109122?s=12&t=5Af4JCCXqPH6Klm7W373hw)
 * [@heyeaslo content creator tools](https://twitter.com/heyeaslo/status/1576391533439307777) Designer: @canva, Copywriter: @copy_ai, Web Developer: @carrd, Project Manager: @NotionHQ, Product Manager: @gumroad, Social Media Manager: @buffer
 * [Trevor.io](https://trevor.io/) replaces data requests inside your company, empowering your whole team to get answers from your database data, in just a few clicks.
 * [Canva Websites](https://www.canva.com/newsroom/news/introducing-canva-websites/)
