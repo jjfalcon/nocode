@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [Bowwe vs Wordpress](https://bowwe.com/en/blog/alternative-to-wordpress)
 * [portfolio proyectos nocode hackers](https://www.nocodehackers.es/portfolio)
 * [How a Niche Resource Directory was created and sold in 1,5 months](https://www.nocode-exits.com/p/7-how-a-niche-resource-directory)
 * [10 inspiring apps build with softr](https://twitter.com/softr_io/status/1577258382238502913)
