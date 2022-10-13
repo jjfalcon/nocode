@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [The Best 5 Notion Templates of September 2022](https://twitter.com/theveller/status/1576266322178088960)
 * [Bowwe vs Wordpress](https://bowwe.com/en/blog/alternative-to-wordpress)
 * [portfolio proyectos nocode hackers](https://www.nocodehackers.es/portfolio)
 * [How a Niche Resource Directory was created and sold in 1,5 months](https://www.nocode-exits.com/p/7-how-a-niche-resource-directory)
