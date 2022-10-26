@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [7 MVPs de productos digitales que puedes construir por menos de 50 €](https://twitter.com/macarlucho/status/1537020883621056513)
 * [8 tools #nocode que facilitan el emprendimiento](https://twitter.com/macarlucho/status/1546404455536623616)
 * [5 tools that will let you build your website without writing a single line of code](https://twitter.com/prathkum/status/1582312547033964544) TypeDream, EditorX, Carrd, WebFlow, Bubble
 * [Notion to Blog in minutes](https://feather.so/)
