@@ -48,6 +48,9 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [Chat y comunidades locales con FlutterFlow](https://twitter.com/victoruxui/status/1582497327662497793)
+* [Mini Google Translate nocode](https://twitter.com/victorn8n/status/1580059536391405568)
+* [n8n](https://n8n.io/) [Github repo](https://github.com/n8n-io/n8n) Automate without limits. The workflow automation platform that doesn't box you in, that you never outgrow.
 * [Landing page en Notion de consultoria](https://twitter.com/ossanchezo/status/1587834709182394368) Notion contenido, Stripe pago, Simple.ink para los embeds en Notion, y http://HostNotion.co para el dominio
 * [Introducing the new Airtable Connected Apps Platform](https://blog.airtable.com/building-custom-apps-in-airtable/)
 * [7 MVPs de productos digitales que puedes construir por menos de 50 €](https://twitter.com/macarlucho/status/1537020883621056513)
