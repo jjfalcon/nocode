@@ -48,6 +48,8 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [FlutterFlow, por donde comenzar?](https://twitter.com/desdejona/status/1585754336982077441) 
+  * [Curso FlutterFlow Español - Crear apps iOS & Android con Flutter](https://www.youtube.com/playlist?list=PLKb-0CTvLb9KOXKy_QuLh0PXj1atn3Xuk)
 * [Chat y comunidades locales con FlutterFlow](https://twitter.com/victoruxui/status/1582497327662497793)
 * [Mini Google Translate nocode](https://twitter.com/victorn8n/status/1580059536391405568)
 * [n8n](https://n8n.io/) [Github repo](https://github.com/n8n-io/n8n) Automate without limits. The workflow automation platform that doesn't box you in, that you never outgrow.
