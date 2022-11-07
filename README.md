@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [Como escalar NoCode]() Xano, Suoabase. Tu MVP puede funcionar excelente con Zapier pero a medida que escalas en clientes consumes mas zaps lo cual incrementa el precio demasiado haciendo a tu pequeño emprendimiento demasiado caro para el consumidor final y por lo cual nunca terminas de arrancar.
 * [6 apps that should come installed on @NotionHQ](https://twitter.com/heyeaslo/status/1588373013828870146)
 * [3 cosas cool que tiene @weweb_io](https://twitter.com/victoruxui/status/1588652270237151233)
 * [app de ventas con FlutterFlow](https://twitter.com/jorgesincodigo/status/1586882510465671170)
