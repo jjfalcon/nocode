@@ -48,6 +48,8 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [6 apps that should come installed on @NotionHQ](https://twitter.com/heyeaslo/status/1588373013828870146)
+* [3 cosas cool que tiene @weweb_io](https://twitter.com/victoruxui/status/1588652270237151233)
 * [app de ventas con FlutterFlow](https://twitter.com/jorgesincodigo/status/1586882510465671170)
 * [Build editor by FlutterFlow](https://community.flutterflow.io/c/show-your-work/full-website-editor-block-editor-built-in-flutterflow)
 * [Jem created by FlutterFlow](https://twitter.com/flutterflow/status/1588306579853832193) app (androiod, ios) connecting Independent Creators Locally and globally to each other.
