@@ -48,7 +48,8 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
-[ [Build editor by FlutterFlow](https://community.flutterflow.io/c/show-your-work/full-website-editor-block-editor-built-in-flutterflow)
+* [app de ventas con FlutterFlow](https://twitter.com/jorgesincodigo/status/1586882510465671170)
+* [Build editor by FlutterFlow](https://community.flutterflow.io/c/show-your-work/full-website-editor-block-editor-built-in-flutterflow)
 * [Jem created by FlutterFlow](https://twitter.com/flutterflow/status/1588306579853832193) app (androiod, ios) connecting Independent Creators Locally and globally to each other.
 * [FlutterFlow, por donde comenzar?](https://twitter.com/desdejona/status/1585754336982077441) 
   * [Curso FlutterFlow Español - Crear apps iOS & Android con Flutter](https://www.youtube.com/playlist?list=PLKb-0CTvLb9KOXKy_QuLh0PXj1atn3Xuk)
