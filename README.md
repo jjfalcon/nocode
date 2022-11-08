@@ -51,7 +51,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como escalar NoCode]() Xano, Suoabase. Tu MVP puede funcionar excelente con Zapier pero a medida que escalas en clientes consumes mas zaps lo cual incrementa el precio demasiado haciendo a tu pequeño emprendimiento demasiado caro para el consumidor final y por lo cual nunca terminas de arrancar.
 * [6 apps that should come installed on @NotionHQ](https://twitter.com/heyeaslo/status/1588373013828870146)
 * [3 cosas cool que tiene @weweb_io](https://twitter.com/victoruxui/status/1588652270237151233)
-* [app de ventas con FlutterFlow](https://twitter.com/jorgesincodigo/status/1586882510465671170)
+* [app de ventas con FlutterFlow](https://twitter.com/jorgesincodigo/status/1586882510465671170) [segunda parte](https://twitter.com/JorgeSinCodigo/status/1589689673471135744)
 * [Build editor by FlutterFlow](https://community.flutterflow.io/c/show-your-work/full-website-editor-block-editor-built-in-flutterflow)
 * [Jem created by FlutterFlow](https://twitter.com/flutterflow/status/1588306579853832193) app (androiod, ios) connecting Independent Creators Locally and globally to each other.
 * [FlutterFlow, por donde comenzar?](https://twitter.com/desdejona/status/1585754336982077441) 
