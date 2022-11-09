@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [Lanzamiento producto; The Dream Job Hub](https://twitter.com/ivanesro/status/1588225346486210560)
 * [Tutorial para crear tu portafolio en coda](https://coda.io/@stevedesignerd/portfolio-premium)
 * [AskNocode](https://asknocode.com/) es el stackoverflow del nocode
 * [From No-Code SaaS validation to acquisition](https://www.nocode-exits.com/p/from-no-code-saas-validation-to-acquisition)
