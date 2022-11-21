@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [NoCodeTrend #6 - Hacia el desarrollo visual](https://nocodehackers.substack.com/p/nocodetrend-6-hacia-el-desarrollo) Mejor que NoCode es DesarrolloVisual
 * [Popsy](https://popsy.co/) Website builder that works like Notion. Just start typing and create professional websites in seconds. Customize design and publish with no code.
 * [The 5 best FlutterFlow NoCode Apps](https://blog.lowcode.agency/the-5-best-flutterflow-no-code-apps/)
 * [Como pasar de wordpress a notion](https://twitter.com/lmfresneda/status/1592443336773730304)
