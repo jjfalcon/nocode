@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [Bublle Plugind editor](https://twitter.com/momen2288/status/1593330762694250496)
 * [clone Twitter in Bubble](https://twitter.com/nardospace/status/1591584950100594688)
 * [Lanzamiento producto; The Dream Job Hub](https://twitter.com/ivanesro/status/1588225346486210560)
 * [Tutorial para crear tu portafolio en coda](https://coda.io/@stevedesignerd/portfolio-premium)
