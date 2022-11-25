@@ -48,6 +48,11 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [Creando una app nativa en Bravostudio en 2 horas](https://www.youtube.com/watch?v=j4ZoYxjA7MA&ab_channel=Nocodehackers)
+* [I just sold a @bubble app to my university - built in 3 days!](https://twitter.com/prashantabbi/status/1595318205165187073
+* ) A Placement Portal that allows students to apply for jobs/internships when a company visits the campus
+* [Testimo](https://twitter.com/davizgarzia/status/1594400108963328002) es un micro SAAS de testimonios desarrollado en nocode
+* [Chrome extension to add LinkedIn profiles to Notion in one click](https://twitter.com/ben_issen/status/1594637521576681472)
 * [Aprende WebFlow en 15min clonando la home de Tesla](https://www.youtube.com/watch?v=N-fo9Drjuro)
 * [Create a no-code GPT3 writer app with @bubble and @openAI in 10 tweets](https://twitter.com/sethjkramer/status/1593663041538707456)  
 * [NoCodeTrend #6 - Hacia el desarrollo visual](https://nocodehackers.substack.com/p/nocodetrend-6-hacia-el-desarrollo) Mejor que NoCode es DesarrolloVisual
