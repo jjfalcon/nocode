@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [Vertex](https://www.vertex.io/) Build a scalable no-code backend and collaborative database admin as easily as a spreadsheet. Use our hosted option or bring your own Postgres database.
 * [Astria](https://www.strmr.com/) Tailor-made AI image generationStart creating your unique images
 * [Get your business online in 30 seconds](https://durable.co/) The AI-powered platform for solo business owners. Generate a website, automate your marketing, and manage your finances. Try it free.
 * [UN DIARIO DIGITAL GRATUITO Y MININALISTA EN LA WEB](https://wwwhatsnew.com/2022/11/26/un-diario-digital-gratuito-y-mininalista-en-la-web/)
