@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [UN DIARIO DIGITAL GRATUITO Y MININALISTA EN LA WEB](https://wwwhatsnew.com/2022/11/26/un-diario-digital-gratuito-y-mininalista-en-la-web/)
 * [#14 No-Code Excel Formula Bot with 3.3K MRR](https://www.nocode-exits.com/p/14-no-code-excel-formula-bot-with)
 * [PWA WeWeb generada automaticamente](https://docs.weweb.io/progressive-web-application/) ¿sabias que weweb  te genera una aplicación web progresiva automáticamente?
 * [Todo APP con weweb](https://twitter.com/victoruxui/status/1595534269136666624)
