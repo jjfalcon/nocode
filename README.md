@@ -48,7 +48,9 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
-* [ Gano casi 100.000 euros al año anuales](https://www.businessinsider.es/gano-casi-100000-euros-ano-mi-tienda-etsy-estos-son-trucos-1157863) vendiendo en Etsy planificadores imprimibles y digitales: así hice que mi tienda funcionase prácticamente sola
+* [Tutorial FlutterFlow](https://twitter.com/jorgesincodigo/status/1597671832366514178) [video youtube](https://www.youtube.com/watch?v=Wc5OBu6PaKQ&ab_channel=SinCodigo)
+* [Componente para mapas en FlutterFlow](https://twitter.com/_luisportal/status/1596224078062399488)
+* [Gano casi 100.000 euros al año anuales](https://www.businessinsider.es/gano-casi-100000-euros-ano-mi-tienda-etsy-estos-son-trucos-1157863) vendiendo en Etsy planificadores imprimibles y digitales: así hice que mi tienda funcionase prácticamente sola
 * [Vertex](https://www.vertex.io/) Build a scalable no-code backend and collaborative database admin as easily as a spreadsheet. Use our hosted option or bring your own Postgres database.
 * [Astria](https://www.strmr.com/) Tailor-made AI image generationStart creating your unique images
 * [Get your business online in 30 seconds](https://durable.co/) The AI-powered platform for solo business owners. Generate a website, automate your marketing, and manage your finances. Try it free.
