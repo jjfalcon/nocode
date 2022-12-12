@@ -48,6 +48,12 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [No code Workshop](https://www.nocodehackers.es/no-code-workshop) Comienza tu carrera en no code construyendo 5 proyectos reales para tu portafolio junto a los mejores instructores del sector
+  * Landing web para tu startup (Carrd) página web que te sirva como lugar para presentar tu proyecto al mundo
+  * Directorio de recursos (Notion, Coda, AirTable) 
+  * CRM con automatizaciones (Zapier) enviando emails con respuestas automáticas.
+  * App móvil (Glide) que muestra los restaurantes de tu ciudad
+  * Marketplace (Web con membresias) para freelancers
 * [Steampipe](https://hub.steampipe.io/mods/turbot/aws_insights) Open source dashboards for AWS
 * [Build an AI-powered app without writing code, in 5 mins](https://twitter.com/bentossell/status/1597952646232821760)
 * [How I launched my no-code app with Bravo Studio: The Story of Voda App](https://www.bravostudio.app/post/no-code-app-bravo-studio) The story of a London-based app creator who used Bravo to turn their app idea into a reality
