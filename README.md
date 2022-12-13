@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [Template app en @flutterflow para que puedan registrar asistencias de estudiantes en las clases](https://twitter.com/_luisportal/status/1602358207678218240) 
 * [Charts & Reports Extension](https://airtable.com/marketplace/blkwmujNx6HUqfnE0/charts-and-reports-data-fetcher) Visualize your base data with charts & graphs, download as PDF and schedule email reports.
 * [No code Workshop](https://www.nocodehackers.es/no-code-workshop) Comienza tu carrera en no code construyendo 5 proyectos reales para tu portafolio junto a los mejores instructores del sector
   * Landing web para tu startup (Carrd) página web que te sirva como lugar para presentar tu proyecto al mundo
