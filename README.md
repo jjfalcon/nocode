@@ -48,6 +48,17 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [10 cursos gratuitos de nocode](https://twitter.com/nocodehackers/status/1555131477754408962)  
+  * [introduccion a nocode](https://www.nocodehackers.es/cursos/construye-tus-ideas-con-no-code)
+  * [construye una startup sin ser programador](https://www.nocodehackers.es/crea-una-startup-sin-ser-programador)
+  * [de idea a web en 1 semana con Webflow](https://www.nocodehackers.es/de-0-a-web)
+  * [introducción a Figma](https://www.nocodehackers.es/cursos/figma-para-makers-essential-tips)
+  * [crea una web con Framer](https://www.nocodehackers.es/cursos/framer-sites-tu-web-en-minutos-sin-codigo)
+  * [aprende lo basico de Airtable](https://www.nocodehackers.es/cursos/curso-de-introduccion-airtable)
+  * [aprende Zapier en una hora](https://www.nocodehackers.es/cursos/curso-de-zapier)
+  * [crea un dashboard para tu negocio sin codigo](https://www.nocodehackers.es/cursos/construye-un-dashboard-para-tu-negocio-sin-codigo)
+  * [conecta todo con Notion y Zapier](https://www.nocodehackers.es/cursos/conecta-todo-con-notion-y-zapier)
+  * [Filtra en Webflow con F'insweet](https://www.nocodehackers.es/cursos/filtra-en-webflow-con-los-atributos-de-finsweet)
 * [Template app en @flutterflow para que puedan registrar asistencias de estudiantes en las clases](https://twitter.com/_luisportal/status/1602358207678218240) 
 * [Charts & Reports Extension](https://airtable.com/marketplace/blkwmujNx6HUqfnE0/charts-and-reports-data-fetcher) Visualize your base data with charts & graphs, download as PDF and schedule email reports.
 * [No code Workshop](https://www.nocodehackers.es/no-code-workshop) Comienza tu carrera en no code construyendo 5 proyectos reales para tu portafolio junto a los mejores instructores del sector
