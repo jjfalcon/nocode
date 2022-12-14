@@ -48,6 +48,9 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [app Bubble JoinReady](https://www.joinready.com/) CRM de freelancers
+* [app Bubble Baiky](https://izibizi.bubbleapps.io/version-test) Marketplace creado para bicicletas MTB seminuevas
+* [app Bubble HubRoom](https://habroomfinal.bubbleapps.io/version-test) plataforma web para alquilar y buscar habitaciones amobladas de modalidad Roommate en Lima.
 * [10 cursos gratuitos de nocode](https://twitter.com/nocodehackers/status/1555131477754408962)  
   * [introduccion a nocode](https://www.nocodehackers.es/cursos/construye-tus-ideas-con-no-code)
   * [construye una startup sin ser programador](https://www.nocodehackers.es/crea-una-startup-sin-ser-programador)
