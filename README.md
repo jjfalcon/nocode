@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [Favorite tools as a web developer](https://twitter.com/csaba_kissi/status/1606193358589902848)
 * [nocode caso de exito](https://nocodeexits.substack.com/p/20-money-tracking-app-with-500-mrr>)
 * [La Colmena Gastronomica](https://lacomenagastronomica.flutterflow.app/menu2) app FlutterFlow
 * [Caso de exito con WebFlow](https://twitter.com/mattvaru/status/1601284177067794437)
