@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [How to Build Your Own SaaS – PagerDuty Clone](https://www.freecodecamp.org/news/how-to-build-your-own-saas-pagerduty-clone/)
 * [Herramientas usadas en MultiVersial](https://www.linkedin.com/posts/activity-7012367513917239296-ULQY)
 * [Favorite tools as a web developer](https://twitter.com/csaba_kissi/status/1606193358589902848)
 * [nocode caso de exito](https://nocodeexits.substack.com/p/20-money-tracking-app-with-500-mrr>)
