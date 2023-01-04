@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [Más de 150 herramientas digitales para emprendedores y empresarios](https://www.negociosyemprendimiento.org/2020/06/herramientas-digitales-emprendedores.html)
 * [app de comida con QR](https://twitter.com/lowcodemakers/status/1608568455300812802)
 * [Idea de proyecto ChatBot estilo Siri con CahtGPT](https://twitter.com/biz84/status/1607634100784959488)
 * [Brancher AI](https://www.brancher.ai/) Connect AI models to build powerful apps  — without code. The next generation of AI-powered apps will be built by you.
