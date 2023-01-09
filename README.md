@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [Milk Road: From 0 to Acquisition in 10 months](https://blog.beehiiv.com/p/milk-road-newsletter-acquisition) How Milk Road scaled to over 250,000 subscribers and got acquired, in under a year.
 * [Dearrolla apps nativas 10x más rápido con Flutterflow](https://www.nocodehackers.es/flutterflow-camp-desarrolla-apps-profesionales)
 * [Más de 150 herramientas digitales para emprendedores y empresarios](https://www.negociosyemprendimiento.org/2020/06/herramientas-digitales-emprendedores.html)
 * [app de comida con QR](https://twitter.com/lowcodemakers/status/1608568455300812802)
