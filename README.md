@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [Google AppSheet Tutorial for Non-Technical Citizen Developers](https://dzone.com/articles/google-appsheet-tutorial-for-non-technical-citizen) No-code is a way to quickly build web applications with little to no technical knowledge. This Google AppSheet tutorial will show you how.
 * [10 predicciones para el No-code en 2023](https://nocodehackers.substack.com/p/126-10-predicciones-para-el-no-code) FlutterFlow, WebFlow, Freelancers, Framer, Desarrollo Visual, Herramientas internas, Bubble, Notion Architecs, Intraemprendimiento, Product/Maker
 * [Milk Road: From 0 to Acquisition in 10 months](https://blog.beehiiv.com/p/milk-road-newsletter-acquisition) How Milk Road scaled to over 250,000 subscribers and got acquired, in under a year.
 * [Dearrolla apps nativas 10x más rápido con Flutterflow](https://www.nocodehackers.es/flutterflow-camp-desarrolla-apps-profesionales)
