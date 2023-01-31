@@ -48,6 +48,12 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [Anyone can start a business for $0](https://twitter.com/iampascio/status/1620044164946890754)
+  * Anyone can be a designer — Use @canva
+  * Anyone can be a salesman — Use @gumroad
+  * Anyone can be a copywriter — Use @copy_ai
+  * Anyone can be a manager — Use @NotionHQ
+  * Anyone can be a developer — Use @typedreamhq
 * [Las herramientas no-code que aprendería si volviera a empezar](https://nocodehackers.substack.com/p/128-las-herramientas-no-code-que) Una edición especial para guiarte por las herramientas más interesantes en 2023
 * [Caso exito MakerPad](https://nocodeexits.substack.com/p/from-nocode-side-project-to-zapier)
 * [Google AppSheet Tutorial for Non-Technical Citizen Developers](https://dzone.com/articles/google-appsheet-tutorial-for-non-technical-citizen) No-code is a way to quickly build web applications with little to no technical knowledge. This Google AppSheet tutorial will show you how.
