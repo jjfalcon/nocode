@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [Notion to Blog in minutes](https://feather.so/) Write your content on Notion and automatically publish it to your SEO-friendly blog – No coding or design skills required.
 * [casos de uso específicos del NoCode TOTALMENTE GRATUITO](https://twitter.com/sharingaway/status/1626553566604173313)
 * [caso de exito: funny viral hit](https://nocodeexits.substack.com/p/funny-viral-hit-with-17m-users)
 * [Anyone can start a business for $0](https://twitter.com/iampascio/status/1620044164946890754)
