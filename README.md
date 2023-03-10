@@ -47,7 +47,10 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 ## 10 MEJORES RECURSOS
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
-## TODO
+## ODO
+* [stack mínimo para montar un negocio de suscripción low-cost, sólido y escalable](https://twitter.com/boscosoler/status/1630583402284961797) Stripe + Airtable + Zapier 
+]
+* [learn Notion for free](https://twitter.com/heyeaslo/status/1630394171373527041)
 * [WeWeb](https://www.weweb.io//) is a no-code front-end builder that you can use to build on-top of any back-end.
 * [100 ideas de procesos automatizables](https://automatistas.com/ideas)
 * [Comunidades ‘No Code’ para aprender a crear tus propias apps sin programar](https://hipertextual.com/2023/02/comunidades-no-code)
