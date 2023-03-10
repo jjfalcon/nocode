@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [Let's build a fully automated DTC e-commerce brand using nothing but Jotform, Zapier, Airtable, Tweetpik, and Printify ](https://twitter.com/nocodedevs/status/1631021926138142728)
 * [Patrocify: ¿Cómo vender un side-project sin código?](https://nocodehackers.substack.com/p/132-patrocify-como-vender-un-side)
 * [Notion to Blog in minutes](https://feather.so/) Write your content on Notion and automatically publish it to your SEO-friendly blog – No coding or design skills required.
 * [casos de uso específicos del NoCode TOTALMENTE GRATUITO](https://twitter.com/sharingaway/status/1626553566604173313)
