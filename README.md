@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [Como vender una idea en internet con no-code, usando Notion y un link de pago](https://www.youtube.com/watch?v=VS5GglR3Z6A&ab_channel=Creala)
 * [How to use Notion as a Second Brain (7 ways)](https://twitter.com/heyeaslo/status/1635460742072926212)
 * [From 0 to 5-figure exit in 2 months](https://nocodeexits.substack.com/p/from-0-to-5-figure-exit-in-2-months) The No-Code Exit Story of Domenico & One Tap
 * [web app de granja escuela con @glideapps](https://twitter.com/ataecina/status/1636062786504540162)
