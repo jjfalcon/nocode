@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [From 0 to 5-figure exit in 2 months](https://nocodeexits.substack.com/p/from-0-to-5-figure-exit-in-2-months) The No-Code Exit Story of Domenico & One Tap
 * [web app de granja escuela con @glideapps](https://twitter.com/ataecina/status/1636062786504540162)
 * [Cuenta cuentos Bubble, OpenAI, Google](https://twitter.com/breadandwaters/status/1610674384183693312)
 * [stack mínimo para montar un negocio de suscripción low-cost, sólido y escalable](https://twitter.com/boscosoler/status/1630583402284961797) Stripe + Airtable + Zapier
