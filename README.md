@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [ how to build a Second Brain with Notion](https://twitter.com/heyeaslo/status/1622960835676217345)
 * [SMS Habit Tracker with 52 paying users](https://nocodeexits.substack.com/p/sms-habit-tracker-with-52-paying) The No-Code Success Story of Kyleigh and Harold the Habit Tracker
 * [¿Cómo se empieza en el No-code?](https://nocodehackers.substack.com/p/131-como-se-empieza-en-el-no-code)
 * [Como vender una idea en internet con no-code, usando Notion y un link de pago](https://www.youtube.com/watch?v=VS5GglR3Z6A&ab_channel=Creala)
