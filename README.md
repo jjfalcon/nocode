@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [Introducing Bubble’s New Version Control](https://bubble.io/blog/new-version-control/) Unlock more efficient collaboration with guided merge flows, branch tree visualizations, and new branch types.
 * [Bubble lanza control de versiones](https://twitter.com/bubble/status/1641102407315886081)
 * [WeWeb](https://www.weweb.io/) Build production-grade applications 10x faster
 * [CREA UN CHATBOT EN 10 MINUTOS (CON LANDBOT)](https://www.youtube.com/watch?v=kQkMeFaSaO8&ab_channel=Nocodehackers)
