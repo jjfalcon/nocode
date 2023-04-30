@@ -5,7 +5,7 @@ Estas herramientas permiten realizar desarrollos rápidos, flexibles, por person
 El uso se orienta a validar ideas de forma rápida (lean startup), desarollos internos [Nocode operations](https://community.nocodedevs.com/c/news-and-annoucements/what-is-no-code-operations), desarrollo de mvps, y etc.
 
 * [¿Que necesito para crear proyectos end to end sin programar?](https://twitter.com/pab_sharingaway/status/1441384713675968519?s=27)
-
+* [Gana tu primer € Online](https://nocodehackersebook.framer.website/) Con este e-book aprenderás a convertir tus ideas en proyectos reales, y ganar tus primeros euros online
 * [Recursos NoCode en español](https://www.notion.so/Recursos-Comunidad-No-Code-en-espa-ol-16e78fa58d62474e8ec44189316894a6)
 ![Listado de herramientas](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fde214e5f-eaa0-44e0-8a21-6213269135d6%2F511EB886-1F23-4542-A874-6ECA2F7191BF.jpeg?table=block&id=5c352d8a-1a19-4c8c-9fe5-14da4062b4d7&width=2560&userId=c141d9cc-7b14-4104-94f0-0dd4e9589b1d&cache=v2)
 
@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [Sofr](https://www.softr.io/data-sources/google-sheets) Build custom web apps on top of your Google Sheets data — no coding needed
 * [Introducing Bubble’s New Version Control](https://bubble.io/blog/new-version-control/) Unlock more efficient collaboration with guided merge flows, branch tree visualizations, and new branch types.
 * [Bubble lanza control de versiones](https://twitter.com/bubble/status/1641102407315886081)
 * [WeWeb](https://www.weweb.io/) Build production-grade applications 10x faster
