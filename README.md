@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [organizar tiempo con notion](https://www.technologyreview.com/2023/04/25/1072148/meet-the-people-using-notion-to-plan-their-whole-lives/)
 * [Introducción a Weweb - Cómo crear apps escalables sin saber programar](https://www.youtube.com/watch?v=ofMIA-HeDeY&ab_channel=VisualDevs)
 * [Sofr](https://www.softr.io/data-sources/google-sheets) Build custom web apps on top of your Google Sheets data — no coding needed
 * [Introducing Bubble’s New Version Control](https://bubble.io/blog/new-version-control/) Unlock more efficient collaboration with guided merge flows, branch tree visualizations, and new branch types.
