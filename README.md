@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [We are building The University of No-code (a tutorial directory) using  @softr_io and @airtable](https://twitter.com/100daysnocode/status/1654525199021387778)
 * [fastgen](https://fastgen.com/) Build scalable backends workflows automations APIs backends astonishingly fast. Create alerts, automate reporting and never miss out on any event.
 * [organizar tiempo con notion](https://www.technologyreview.com/2023/04/25/1072148/meet-the-people-using-notion-to-plan-their-whole-lives/)
 * [Introducción a Weweb - Cómo crear apps escalables sin saber programar](https://www.youtube.com/watch?v=ofMIA-HeDeY&ab_channel=VisualDevs)
