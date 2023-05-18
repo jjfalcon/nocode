@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [4 motivos por los que deberías utilizar Notion cada día](https://www.elespanol.com/elandroidelibre/aplicaciones/20230507/motivos-deberias-utilizar-notion-dia/739676082_0.html) Notion es una de las mejores plataformas que existen en Android, y te contamos algunos motivos por los que debería ser imprescindible en tu smartphone o tablet.
 * [webcat](https://webcat.app/) Unlock your team’s potential. Build web sites/apps 10x faster by working smarter with the help of AI
 * [Aprende a usar Notion como un experto con estos cinco canales de YouTube](https://www.genbeta.com/a-fondo/aprende-a-usar-notion-como-experto-estos-cinco-canales-youtube)
 * [Freelancer Dashboard in @NotionHQ](https://twitter.com/heyeaslo/status/1656841646015909889)
