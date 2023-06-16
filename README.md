@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [Flet](https://flet.dev/) The fastest way to build Flutter apps in Python. Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 * [toddle](https://toddle.dev/pricing?payment-period=monthly) Start building your web app for free — upgrade as you scale! 
 * [Make any form in minutes](https://www.fillout.com/) Create powerful forms, surveys and quizzes your audience will answer.
 * [Marie Martens - How We Bootstrapped Tally to $50k MRR with Team of 2](https://www.youtube.com/watch?v=70uUNfpnWuI&ab_channel=NathanLatka)
