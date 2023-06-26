@@ -48,6 +48,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 
 ## TODO
+* [Portfolio de proyectos personal](https://gabosca.notion.site/gabosca/Gabriel-Salazar-Portafolio-069f02ef9f4f44a2999dfcfd2bcca545) Interesante detalle de cada proyecto (descripcion, beneficios)
 * [Cómo crear una app sin código con Flutterflow](https://www.youtube.com/watch?v=k9GLfq0CH9g&ab_channel=Nocodehackers)
 * [Notion en Españoñ](https://e.customeriomail.com/deliveries/dgTv2AUDAKKOqQGhjqkBAYfClgaZ_0davkJdWzHptg==)
 * [Flet](https://flet.dev/) The fastest way to build Flutter apps in Python. Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
