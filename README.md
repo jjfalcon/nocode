@@ -46,6 +46,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 
 ## 10 MEJORES RECURSOS
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
+* [Crea una web con Framet AI en 1 minuto](https://www.youtube.com/watch?v=1vhMV3DwPGU&ab_channel=Nocodehackers)
 
 ## TODO
 * [Portfolio de proyectos personal](https://gabosca.notion.site/gabosca/Gabriel-Salazar-Portafolio-069f02ef9f4f44a2999dfcfd2bcca545) Interesante detalle de cada proyecto (descripcion, beneficios)
