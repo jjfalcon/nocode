@@ -49,7 +49,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Crea una web con Framet AI en 1 minuto](https://www.youtube.com/watch?v=1vhMV3DwPGU&ab_channel=Nocodehackers)
 
 ## TODO
-* [VisualWorks](https://visualworks.io/) Agencia Nocode
+* [VisualWorks](https://visualworks.io/) Agencia Nocode UX/UI Design Service by Subscription
 * [An AI-powered @glideapps app built in a few hours, without a line of code](https://twitter.com/nocodedevs/status/1674202542333386754)
 * [Notion Templates](https://www.notion.so/templates) más de 5000 plantillas
 * [Portfolio de proyectos personal](https://gabosca.notion.site/gabosca/Gabriel-Salazar-Portafolio-069f02ef9f4f44a2999dfcfd2bcca545) Interesante detalle de cada proyecto (descripcion, beneficios)
