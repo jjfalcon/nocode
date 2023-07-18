@@ -49,6 +49,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Crea una web con Framet AI en 1 minuto](https://www.youtube.com/watch?v=1vhMV3DwPGU&ab_channel=Nocodehackers)
 
 ## TODO
+* [getSparks](https://wwwhatsnew.com/2023/07/18/getsparks-una-nueva-forma-de-organizar-nuestro-contenido-en-internet/) una nueva forma de organizar nuestro contenido en Internet. Una pena que esta limitado. Mejor Notion
 * [FliterFlow University](https://twitter.com/flutterflow/status/1678773757828288524) [YouTube](https://www.youtube.com/playlist?list=PLsUp7t2vRqx-xMe6gucpfjeDgIj0tJRIm)
 * [VisualWorks](https://visualworks.io/) Agencia Nocode UX/UI Design Service by Subscription
 * [An AI-powered @glideapps app built in a few hours, without a line of code](https://twitter.com/nocodedevs/status/1674202542333386754)
