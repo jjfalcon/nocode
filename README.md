@@ -49,6 +49,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Crea una web con Framet AI en 1 minuto](https://www.youtube.com/watch?v=1vhMV3DwPGU&ab_channel=Nocodehackers)
 
 ## TODO
+* [anytype.io](https://anytype.io/) la alternativa Notion. the everything app for those who celebrate trust & autonomy
 * [Your finances & invoices powered by Notion](https://magicbeans.app/)
 * [Shopify sidekick](https://twitter.com/tobi/status/1679114154756669441)
 * [Qué es y cómo usar Canva](https://www.businessinsider.es/como-usar-canva-1272660)
