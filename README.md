@@ -49,6 +49,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Crea una web con Framet AI en 1 minuto](https://www.youtube.com/watch?v=1vhMV3DwPGU&ab_channel=Nocodehackers)
 
 ## TODO
+* [Introduccion a Flutterflow: Crea tu primera app](https://nocodehackers.podia.com/d8875593-7a81-45c1-93b6-9228a5798bad)
 * [10 No-Code tools for startups](https://twitter.com/shedntcare_/status/1687171823220490240)
 * [Notion Second Brain](https://www.notionsecondbrain.com/) Get Your Life Organized with a Second Brain
 * [Embed toddle components in Typedream](https://www.youtube.com/watch?v=AY8GfAoNLW8&ab_channel=toddle)
