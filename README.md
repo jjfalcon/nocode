@@ -49,6 +49,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Crea una web con Framet AI en 1 minuto](https://www.youtube.com/watch?v=1vhMV3DwPGU&ab_channel=Nocodehackers)
 
 ## TODO
+* [webflow vs framer](https://nocodehackers.substack.com/p/154-webflow-vs-framer-y-vente-a-ver)
 * [Build and share AI apps with no-code](https://www.typeblock.co/)
 * [srnotion](https://srnotion.com/) Plantillas para aumentar tu productividad
 * [How to get rich in 2023: All you need is no code](https://twitter.com/slow_developer/status/1684611649439961088)
