@@ -45,6 +45,10 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Nocode landscape map](https://twitter.com/nocodedevs/status/1406769422073741312?s=27)
 
 ## 10 MEJORES RECURSOS
+* [Las 8 tendencias del No-code en 2024](https://nocodehackers.substack.com/p/164-las-8-tendencias-del-no-code) Una reflexión de lo que va a pasar con el ecosistema No-code y las herramientas que deberías estar aprendiento.
+  * Framer para desarrollar webs sencillas, desarrollo rapido y mas facil que WebFlow
+  * WeWeb para desarrollar WebApss, mejor que Bubble para evitar lockin y conectividad con cualquier backend.
+  * FlutterFlos para desarrollar Apps Nativas conectados a distintos backends.
 * [Como construir una startup sin ser programador](https://nocodehackers.podia.com/view/courses/construye-una-startup-sin-ser-programador) curso que te enseña paso a paso como lanzar una startup IT
 * [Crea una web con Framet AI en 1 minuto](https://www.youtube.com/watch?v=1vhMV3DwPGU&ab_channel=Nocodehackers)
 
