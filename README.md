@@ -53,6 +53,7 @@ El uso se orienta a validar ideas de forma rápida (lean startup), desarollos in
 * [Crea una web con Framet AI en 1 minuto](https://www.youtube.com/watch?v=1vhMV3DwPGU&ab_channel=Nocodehackers)
 
 ## TODO
+* [8 No-Code tools for startups](https://twitter.com/shedntcare_/status/1737702387312464379)
 * [How Chad built a No-Code startup with 2.5 million revenue](https://nocodeexits.substack.com/p/how-chad-built-a-no-code-startup) The No-Code Success Story of Chad Sakonchick and Better Legal
 * [Zapier Interfaces te permite crear Chatbot, formularios, CRM, Hub de clientes y lo que quieres](https://twitter.com/jramonvergara/status/1717907451268243539)
 * [webflow vs framer](https://nocodehackers.substack.com/p/154-webflow-vs-framer-y-vente-a-ver)
