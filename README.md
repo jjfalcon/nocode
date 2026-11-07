@@ -786,6 +786,7 @@ Own Your Content · Share Ideas
 
 ### Otros
 * [Reactive Resume](https://rxresu.me/)  A free and open source resume builder. Alternatives: @canva, flowcv.io, 
+* [ResumeInvited](https://resumeinvited.com/) Free browser-based resume builder with live preview and PDF or editable Word export without an account.
 * [Cookiehub](https://www.cookiehub.com/) Aviso Cookies, free para 25k/mes
 * [Anima](https://www.animaapp.com/) Design to Code, Automated. Create High-Fidelity Prototypes in Sketch, XD, or Figma, and Export HTML. Available for Sketch, XD & Figma
 * [SwipePages](https://wwwhatsnew.com/2020/10/15/swipepages-para-crear-webs-para-moviles-sin-programar-nada/) para crear webs para moviles sin programar
